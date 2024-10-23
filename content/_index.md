@@ -1,7 +1,9 @@
 ---
-title: ReproNIM
+title: 'ReproNIM: A Center for Reproducible Neuroimaging Computation'
 toc: false
 ---
+
+
 
 ## Vision:
 

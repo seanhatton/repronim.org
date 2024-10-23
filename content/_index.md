@@ -1,17 +1,17 @@
 ---
-title: My Site
+title: ReproNIM
 toc: false
 ---
 
-This is the landing page.
+## Vision:
 
-## Explore
+All neuroimaging is reproducible neuroimaging
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
+## Mission:
 
-## Documentation
+To deliver effective tools, training and principles to the neuroimaging community to support the entire neuroimaging workflow for rigorous, reproducible and FAIR neuroimaging
+
+
+## THEME Documentation
 
 For more information, visit [Hextra](https://imfing.github.io/hextra).

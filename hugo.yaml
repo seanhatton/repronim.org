@@ -18,14 +18,17 @@ markup:
 
 menu:
   main:
+    # - name: demo-docs
+    #   pageRef: /docs
+    #   weight: 1
     - name: About
       pageRef: /about
-      weight: 1
+      weight: 2
     - name: Resources
       pageRef: /resources
       weight: 3
     - name: Participate
-      pageRef: /guide
+      pageRef: /participate
       weight: 7
     - name: Help
       pageRef: /help

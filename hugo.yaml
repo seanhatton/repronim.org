@@ -50,8 +50,11 @@ menu:
 
 params:
   navbar:
-    displayTitle: true
-    displayLogo: false
+    displayTitle: ReproNIM
+    displayLogo: true
+    logo:
+      path: images/logo-square-256.png
+      width: 50 
 
   footer:
     displayCopyright: false
@@ -60,3 +63,8 @@ params:
   editURL:
     enable: true
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+
+  theme:
+    # light | dark | system
+    default: light
+    displayToggle: true

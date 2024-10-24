@@ -22,16 +22,16 @@ menu:
     #   pageRef: /docs
     #   weight: 1
     - name: About
-      pageRef: /about
+      pageRef: /about/index.html
       weight: 2
     - name: Resources
-      pageRef: /resources
+      pageRef: /resources/index.html
       weight: 3
     - name: Participate
-      pageRef: /participate
+      pageRef: /participate/index.html
       weight: 7
     - name: Help
-      pageRef: /help
+      pageRef: /help/index.html
       weight: 15
     # - name: Contact ↗
     #   url: "https://github.com/imfing"

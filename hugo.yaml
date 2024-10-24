@@ -71,3 +71,8 @@ params:
     # light | dark | system
     default: light
     displayToggle: true
+
+deployment:
+    targets:
+        name: public
+        URL: s3://dev.repronim.org

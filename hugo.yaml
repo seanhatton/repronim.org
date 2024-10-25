@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: ReproNIM
+title: ReproNim
 
 # import hextra as module
 module:
@@ -53,7 +53,7 @@ menu:
 
 params:
   navbar:
-    displayTitle: ReproNIM
+    displayTitle: ReproNim
     displayLogo: true
     logo:
       path: images/logo-square-256.png

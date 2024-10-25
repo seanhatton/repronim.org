@@ -1,5 +1,5 @@
 ---
-title: ReproNIM Guide
+title: ReproNim Guide
 type: resources
 ---
 

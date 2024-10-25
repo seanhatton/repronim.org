@@ -5,7 +5,7 @@ type: docs
 weight: 1
 ---
 
-## ReproNIM Best Practices
+## ReproNim Best Practices
 
 1. Proper planning:
     1. See:  Reproducible Results

@@ -8,7 +8,7 @@ type: about
 - What does ReproNim offer:  Educate and enable individual researchers, imaging centers and students on why reproducible neuroimaging is important and how to do it through principles, tools and training.
 - Who we are: how are we organized/governed → TRD’s
     - Staff + linked profiles
-    - EAB: https://www.repronim.org/eab.html
+    - [External Advisory Board](eab/index.html)
     - Collaborator:  Link to collaborator page
 - Grant Support (could also go in footer)
 - Where have we been/where are we going?  History of ReproNim and the ReproNim Roadmap

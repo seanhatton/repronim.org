@@ -15,11 +15,11 @@ To deliver effective tools, training and principles to the neuroimaging communit
 
 
 {{< cards cols="3" >}}
-{{< card link="/guide" title="Guide" image="/images/tmp.png" subtitle="ReproNIM Guide" >}}
-{{< card link="/resources/getting-started" title="Getting Started" image="/images/tmp.png" subtitle="Getting Started with ReproNIM" >}}
-{{< card link="/spotlight" title="Spotlight" image="/images/tmp.png" subtitle="Community Spotlight and News" >}}
-{{< card link="/fellowship" title="Guide" image="/images/tmp.png" subtitle="ReproNIM Fellowship Program" >}}
-{{< card link="/why" title="Why" image="/images/tmp.png" subtitle="Why Reproducible Neuroimaging" >}}
+{{< card link="/guide/index.html" title="Guide" image="/images/tmp.png" subtitle="ReproNIM Guide" >}}
+{{< card link="/getting-started/index.html" title="Getting Started" image="/images/tmp.png" subtitle="Getting Started with ReproNIM" >}}
+{{< card link="/fellowship/index.html" title="Fellowship" image="/images/tmp.png" subtitle="ReproNIM Fellowship Program" >}}
+{{< card link="/community/index.html" title="Community" image="/images/tmp.png" subtitle="Community Spotlight and News" >}}
+{{< card link="/why-reproducible-neuroimaging/index.html" title="Why" image="/images/tmp.png" subtitle="Why Reproducible Neuroimaging" >}}
 {{< /cards >}}
 
 ## THEME Documentation

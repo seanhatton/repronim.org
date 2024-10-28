@@ -21,7 +21,3 @@ To deliver effective tools, training and principles to the neuroimaging communit
 {{< card link="/community/index.html" title="Community" image="/images/tmp.png" subtitle="Community Spotlight and News" >}}
 {{< card link="/why-reproducible-neuroimaging/index.html" title="Why" image="/images/tmp.png" subtitle="Why Reproducible Neuroimaging" >}}
 {{< /cards >}}
-
-## THEME Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).

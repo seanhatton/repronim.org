@@ -4,8 +4,6 @@ prev: /resources
 weight: 2
 ---
 
-this is the index page for getting started
-
 ## Introduction
 
 ### The ReproNim philosophy

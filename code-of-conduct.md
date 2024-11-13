@@ -1,9 +1,9 @@
 # Code of Conduct
 
 The ReproNIM orginization is dedicated to providing an environment where people are kind and respectful to each other, a harassment-free learning experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
-We do not tolerate harassment of event participants in any form.
-Sexual language and imagery is not appropriate for any event venue, including talks.
-Participants violating these rules may be sanctioned or expelled from the lecture at the discretion of the organizers.
+We do not tolerate harassment in any form.
+Sexual language and imagery is not appropriate for any ReproNIM event, including meetings, workshops, and online forums.
+Participants violating these rules may be sanctioned or expelled from participation in the group at the discretion of the organizers.
 
 ### Harrassment
 
@@ -56,9 +56,9 @@ This means being open to learning from and educating others, as well as educatin
 ## **Enforcement**
 
 Participants asked to stop any harassing behavior are expected to comply immediately.
-Organizers and presenters are also subject to the anti-harassment policy.
+Organizers and staff are also subject to the anti-harassment policy.
 In particular, they should not use sexualized images, activities, or other material.
-Event organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
+Organizers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
 
 ## **Reporting**
 

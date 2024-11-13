@@ -1,10 +1,9 @@
 # Code of Conduct
 
-Hello 👋,
-
-this workshop is dedicated to providing an environment where people are kind and respectful to each other, a harassment-free learning experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate for any event venue, including talks. Participants violating these rules may be sanctioned or expelled from the lecture at the discretion of the organizers.
-
-This could really be the end of that code of conduct, but some forms of harassment and negative behavior are fairly hard to identify at first. Please read carefully through the rest of the document to make sure you avoid them. There is also a section to know what to do and expect if you experience behavior that deviates from this code of conduct.
+The ReproNIM orginization is dedicated to providing an environment where people are kind and respectful to each other, a harassment-free learning experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
+We do not tolerate harassment of event participants in any form.
+Sexual language and imagery is not appropriate for any event venue, including talks.
+Participants violating these rules may be sanctioned or expelled from the lecture at the discretion of the organizers.
 
 Harassment includes, but _is not limited to_:
 ⛔ Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
@@ -17,7 +16,10 @@ Harassment includes, but _is not limited to_:
 ⛔ Unwelcome sexual attention
 
 ### *Microaggressions*
-Incidents can take the form of “microaggressions,” which is a damaging form of harassment. Microaggressions are the everyday slights or insults which communicate negative messages to target individuals, often based upon their marginalized group membership. Over time, microaggressions can take a great toll on mental and emotional health, and the target’s feeling of belonging in science and academia. The following examples can all be labeled micro-aggressions:
+Incidents can take the form of “microaggressions,” which is a damaging form of harassment.
+Microaggressions are the everyday slights or insults which communicate negative messages to target individuals, often based upon their marginalized group membership.
+Over time, microaggressions can take a great toll on mental and emotional health, and the target’s feeling of belonging in science and academia.
+The following examples can all be labeled micro-aggressions:
 ⛔ Commenting on a woman’s appearance rather than her work;
 ⛔ Only directing questions at male colleagues when there are female experts in the room;
 ⛔ Telling someone of colour that they “speak such good English”;

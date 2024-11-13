@@ -6,20 +6,22 @@ Sexual language and imagery is not appropriate for any event venue, including ta
 Participants violating these rules may be sanctioned or expelled from the lecture at the discretion of the organizers.
 
 Harassment includes, but _is not limited to_:
-⛔ Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
-⛔ Sexual images in public spaces
-⛔ Deliberate intimidation, stalking, or following
-⛔ Harassing photography or recording
-⛔ Sustained disruption of talks or other events
-⛔ Inappropriate physical contact
-⛔ Advocating for, or encouraging, any of the above behaviour
-⛔ Unwelcome sexual attention
+
+- Verbal comments that reinforce social structures of domination related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
+- Sexual images in public spaces
+- Deliberate intimidation, stalking, or following
+- Harassing photography or recording
+- Sustained disruption of talks or other events
+- Inappropriate physical contact
+- Advocating for, or encouraging, any of the above behaviour
+- Unwelcome sexual attention
 
 ### *Microaggressions*
 Incidents can take the form of “microaggressions,” which is a damaging form of harassment.
 Microaggressions are the everyday slights or insults which communicate negative messages to target individuals, often based upon their marginalized group membership.
 Over time, microaggressions can take a great toll on mental and emotional health, and the target’s feeling of belonging in science and academia.
 The following examples can all be labeled micro-aggressions:
+
 ⛔ Commenting on a woman’s appearance rather than her work;
 ⛔ Only directing questions at male colleagues when there are female experts in the room;
 ⛔ Telling someone of colour that they “speak such good English”;

@@ -1,6 +1,6 @@
 ---
-title: Resources
-type: resources
+title: Documentation
+type: docs
 ---
 
 - ReproNim training materials

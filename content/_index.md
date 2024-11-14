@@ -16,7 +16,7 @@ To deliver effective tools, training and principles to the neuroimaging communit
 
 {{< cards cols="3" >}}
 {{< card link="/docs/getting-started/" title="Getting Started" image="/images/tmp.png" subtitle="Getting Started with ReproNim" >}}
-{{< card link="/docs/guide/" title="Guide" image="/images/tmp.png" subtitle="ReproNim Guide" >}}
+{{< card link="/docs/tutorials/" title="Tutorials" image="/images/tmp.png" subtitle="ReproNim Guide" >}}
 {{< card link="/fellowship/" title="Fellowship" image="/images/tmp.png" subtitle="ReproNim Fellowship Program" >}}
-{{< card link="/docs/why/" title="Why" image="/images/tmp.png" subtitle="Why Reproducible Neuroimaging" >}}
+{{< card link="/about/why/" title="Why" image="/images/tmp.png" subtitle="Why Reproducible Neuroimaging" >}}
 {{< /cards >}}

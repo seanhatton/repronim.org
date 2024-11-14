@@ -1,11 +1,9 @@
 ---
-title: The Basics of Reproducible Neuroimaging
-linkTitle: Basics
+title: Principals of Reproducible Neuroimaging
+linkTitle: Principals
 type: docs
 weight: 1
 ---
-
-## ReproNim Best Practices
 
 1. Proper planning:
     1. See:  Reproducible Results

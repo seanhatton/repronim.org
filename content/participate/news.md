@@ -1,5 +1,6 @@
 ---
 title: "News"
+type: docs
 ---
 
 ## Stub 

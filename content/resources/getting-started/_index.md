@@ -24,24 +24,43 @@ ReproNIM offers best practices, tools and training to implement reproducible neu
 
 To introduce you to ReproNIM, we have created a set of exemplary user personas that represent some typical users and given them a face (through the magic of AI), a set of skills and interests. We then produced a set of basic use cases that showcased how adopting the principles of neuroimaging and ReproNIM tools can help them in their goals.
 
-<div style="display: flex; justify-content: space-between; width: 700px;">
-    <img src="/images/sarah.jpg" alt="Sarah" style="width: 150px; height: auto;">
-    <img src="/images/richard.jpg" alt="Richard" style="width: 150px; height: auto;">
-    <img src="/images/john.jpg" alt="John" style="width: 150px; height: auto;">
-    <img src="/images/evelyn.jpg" alt="Evelyn" style="width: 150px; height: auto;">
-</div>
-
-
 Who would you like to hear from?
 
-Hi, I’m Sarah.  I’m an early to mid-career researcher.  I’m  interested in applying best practices to my day-to-day research workflow.
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; gap: 10px;">
+    <a href="#sarah-the-early-to-mid-career-researcher">
+        <img src="/images/sarah.jpg" alt="Sarah" style="width: 150px; height: auto; object-fit: cover;">
+    </a>
+    <p>
+        Hi, I’m Sarah.  I’m an early to mid-career researcher.  I’m  interested in applying best practices to my day-to-day research workflow.
+    </p>
+</div>
 
-Hi, I’m Richard.  I’m a research software engineer.  I want to incorporate more standards into the technical operations of my lab and also learn more about how to effectively share workflows with his clients.
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; gap: 10px;">
+    <a href="#richard-the-software-engineer">
+        <img src="/images/richard.jpg" alt="Richard" style="width: 150px; height: auto; object-fit: cover;">
+    </a>
+    <p>
+        Hi, I’m Richard.  I’m a research software engineer.  I want to incorporate more standards into the technical operations of my lab and also learn more about how to effectively share workflows with his clients.
+    </p>
+</div>
 
-Hi, I’m John.  I am a university-based computational neuroscientist and teacher.  I would like to see what resources ReproNim can offer for my teaching about rigor and reproducibility.
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; gap: 10px;">
+    <a href="#john-the-computational-neuroscientist-and-teacher">
+        <img src="/images/john.jpg" alt="John" style="width: 150px; height: auto; object-fit: cover;">
+    </a>
+    <p>
+        Hi, I’m John.  I am a university-based computational neuroscientist and teacher.  I would like to see what resources ReproNim can offer for my teaching about rigor and reproducibility.
+    </p>
+</div>
 
-Hi, I’m Evelyn.  I am the director of a multi-center distributed project.  My interest is in harmonizing the research being performed at several sites.
-
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; gap: 10px;">
+    <a href="#evelyn-the-director-of-a-multi-center-project">
+        <img src="/images/evelyn.jpg" alt="Evelyn" style="width: 150px; height: auto; object-fit: cover;">
+    </a>
+    <p>
+      Hi, I’m Evelyn.  I am the director of a multi-center distributed project.  My interest is in harmonizing the research being performed at several sites.
+    </p>
+</div>
 
 ## Sarah the early-to-mid career researcher
 

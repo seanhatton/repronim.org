@@ -129,12 +129,3 @@ ReproNIM is not an end to end platform, but has several tools that can take her 
 * Advanced metadata management: Searching and sharing metadata through ReproPond and ReproLake
   * Principles:  Metadata management
   * Foundations:  Standards, Annotation
-
-
-## Introduction
-
-### The ReproNim philosophy
-
-Incorporate reproducible practices into the typical neuroimaging workflow.  These practices ensure more robust, well documented studies at the end for you, your colleagues and your peers.
-
-### Personas

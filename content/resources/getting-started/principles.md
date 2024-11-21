@@ -1,6 +1,6 @@
 ---
-title: Principals of Reproducible Neuroimaging
-linkTitle: Principals
+title: Principles of Reproducible Neuroimaging
+linkTitle: Principles
 type: docs
 weight: 1
 ---

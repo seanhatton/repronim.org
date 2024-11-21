@@ -4,8 +4,6 @@ prev: /resources
 weight: 2
 ---
 
-# Getting Started with ReproNim
-
 **The ReproNIM philosophy**:  Incorporate reproducible practices into the typical neuroimaging workflow.  These practices ensure more robust, well documented studies at the end for you, your colleagues and your peers.
 
 ReproNIM offers best practices, tools and training to implement reproducible neuroimaging in your lab.  Here is a brief overview of our website:
@@ -27,10 +25,10 @@ ReproNIM offers best practices, tools and training to implement reproducible neu
 To introduce you to ReproNIM, we have created a set of exemplary user personas that represent some typical users and given them a face (through the magic of AI), a set of skills and interests. We then produced a set of basic use cases that showcased how adopting the principles of neuroimaging and ReproNIM tools can help them in their goals.
 
 <div style="display: flex; justify-content: space-between; width: 700px;">
-    <img src="/images/user1.jpg" alt="User1" style="width: 150px; height: auto;">
-    <img src="/images/user2.jpg" alt="User2" style="width: 150px; height: auto;">
-    <img src="/images/user3.jpg" alt="User3" style="width: 150px; height: auto;">
-    <img src="/images/user4.jpg" alt="User4" style="width: 150px; height: auto;">
+    <img src="/images/sarah.jpg" alt="Sarah" style="width: 150px; height: auto;">
+    <img src="/images/richard.jpg" alt="Richard" style="width: 150px; height: auto;">
+    <img src="/images/john.jpg" alt="John" style="width: 150px; height: auto;">
+    <img src="/images/evelyn.jpg" alt="Evelyn" style="width: 150px; height: auto;">
 </div>
 
 

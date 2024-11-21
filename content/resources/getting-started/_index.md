@@ -26,7 +26,13 @@ ReproNIM offers best practices, tools and training to implement reproducible neu
 
 To introduce you to ReproNIM, we have created a set of exemplary user personas that represent some typical users and given them a face (through the magic of AI), a set of skills and interests. We then produced a set of basic use cases that showcased how adopting the principles of neuroimaging and ReproNIM tools can help them in their goals.
 
-![][image1]![][image2]![][image3]![][image4]
+<div style="display: flex; justify-content: space-between; width: 700px;">
+    <img src="/images/user1.jpg" alt="User1" style="width: 150px; height: auto;">
+    <img src="/images/user2.jpg" alt="User2" style="width: 150px; height: auto;">
+    <img src="/images/user3.jpg" alt="User3" style="width: 150px; height: auto;">
+    <img src="/images/user4.jpg" alt="User4" style="width: 150px; height: auto;">
+</div>
+
 
 Who would you like to hear from?
 
@@ -125,7 +131,3 @@ ReproNIM is not an end to end platform, but has several tools that can take her 
 Incorporate reproducible practices into the typical neuroimaging workflow.  These practices ensure more robust, well documented studies at the end for you, your colleagues and your peers.
 
 ### Personas
-![](/images/user1.jpg)
-![](/images/user2.jpg)
-![](/images/user3.jpg)
-![](/images/user4.jpg)

@@ -64,6 +64,8 @@ Who would you like to hear from?
 
 ## Sarah the early-to-mid career researcher
 
+<img src="/images/sarah.jpg" alt="Sarah" style="width: 250px; height: auto;">
+
 Sarah is fluent in modern technologies and comfortable both at the bench and behind a computer. She spends her days engaged in the hands-on aspects of studies. As she builds her career, she is concerned with keeping up-to-date with the latest trends and tools, but she doesn't dwell on technology for its own sake. Efficiency is important to her, but not if it sacrifices rigor.
 
 **Sarah’s interests**: I would like support for making my workflow development more efficient: How do I go from my 'garden path' trial workflow development, lock into a 'final' workflow, and then efficiently apply this workflow to my complete dataset. My workflow might change, so I'd like to efficiently update and re-apply the new workflow. I've heard 'versioning' will be important for this, but I'm not handy with these technologies.vPublishing my data would be nice, for some additional impact and complying with the NIH data sharing mandate support.
@@ -88,6 +90,8 @@ ReproNIM can help Sarah learn more about data and software management and other 
 
 ## Richard the software engineer
 
+<img src="/images/richard.jpg" alt="Richard" style="width: 250px; height: auto;">
+
 Richard is responsible for developing the software in support of his lab’s research. High-level requirements are given to him, but he then has freedom in deciding how to implement solutions. He does not code exclusively but researches and plans his work: he must determine how to balance software engineering best practices with the limited resources available for research software engineering.
 
 **Richard’s interests**: Richard would like to generate software products that participate in community standards for data ingestion and export. He is aware of BIDS for standard input data representation, he needs to learn about 'output standards' such as BIDS derivatives and standardized output description (e.g. NIDM). He can be convinced that containerizing his software products can make them easier to deliver to his local clients (and for them to share with others who want to reproduce their work) and easier to support, compared to a bare metal software solution.
@@ -108,6 +112,8 @@ ReproNIM can help Richard learn how standards such as BIDs and NIDM can help wit
 
 ## John the computational neuroscientist and teacher
 
+<img src="/images/john.jpg" alt="John" style="width: 250px; height: auto;">
+
 John is a university-based computational neuroscientist and teacher both a research lab and teaching responsibilities. He would like his lab members to understand and utilize principles of re-executable annotated workflows, and is wondering whether whether the Fellowship program might be appropriate for someone in his lab (perhaps a way to train others in the lab thereafter). As a teacher, he is interested in broadly educating his students on reproducibility, including exposure to key concepts, tools and educational materials.
 
 **John** is interested in whether ReproNim provides up to date teaching materials that he might use in his own teaching, and also interested in resources that might help his students and/or lab.
@@ -125,6 +131,8 @@ ReproNIM has also organized our tools and a set of step-by-step use cases in our
 → For hands on experience, his students can follow tutorials recommended for Sarah, Richard and Evelyn
 
 ## Evelyn the director of a multi-center project
+
+<img src="/images/evelyn.jpg" alt="Evelyn" style="width: 250px; height: auto;">
 
 Evelyn is a researcher, and directs a multi-center distributed project. Her responsibilities include oversight for integrated data sharing and cross-site analyses within the project, as well as making all data ultimately publicly accessible and reusable. She is interested in options for facilitating and streamlining data acquisition, use and reuse for varied purposes, both within and beyond the bounds of the project itself. She has the authority and responsibility to make recommendations for infrastructure that would serve a multidisciplinary multi-site project well.
 

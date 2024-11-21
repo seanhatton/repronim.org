@@ -42,11 +42,14 @@ Hi, I’m John.  I am a university-based computational neuroscientist and teache
 
 Hi, I’m Evelyn.  I am the director of a multi-center distributed project.  My interest is in harmonizing the research being performed at several sites.
 
-**Sarah, the early-to-mid career researcher,** is fluent in modern technologies and comfortable both at the bench and behind a computer. She spends her days engaged in the hands-on aspects of studies. As she builds her career, she is concerned with keeping up-to-date with the latest trends and tools, but she doesn't dwell on technology for its own sake. Efficiency is important to her, but not if it sacrifices rigor.
+
+## Sarah the early-to-mid career researcher
+
+Sarah is fluent in modern technologies and comfortable both at the bench and behind a computer. She spends her days engaged in the hands-on aspects of studies. As she builds her career, she is concerned with keeping up-to-date with the latest trends and tools, but she doesn't dwell on technology for its own sake. Efficiency is important to her, but not if it sacrifices rigor.
 
 **Sarah’s interests**: I would like support for making my workflow development more efficient: How do I go from my 'garden path' trial workflow development, lock into a 'final' workflow, and then efficiently apply this workflow to my complete dataset. My workflow might change, so I'd like to efficiently update and re-apply the new workflow. I've heard 'versioning' will be important for this, but I'm not handy with these technologies.vPublishing my data would be nice, for some additional impact and complying with the NIH data sharing mandate support.
 
-### How can ReproNIM help?
+**How can ReproNIM help?**
 
 ReproNIM can help Sarah learn more about data and software management and other best practices for reproducible neuroimaging,  and introduce her to tools and practices for versioning workflows. When data and software are managed throughout the neuroimaging workflow, publishing data, and the pipelines that produced it,  effectively and efficiently is much easier to do.
 
@@ -64,11 +67,13 @@ ReproNIM can help Sarah learn more about data and software management and other 
   * Principle:  Publishing re-executable paper
   * Foundations: Standards, Annotation
 
-**Richard the software engineer** is responsible for developing the software in support of his lab’s research. High-level requirements are given to him, but he then has freedom in deciding how to implement solutions. He does not code exclusively but researches and plans his work: he must determine how to balance software engineering best practices with the limited resources available for research software engineering.
+## Richard the software engineer
+
+Richard is responsible for developing the software in support of his lab’s research. High-level requirements are given to him, but he then has freedom in deciding how to implement solutions. He does not code exclusively but researches and plans his work: he must determine how to balance software engineering best practices with the limited resources available for research software engineering.
 
 **Richard’s interests**: Richard would like to generate software products that participate in community standards for data ingestion and export. He is aware of BIDS for standard input data representation, he needs to learn about 'output standards' such as BIDS derivatives and standardized output description (e.g. NIDM). He can be convinced that containerizing his software products can make them easier to deliver to his local clients (and for them to share with others who want to reproduce their work) and easier to support, compared to a bare metal software solution.
 
-### How can ReproNIM Help?
+**How can ReproNIM Help?**
 
 ReproNIM can help Richard learn how standards such as BIDs and NIDM can help with better data management.  ReproNIM can provide Richard with demos and use cases to show why containerization is worth the effort.
 
@@ -82,11 +87,13 @@ ReproNIM can help Richard learn how standards such as BIDs and NIDM can help wit
 * Advanced data and software management: Datalad containers/run \+, YODA principles
 * More use cases are available through our ReproGuide
 
-**John is a university-based computational neuroscientist and teacher** with both a research lab and teaching responsibilities. He would like his lab members to understand and utilize principles of re-executable annotated workflows, and is wondering whether whether the Fellowship program might be appropriate for someone in his lab (perhaps a way to train others in the lab thereafter). As a teacher, he is interested in broadly educating his students on reproducibility, including exposure to key concepts, tools and educational materials.
+## John the computational neuroscientist and teacher
+
+John is a university-based computational neuroscientist and teacher both a research lab and teaching responsibilities. He would like his lab members to understand and utilize principles of re-executable annotated workflows, and is wondering whether whether the Fellowship program might be appropriate for someone in his lab (perhaps a way to train others in the lab thereafter). As a teacher, he is interested in broadly educating his students on reproducibility, including exposure to key concepts, tools and educational materials.
 
 **John** is interested in whether ReproNim provides up to date teaching materials that he might use in his own teaching, and also interested in resources that might help his students and/or lab.
 
-### How can ReproNim Help?
+**How can ReproNim Help?**
 
 **Educational resources that might be interesting to John and his students**:
 
@@ -98,11 +105,13 @@ ReproNIM has also organized our tools and a set of step-by-step use cases in our
 
 → For hands on experience, his students can follow tutorials recommended for Sarah, Richard and Evelyn
 
-**Evelyn is a researcher, and directs a multi-center distributed project**. Her responsibilities include oversight for integrated data sharing and cross-site analyses within the project, as well as making all data ultimately publicly accessible and reusable. She is interested in options for facilitating and streamlining data acquisition, use and reuse for varied purposes, both within and beyond the bounds of the project itself. She has the authority and responsibility to make recommendations for infrastructure that would serve a multidisciplinary multi-site project well.
+## Evelyn the director of a multi-center project
+
+Evelyn is a researcher, and directs a multi-center distributed project. Her responsibilities include oversight for integrated data sharing and cross-site analyses within the project, as well as making all data ultimately publicly accessible and reusable. She is interested in options for facilitating and streamlining data acquisition, use and reuse for varied purposes, both within and beyond the bounds of the project itself. She has the authority and responsibility to make recommendations for infrastructure that would serve a multidisciplinary multi-site project well.
 
 **Evelyn** thinks ReproNIM might address many of her priorities, but she would really like an end-to-end platform for data acquisition, data management and dissemination. She needs to distribute common analyses to her sites. She’d like it to be easy for the sites to give her results from this analysis that are easy to aggregate and harmonize. As her sites are also collecting their own subjects, she needs common demographic, clinical and behavioral data to be collected/shared in a way that is also easy to aggregate/harmonize.
 
-### How can ReproNIM help?
+**How can ReproNIM help?**
 
 ReproNIM is not an end to end platform, but has several tools that can take her current data workflow and make it easy to share FAIR data and analyses across multiple sites.
 

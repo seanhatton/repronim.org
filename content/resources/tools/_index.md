@@ -19,5 +19,5 @@ This section describes core tools and standards produced by ReproNim.  For a mor
 
 - [NIDM](nidm/index.html)
 - [BIDS](bids/index.html)
-- Nipoppy: A protocol and a set of tools to help standardize the processing a study that has neuroimaging data.
+- [Nipoppy](nipoppy/index.html): A protocol and a set of tools to help standardize the processing a study that has neuroimaging data.
 - [ReproIn](reproin/index.html)

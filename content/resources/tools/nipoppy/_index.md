@@ -1,7 +1,9 @@
 ---
-title: "ReproIn"
-date: 2024-10-28T15:17:51-04:00
+title: "Nipoppy"
+date: 2024-11-27T11:05:23-05:00
 ---
+
+*Poppies will put them to sleep.*
 
 ### Citation information
 
@@ -17,5 +19,5 @@ date: 2024-10-28T15:17:51-04:00
 - Tutorial
 - Installation
 - Full documentation
-- How to get help 1
+- How to get help
 - Testimonials

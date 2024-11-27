@@ -13,6 +13,7 @@ This section describes core tools and standards produced by ReproNim.  For a mor
 - [Neurodocker](neurodocker/index.html)
 - [Neurobagel](neurobagel/index.html): A set of tools to query and share data (clinical and brain imaging) in a fully distributed way, keeping the local governance.
 - [DataLad](datalad/index.html): Distribution and version control system for all digital objects of science.
+- [ReproLake](reprolake/index.html): Distribution and version control system for all digital objects of science.
 
 ## ReproNim Core Standards
 

@@ -4,6 +4,8 @@ date: 2024-10-28T15:14:39-04:00
 weight: 10
 ---
 
+This section describes core tools and standards produced by ReproNim.  For a more comprehensive catalog of resources related to reproducible neuroimaging, please see the [ReproInventory project](https://github.com/ReproNim/ReproInventory).
+
 ## ReproNim Core Tools
 
 - [Heudiconv/ReproIn](reproin/index.html): Converter from DICOM into structured directory layouts (e.g. BIDS).

@@ -66,4 +66,4 @@ You submit your study to your favorite highly competitive journal and the review
 
 ReproNim’s goal is to improve the reproducibility of neuroimaging science, while making the process of capturing and precisely describing all essential/necessary experimental details both easier and more efficient for investigators. Supporting re-executability is a challenging and multifaceted problem. 
 
-[Ready to get started?](/getting-started/index.html)
+[Ready to get started?](/resources/getting-started/index.html)

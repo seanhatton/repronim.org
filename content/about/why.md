@@ -1,69 +1,88 @@
 ---
-title: "Why Reproducible Neuroimaging"
+title: Why Reproducible Neuroimaging
 type: docs
-date: 2024-10-25T14:41:08-04:00
 ---
 
-## Why reproducible imaging?
+Neuroimaging, like many fields of science, has been described as having a “reproducibility crisis”.  We most often hear about this crisis in the context of trust in science and the ability to reproduce the results of studies published by others.  It is, of course, frustrating when you waste time and resources on trying to replicate others’ research only to find that the experiment failed. We know that some of the causes of the current reproducibility crisis are poor study design, including underpowered studies. But it is also true that even in a properly designed neuroimaging study, more and more evidence has emerged that any set of results is very sensitive to even small variations in computational environments, preprocessing steps, statistical models and analyses used. In fact, as we state in our [2019 paper](https://www.frontiersin.org/journals/neuroinformatics/articles/10.3389/fninf.2019.00001/full), when it comes to reproducibility in neuroimaging,  “Everything matters”.
 
-First, let’s ask what is reproducibility?
+Reproducible neuroimaging is therefore not only a concern to those outside your lab trying to build on your work, but to you as a researcher, project director or principal investigator. Can you reproduce your own research? Can your graduate students?  Can your present and future post-docs?  If a reviewer asks you to perform a different analysis on the same data, can you?
 
-- Material from What is reproducibility”
-- Scientific reproducibility is built on methodological reproducibility
-    - Major sources of variability:  N, statistics, tools:  Cover the entire gamut through training and best practices but our tools are the cool thing.
+# What is Reproducible Neuroimaging?
 
-Reproducible research is transparent. Transparency is achieved through being able to know precisely ‘what operations’ were performed on ‘what data’ in a fashion that could potentially be re-executed by:
-- You
-- Future you
-- Your lab
-- Your colleagues
-- Reviewers
-- Other neuroimagers
-- Data scientists
-- AI
+## Scientific reproducibility
 
-## So what is reproducible imaging?
+First, what do we mean when we say that scientific results are reproducible?  Reproducibility is a broad term and is often used as a generic term to refer to replicate at some level the findings of a study.  Here, we use the term scientific reproducibility in general to mean **re-executability**, that is, the ability to obtain the exact same results when the same data is analyzed using the exact same analysis methods.  Re-executability focuses on methodological reproducibility and should be seen as simply the first step in establishing the validity of a given set of results. A **result**, that is, a claim made about the meaning of a study, is fully reproducible when it can be **re-executed** and **generalized** independently.  Some of what we are referring to as generalization is referred to as **replication**, defined as repeating an entire study with new data to see if the original results can be replicated.  But as you can see in the graphic below, there are multiple types of replication in the age of open data and tool sharing.  A true biological inference should hold true regardless of the methods used to observe a biological process or the specific sample of the population being studied.
 
-Reproducible neuroimaging encompasses a comprehensive approach to research practices that prioritizes transparency, rigor, and the ability to share and re-execute neuroimaging data, analyses and results,  ensuring that findings are robust and can be independently validated. (NotebookLM+MM)
+![image](/images/spectrum.png)
 
-Every neuroimager who utilizes neuroimaging in their laboratory or center has the basic components available to acquire, store, process and analyze data and publish their results.
+## Reproducible Neuroimaging
 
-![](/images/data_flow.jpeg)
+Building on the materials above, reproducible neuroimaging refers to the practice of conducting and disseminating neuroimaging research in a manner that allows others to independently verify and replicate the findings. It encompasses a set of principles, practices, and tools aimed at ensuring transparency, rigor, and accountability in neuroimaging studies. Transparency is achieved through others **being able to know** **precisely *‘what operations’* were performed on *‘what data’*** .  Remember, the “others” that benefit from reproducible neuroimaging include:
 
-But how well are the data, code and workflows managed during this process? How easy is it for you to understand and reconstruct what you have done when it comes time to analyze your data or to publish?   Ask yourself these questions:
+* You
+* Future you
+* Your lab
+* Your colleagues
+* Reviewers
+* Other neuroimagers
+* Data scientists
+* AI
 
-- How do I plan for my experiments?
-    - How many subjects do I need?
-    - Given the new NIH mandate, how will I manage and share my data?
-    - Did I talk to a statistician?
-    - Is there existing data I can use?
-- How have I implemented version control across the laboratory?
-    - So that you and your lab members know what you did, when and why you changed what you did
-    - Poor version control leads to confusion in analysis, publication and re-use.  It greatly increases the resources required to analyze your results
-- How does my lab annotate data, code and workflows?
-    - So that you can understand what you did and reuse the data more easily, now and in the future
-    - Poor annotation is a huge money-sink because unless you use the data right away, you are unlikely to remember the key details needed to analyze and understand the data
-- What standards have I implemented in the lab?
-    - So that I can access and analyze my data more easily by using tools developed by my lab mates and the wider community;  so that I can share data with my collaborators and use other datasets acquired with the same standards
-    - When everyone has their own way of doing things in a lab, it is difficult to reuse others data and code;  standards also enforce certain good behaviors such as metadata capture that make it easier to use your data
-- Are my software environments packaged in containers?
-    - How easily can I or others replicate my work?
-    - If an external service or 3rd party software disappears, is my code broken and my work unverifiable?
-    - Containers have a learning curve, but they help preserve the value of your hard-earned results despite the chaos of software churn.
-- When it comes time to publish, how easy is it for me that meet data and code sharing requirements of journals and funders?
-    - So that you can easily assemble all the data and code that are utilized within a submitted study without having to spend weeks or months trying to remember what you did and where to find it
-    - One of the reasons that data sharing mandates are perceived as onerous on the submitter is that data are not well versioned, annotated, standardized and containerized.  Implementing these steps in the laboratory makes it much easier to meet requirements.
+# What does reproducible neuroimaging look like in practice?
 
-## Vignette 1: Has this happened to you?
+## ReproNim’s principles of reproducible neuroimaging
 
-You submit your study to your favorite highly competitive journal and the review comes back:  
-- Your N is too small…  
-- This seems more of an exploratory study.  What were your hypotheses?
-- Can you re-run this analysis using X?
-- You need to make your data and code available
+1. Study planning:
+    1. Implement good science basics, e.g., power analysis, statistical consult
+    2. Consider using pre-existing data for planning and/or analysis
+    3. Create an NIH-compliant data management and sharing plan
+    4. Adopt open consent to allow broad sharing of data
+    5. Pre-register your study
 
-## Get started
+1.  Data and metadata management:
+    1. Use **standard** data formats and extend them to meet your needs.
+    2. Use **version control** from start to finish
+    3. **Annotate** data using standard, reproducible procedures
 
-ReproNim’s goal is to improve the reproducibility of neuroimaging science, while making the process of capturing and precisely describing all essential/necessary experimental details both easier and more efficient for investigators. Supporting re-executability is a challenging and multifaceted problem. 
+1.  Software management:
+    1. Use released versions of open source software tools.
+    2. Use **version control** from start to finish
+    3. Automate the installation of your code and its dependencies
+    4. Automate the execution of your data analysis
+    5. **Annotate** your code and workflows using standard, reproducible procedures
+    6. Use **containers** where reasonable
 
-[Ready to get started?](/resources/getting-started/index.html)
+1.  Publishing everything:  publishing re-executable publications
+    1. Plans should be shared (pre-registration)
+    2. Software should be shared
+    3. Data should be shared
+    4. All research objects should be FAIR
+
+In turn, as indicated by the blue highlights in the above figure,  **four core actions** are key to implementing these principles:
+
+1) **Use of Standards:** Using standard data formats and extending them to meet specific research needs is important for *data and metadata management* in reproducible neuroimaging.
+
+2) **Annotation and provenance:** Annotating data using standard, reproducible procedures ensures clarity and transparency in data management (*data and metadata management*). **Provenance** refers to the origin and history of data and processes, enabling researchers to track how data was generated, modified, and analyzed (*data and metadata management*, *software management*, and *publishing everything*). This is essential for understanding the context of data and ensuring reproducibility.
+
+3) **Implementing version control:** Version control is crucial for both data and software management. It allows researchers to track changes over time, revert to previous versions if necessary, and collaborate effectively.
+
+   For data, version control helps manage different versions of datasets and track modifications made during processing and analysis (*data and metadata management*).
+
+
+
+   For software, version control helps track code changes, manage different versions of analysis scripts, and ensure that the correct version of the code is used for each analysis (*software management*).
+
+
+
+   And even publications can be versioned (*publishing everything*).
+
+4) **Use of Containers:** Containers provide a portable and self-contained environment for running software, ensuring that the analysis can be executed consistently across different computing environments (*software management*). They encapsulate all the software dependencies needed to run an analysis, making it easier to share software (*publishing everything*) and reproduce results.
+
+# How does ReproNIM help support reproducible neuroimaging?
+
+[ReproNim](https://www.repronim.org/)’s goal is to improve the reproducibility of neuroimaging science, while making the process of capturing and precisely describing all essential/necessary experimental details both easier and more efficient for investigators. ReproNIM focuses on ***practices and tools*** that support researchers and software engineers **in integrating reproducible principles and actions into their neuroimaging workflow**.
+
+To get started, see:
+
+* [Getting started with ReproNim](/resources/getting-started/)
+* The ReproGuide to [tools and use cases](/resources/tools/)

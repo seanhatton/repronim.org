@@ -1,4 +1,9 @@
-# Implementing data management basics:  Converting DICOM data to BIDS
+---
+title: Converting DICOM data to BIDS
+linkTitle: DICOM to BIDS
+type: docs
+weight: 5 
+---
 
 **ReproPrinciple**:  2b. Data and Metadata management: Use standard data formats and extend them for your needs
 **Actions**:  Standards, Annotation

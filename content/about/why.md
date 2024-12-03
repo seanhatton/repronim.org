@@ -84,5 +84,5 @@ In turn, as indicated by the blue highlights in the above figure,  **four core a
 
 To get started, see:
 
-* Getting started with ReproNim:
-* The ReproGuide to tools and use cases
+* [Getting started with ReproNim](/resources/getting-started/)
+* The ReproGuide to [tools and use cases](/resources/tools/)

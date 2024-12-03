@@ -20,13 +20,13 @@ First, what do we mean when we say that scientific results are reproducible?  Re
 Building on the materials above, reproducible neuroimaging refers to the practice of conducting and disseminating neuroimaging research in a manner that allows others to independently verify and replicate the findings. It encompasses a set of principles, practices, and tools aimed at ensuring transparency, rigor, and accountability in neuroimaging studies. Transparency is achieved through others **being able to know** **precisely *‘what operations’* were performed on *‘what data’*** .  Remember, the “others” that benefit from reproducible neuroimaging include:
 
 * You
-  * Future you
-    * Your lab
-    * Your colleagues
-    * Reviewers
-    * Other neuroimagers
-    * Data scientists
-    * AI
+* Future you
+* Your lab
+* Your colleagues
+* Reviewers
+* Other neuroimagers
+* Data scientists
+* AI
 
 # What does reproducible neuroimaging look like in practice?
 

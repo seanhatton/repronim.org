@@ -45,18 +45,18 @@ Here's a basic example heuristic, heuristic.py:
 ```python
 def infotodict(seqinfo):
    """Heuristic function to map DICOM sequences to BIDS format."""
-   info \= {
-       't1w': \[\],  \# T1-weighted images
-       'bold': \[\],  \# Functional BOLD scans
-       'dwi': \[\]  \# Diffusion-weighted images
+   info = {
+       't1w': [],  # T1-weighted images
+       'bold': [],  # Functional BOLD scans
+       'dwi': []  # Diffusion-weighted images
    }
    for s in seqinfo:
-       if 'T1w' in s.protocol\_name:
-           info\['t1w'\].append(s.series\_id)
-       elif 'BOLD' in s.protocol\_name:
-           info\['bold'\].append(s.series\_id)
-       elif 'dwi' in s.protocol\_name:
-           info\['dwi'\].append(s.series\_id)
+       if 'T1w' in s.protocol_name:
+           info['t1w'].append(s.series_id)
+       elif 'BOLD' in s.protocol_name:
+           info['bold'].append(s.series_id)
+       elif 'dwi' in s.protocol_name:
+           info['dwi'].append(s.series_id)
    return info
 ```
 

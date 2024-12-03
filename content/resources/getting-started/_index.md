@@ -9,15 +9,15 @@ ReproNIM offers best practices, tools and training to implement reproducible neu
 
 * **New to reproducible neuroimaging?**
   * Why reproducible neuroimaging
-    * What is reproducible neuroimaging?
-  * **Wondering what ReproNIM can do for you?**
-    * Meet our exemplary user personas and the issues they face in running neuroimaging studies
-    * View our introduction to the ReproNIM way, step-by-step guides on some steps you can take using ReproNIM tools to improve your ability to perform robust and shareable neuroimaging studies
-  * **Tools and how-to guide:**
-    * Our ReproGuide provides descriptions of our tools and how to use them
-  * **Training:**
-    * [On-line training course](https://www.repronim.org/teach.html) on a range of basic and more advanced topics related to reproducible neuroimaging
-    * ReproNIM Fellows Program:  Become a ReproNIM fellow through our train the trainer program
+  * What is reproducible neuroimaging?
+* **Wondering what ReproNIM can do for you?**
+  * Meet our exemplary user personas and the issues they face in running neuroimaging studies
+  * View our introduction to the ReproNIM way, step-by-step guides on some steps you can take using ReproNIM tools to improve your ability to perform robust and shareable neuroimaging studies
+* **Tools and how-to guide:**
+  * Our ReproGuide provides descriptions of our tools and how to use them
+* **Training:**
+  * [On-line training course](https://www.repronim.org/teach.html) on a range of basic and more advanced topics related to reproducible neuroimaging
+  * ReproNIM Fellows Program:  Become a ReproNIM fellow through our train the trainer program
 
 ## Meet our users personas
 

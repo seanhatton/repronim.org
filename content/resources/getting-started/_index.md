@@ -1,6 +1,5 @@
 ---
 title: Getting Started with ReproNim
-prev: /resources
 weight: 2
 ---
 

@@ -29,4 +29,6 @@ All required element should be installed when setting up a neurobagel node.
 - Installation
 - Full documentation
 - How to get help
-- Testimonials
+- [Testimonial](https://www.linkedin.com/posts/evavanheese789_you-only-realise-how-important-infrastructure-activity-7220000830463053828-QdDy)
+
+### Representative publications

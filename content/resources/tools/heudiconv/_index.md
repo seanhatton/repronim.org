@@ -35,3 +35,5 @@ RRID:SCR_017427
 - [Full documentation](https://heudiconv.readthedocs.io/)
 - [How to get help 1](https://github.com/nipy/heudiconv/issues) [How to get help 2](https://neurostars.org/tag/heudiconv)
 - Testimonials
+
+### Representative publications

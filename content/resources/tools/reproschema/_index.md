@@ -24,12 +24,11 @@ Reproschema fully supports the creation, sharing, and reuse of structured resear
 
 ### Links
 
-- Home page
-https://github.com/ReproNim/reproschema
+- [Home page](https://github.com/ReproNim/reproschema)
 - [Tutorial 1](https://www.repronim.org/reproschema/user-guide/create-new-protocol/) [Tutorial 2](https://www.repronim.org/reproschema/tutorials/using-reproschema/)
 - [Installation](https://pypi.org/project/reproschema/)
 - [Full documentation](https://www.repronim.org/reproschema/)
 - [How to get help](https://github.com/ReproNim/reproschema/issues)
 - Testimonials
 
-
+### Representative publications

@@ -1,6 +1,7 @@
 ---
 title: "Neurobagel"
 date: 2024-10-28T15:17:51-04:00
+weight: 30
 ---
 
 *I got bored one day.  So I put everything on a bagel.*

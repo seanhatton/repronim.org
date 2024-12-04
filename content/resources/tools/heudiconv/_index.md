@@ -1,6 +1,7 @@
 ---
 title: "HeuDiConv"
 date: 2024-11-27T11:03:21-05:00
+weight: 20
 ---
 
 *Flexible DICOM conversion into structured directory layouts.*

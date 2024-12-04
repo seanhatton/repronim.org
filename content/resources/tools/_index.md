@@ -12,6 +12,7 @@ This section describes core tools and standards produced by ReproNim.  For a mor
 - [HeuDiConv+ReproIn](heudiconv/index.html): Converter from DICOM into BIDS (HeuDiConv) with best practices scripts and configuration files (ReproIn).
 - [Neurobagel](neurobagel/index.html): A set of tools to query and share data (clinical and brain imaging) in a fully distributed way, keeping the local governance.
 - [Neurodocker](neurodocker/index.html)
+- [Nipoppy](nipoppy/index.html): A protocol and a set of tools to help standardize the processing a study that has neuroimaging data.
 - [ReproLake](reprolake/index.html): A collection of NIDM files describing many publicly available neuroimaging datasets.
 - [ReproSchema](reproschema/index.html): A tool for defining, sharing, and reusing structured research protocols, enabling versioning and interoperability across studies.
 
@@ -19,4 +20,3 @@ This section describes core tools and standards produced by ReproNim.  For a mor
 
 - [BIDS](bids/index.html)
 - [NIDM](nidm/index.html)
-- [Nipoppy](nipoppy/index.html): A protocol and a set of tools to help standardize the processing a study that has neuroimaging data.

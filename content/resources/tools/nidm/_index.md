@@ -1,6 +1,7 @@
 ---
 title: "NIDM"
 date: 2024-10-28T15:17:52-04:00
+weight: 90
 ---
 
 ### Citation information
@@ -19,3 +20,5 @@ date: 2024-10-28T15:17:52-04:00
 - Full documentation
 - How to get help
 - Testimonials
+
+### Representative publications

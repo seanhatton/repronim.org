@@ -1,6 +1,7 @@
 ---
 title: "HeuDiConv"
 date: 2024-11-27T11:03:21-05:00
+weight: 20
 ---
 
 *Flexible DICOM conversion into structured directory layouts.*
@@ -35,3 +36,5 @@ RRID:SCR_017427
 - [Full documentation](https://heudiconv.readthedocs.io/)
 - [How to get help 1](https://github.com/nipy/heudiconv/issues) [How to get help 2](https://neurostars.org/tag/heudiconv)
 - Testimonials
+
+### Representative publications

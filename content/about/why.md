@@ -78,6 +78,8 @@ In turn, as indicated by the blue highlights in the above figure,  **four core a
 
 4) **Use of Containers:** Containers provide a portable and self-contained environment for running software, ensuring that the analysis can be executed consistently across different computing environments (*software management*). They encapsulate all the software dependencies needed to run an analysis, making it easier to share software (*publishing everything*) and reproduce results.
 
+![image](/images/principles-of-neuroimaging.jpg)
+
 # How does ReproNIM help support reproducible neuroimaging?
 
 [ReproNim](https://www.repronim.org/)’s goal is to improve the reproducibility of neuroimaging science, while making the process of capturing and precisely describing all essential/necessary experimental details both easier and more efficient for investigators. ReproNIM focuses on ***practices and tools*** that support researchers and software engineers **in integrating reproducible principles and actions into their neuroimaging workflow**.

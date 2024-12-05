@@ -4,12 +4,10 @@ type: docs
 date: 2024-10-25T14:55:28-04:00
 ---
 
-
-
-- [Deanna Barch, PhD](https://psychiatry.wustl.edu/people/deanna-barch-phd/)
-    - Chair, Department of Psychological & Brain Sciences
-    - Professor of Psychological & Brain Sciences and of Radiology
-    - Gregory B. Couch Professor of Psychiatry
+- [Janine Bijsterbosch, PhD](https://www.mir.wustl.edu/employees/janine-bijsterbosch/)
+    - Assistant Professor of Radiology
+    - Computational Imaging Research Center
+    - Mallinckrodt Institute of Radiology
     - Washington University St. Louis, St. Louis, MO
 
 - [BJ Casey, PhD](https://barnard.edu/profiles/bj-casey)
@@ -49,3 +47,9 @@ date: 2024-10-25T14:55:28-04:00
     - Group Leader, Researcher
     - Applied and Theoretical Neuroanatomy
     - Institut Pasteur, Paris, France
+
+## Board members emeritus
+
+- Deanna Barch, PhD
+- Chris Gorgolewski, PhD
+- Russell Poldrack, PhD

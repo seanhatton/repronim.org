@@ -4,8 +4,6 @@ date: 2024-11-27T11:05:23-05:00
 weight: 50
 ---
 
-*Poppies will put them to sleep.*
-
 Nipoppy extends BIDS to help students and researchers to organize the full cycle of brain imaging processings. Nipoppy is a roadmap that relies on BIDS but extends it to help researchers adopt a standard for the processings of neuroimaging and non neuroimaging data. It automatically process new data coming in and help the organization of derived data. It offers visualization tools for monitoring the processings (what has failed, what has succeeded).
 
 ### Citation information

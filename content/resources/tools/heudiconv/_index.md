@@ -8,7 +8,7 @@ weight: 20
 
 HeuDiConv (Heuristic DICOM Converter) enables flexible and efficient conversion of spatially reconstructed neuroimaging data from the DICOM format (quasi-ubiquitous in biomedical image acquisition systems, particularly in clinical settings) to BIDS, as well as other file layouts.
 
-ReproIn is a set of best practices, including usable scripts and configuration files, for using HeuDiConv and DataLad to move and prepare data from a scanner to a form suitable for reproducible neuroimaging analysis.
+See also [ReproIn](../reproin/index.html).
 
 ### Citation information
 
@@ -30,8 +30,8 @@ RRID:SCR_017427
 
 ### Links
 
-- [Home page](https://heudiconv.readthedocs.io/), [ReproIn home page](https://github.com/ReproNim/reproin)
-- [Tutorial](https://heudiconv.readthedocs.io/en/latest/tutorials.html), [ReproIn tutorial](https://github.com/ReproNim/reproin)
+- [Home page](https://heudiconv.readthedocs.io/)
+- [Tutorial](https://heudiconv.readthedocs.io/en/latest/tutorials.html)
 - [Installation](https://heudiconv.readthedocs.io/en/latest/installation.html)
 - [Full documentation](https://heudiconv.readthedocs.io/)
 - [How to get help 1](https://github.com/nipy/heudiconv/issues) [How to get help 2](https://neurostars.org/tag/heudiconv)

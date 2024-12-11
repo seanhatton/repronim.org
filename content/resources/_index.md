@@ -7,14 +7,6 @@ type: docs
 
 [Tool directory](tools/index.html)
 
-- Heudiconv/ReproIn
-- ReproSchema
-- Neurodocker
-- Neurobagel + ReproPond + ReproLake
-- DataLad
-- NIDM (?)
-- BIDS
-
 ### Other support tools
 
 Here we list test products, scripts, other things that might be useful, but at this time, we are not necessarily describing them with a template or producing use cases around them. 

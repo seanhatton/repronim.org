@@ -3,25 +3,5 @@ title: Resources
 type: docs
 ---
 
-### ReproNim Core Toolset (tools featured in use case for now)
-
-[Tool directory](tools/index.html)
-
-### Other support tools
-
-Here we list test products, scripts, other things that might be useful, but at this time, we are not necessarily describing them with a template or producing use cases around them. 
-
-### How to… 
-
-- How do I convert from DICOM to BIDS
-- How do I create a data dictionary?
-- How to configure SPM/Freesurfer to …
-
-### Training Materials
-- ReproNim training materials
-
-
-### MISC
-- Sample NIH Data Management and Sharing Plan for neuroimaging
-- ReproNim User Personas
-- FAQs
+This section is dedicated to **how** to make use of the ReproNim ecosystem.
+Many of the materials here assume you are already familiar with [why neuroimaging should be reproducible](/about/why/).

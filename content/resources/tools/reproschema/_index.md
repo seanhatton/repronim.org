@@ -11,6 +11,10 @@ ReproSchema is a framework for structured survey developement and data collectio
 - A server for backend data collection.
 - A command line tool for preparing new assessments for the ReproSchema.
 
+### Development status
+
+ReproSchema is complete and is actively maintained.
+
 ### Citation information
 
 ### Requisite knowledge to use
@@ -24,10 +28,6 @@ ReproSchema is a framework for structured survey developement and data collectio
 - Any platform with Python 3.9+ installed
 - Package management tools: pip or conda
 
-### Conformance statement
-
-Reproschema fully supports the creation, sharing, and reuse of structured research protocols as described. It reliably handles schema versioning and ensures interoperability between different tools, making it suitable for various research workflows. However, users should note that advanced features, such as full integration with some external tools or platforms, may require additional customization or familiarity with JSON-LD and Git.
-
 ### Links
 
 - Home page: https://github.com/ReproNim/reproschema
@@ -39,3 +39,5 @@ Reproschema fully supports the creation, sharing, and reuse of structured resear
 - How to get help: https://github.com/ReproNim/reproschema/issues
 
 ### Representative publications
+
+*Last updated December, 2024*

@@ -6,6 +6,10 @@ weight: 90
 
 The Neuroimaging Data Model (NIDM) is an extension to the W3C PROV standard for human brain imaging.  NIDM defines PROV-compatible terms for neuroimaging concepts and relationships.
 
+### Development status
+
+NIDM is a mature standard widely adopted by the neuroimaging community.  Working groups actively maintain and update the standard.
+
 ### Citation information
 
 RRID:SCR_013667
@@ -42,3 +46,5 @@ It is possible to interact with NIDM using:
 - How to get help: https://neurostars.org/tag/nidm
 
 ### Representative publications
+
+*Last updated December, 2024*

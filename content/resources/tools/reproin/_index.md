@@ -8,13 +8,15 @@ ReproIn is a set of best practices for using HeuDiConv and DataLad to prepare ra
 
 See also [HeuDiConv](../heudiconv/index.html) and [DataLad](../datalad/index.html).
 
+### Development status
+
+ReproIn can be used as-is and is actively maintained.
+
 ### Citation information
 
 ### Requisite knowledge to use
 
 ### Requisite technical requirements
-
-### Conformance statement
 
 ### Links
 
@@ -23,3 +25,5 @@ See also [HeuDiConv](../heudiconv/index.html) and [DataLad](../datalad/index.htm
 - Full documentation: https://github.com/ReproNim/reproin
 
 ### Representative publications
+
+*Last updated December, 2024*

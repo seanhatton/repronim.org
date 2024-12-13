@@ -8,6 +8,10 @@ weight: 10
 
 DataLad is a command line tool for data management and sharing.  DataLad can download existing DataLad-prepared datasets and can assist in sharing your own data.  DataLad can track changes to data and supports data versioning.
 
+### Development status
+
+DataLad is production software and is actively maintained.
+
 ### Citation information
 
 RRID:SCR_003931
@@ -26,10 +30,6 @@ DataLad: distributed system for joint management of code, data, and their relati
 - Mac: conda proficiency or Homebrew installed
 - If Python / pip available: datalad-installer could be installed to assist in installation
 
-### Conformance statement
-
-100% lives to its promise.
-
 ### Links
 
 - Home page: https://datalad.org
@@ -44,3 +44,5 @@ DataLad: distributed system for joint management of code, data, and their relati
 - FAIRly big: https://doi.org/10.1038/s41597-022-01163-2 
 - BABS as generalization of FAIRly big: https://doi.org/10.1162/imag_a_00074 
 - HeuDiConv integration: https://doi.org/10.21105/joss.05839
+
+*Last updated December, 2024*

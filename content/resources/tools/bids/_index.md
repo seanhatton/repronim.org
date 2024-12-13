@@ -8,36 +8,41 @@ weight: 80
 
 The Brain Imaging Data Structure (BIDS) is a standard for organizing and describing neuroimaging and behavioral data.  The standard describes how to organize imaging data (such as NIfTI files), acquisition metadata, subject and session data, and other associated information in structured files and a directory structure.
 
-Several tools have been developed to work with BIDS data.  (Such as...)
-
 ### Citation information
 
 10.1038/sdata.2016.44
 
 RRID:SCR_016124
 
-### Requisite knowledge to use
+### How to use
 
-directory structures
+Ideally the details of BIDS are transparent to the end user.
 
-file manipulation
+Some tools that produce BIDS are:
 
-tools
+- HeuDiConv
+- dcm2niix
+- BIDScoin
+- BIDSkit
+- BIDifier
 
-### Requisite technical requirements
+Some tools that consume BIDS are:
 
-### Conformance statement
+- fMRIPrep
+- MRIQC
+- dMRIprep
+- OpenNeuro
+
+It is possible to interact with BIDS using:
+
+- BIDS Validator
+- PyBIDS
 
 ### Links
 
-- Home page
-https://bids.neuroimaging.io/
-- Tutorial
-https://bids-standard.github.io/bids-starter-kit/
-- Full documentation
-https://bids.neuroimaging.io/specification.html
-- How to get help
-https://bids.neuroimaging.io/get_involved.html
-- Testimonials
+- Home page: https://bids.neuroimaging.io/
+- Tutorial: https://bids-standard.github.io/bids-starter-kit/
+- Full documentation: https://bids.neuroimaging.io/specification.html
+- How to get help: https://bids.neuroimaging.io/get_involved.html
 
 ### Representative publications

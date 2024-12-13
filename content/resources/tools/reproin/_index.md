@@ -4,9 +4,13 @@ date: 2024-12-10T10:17:02-05:00
 weight: 110
 ---
 
-ReproIn is a set of best practices, including usable scripts and configuration files, for using HeuDiConv and DataLad to move and prepare data from a scanner to a form suitable for reproducible neuroimaging analysis.
+ReproIn is a set of best practices for using HeuDiConv and DataLad to prepare raw imaging data for analysis.  ReproIn suggests ways to annotate data using a scanner console and provides usable scripts and configuration files for data preparation.
 
-See also [HeuDiConv](../heudiconv/index.html).
+See also [HeuDiConv](../heudiconv/index.html) and [DataLad](../datalad/index.html).
+
+### Development status
+
+ReproIn can be used as-is and is actively maintained.
 
 ### Citation information
 
@@ -14,15 +18,12 @@ See also [HeuDiConv](../heudiconv/index.html).
 
 ### Requisite technical requirements
 
-### Conformance statement
-
 ### Links
 
-- [Home page](https://github.com/ReproNim/reproin)
-- [Tutorial](https://github.com/ReproNim/reproin)
-- Installation
-- Full documentation
-- How to get help
-- Testimonials
+- Home page: https://github.com/ReproNim/reproin
+- Tutorial: https://github.com/ReproNim/reproin#tutorialhowto
+- Full documentation: https://github.com/ReproNim/reproin
 
 ### Representative publications
+
+*Last updated December, 2024*

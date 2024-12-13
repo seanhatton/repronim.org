@@ -4,9 +4,11 @@ date: 2024-10-28T15:17:52-04:00
 weight: 90
 ---
 
-The Neuroimaging Data Model (NIDM) is an extension to the W3C PROV standard for human brain imaging.  NIDM links components from different stages of the scientific research process from dataset descriptors and computational workflow, to derived data and publication. 
+The Neuroimaging Data Model (NIDM) is an extension to the W3C PROV standard for human brain imaging.  NIDM defines PROV-compatible terms for neuroimaging concepts and relationships.
 
-NIDM is not intended to be used directly by end users.  NIDM is integrated into a number of tools, and other tools are available for people who want to work with NIDM directly or integrate it into other tools.
+### Development status
+
+NIDM is a mature standard widely adopted by the neuroimaging community.  Working groups actively maintain and update the standard.
 
 ### Citation information
 
@@ -16,29 +18,33 @@ RRID:SCR_013667
 
 10.3389/fninf.2023.1174156
 
-### Requisite knowledge to use
+### How to use
 
-Not intended for the end user.
+Ideally the details of NIDM are invisible to the end user.
 
-Tools that work with nidm ...
+Some tools that produce NIDM are:
 
-Developers ...
+- NIDM toolbox for SPM
+- nidmfsl
+- PyNIDM
 
-### Requisite technical requirements
+Some tools that consume NIDM are:
 
-### Conformance statement
+- Nibagel
+- NeuroVault
+
+It is possible to interact with NIDM using:
+
+- PyNIDM
+- NIDM-Viewer
 
 ### Links
 
-- Home page
-http://nidm.nidash.org/
-- Tutorial
-http://nidm.nidash.org/getting-started/
-- Installation
-- Full documentation
-http://nidm.nidash.org/specs/
-- How to get help
-https://neurostars.org/tag/nidm
-- Testimonials
+- Home page: http://nidm.nidash.org/
+- Tutorial: http://nidm.nidash.org/getting-started/
+- Full documentation: http://nidm.nidash.org/specs/
+- How to get help: https://neurostars.org/tag/nidm
 
 ### Representative publications
+
+*Last updated December, 2024*

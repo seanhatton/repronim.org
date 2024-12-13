@@ -6,7 +6,11 @@ weight: 10
 
 *Distributed data versioning and management software.*
 
-DataLad is a command-line tool for data management and sharing.  DataLad can download existing DataLad-prepared datasets and can assist in sharing your own data.  DataLad uses git and git-annex to affort scalable and modular data versioning and management.
+DataLad is a command line tool for data management and sharing.  DataLad can download existing DataLad-prepared datasets and can assist in sharing your own data.  DataLad can track changes to data and supports data versioning.
+
+### Development status
+
+DataLad is production software and is actively maintained.
 
 ### Citation information
 
@@ -26,21 +30,19 @@ DataLad: distributed system for joint management of code, data, and their relati
 - Mac: conda proficiency or Homebrew installed
 - If Python / pip available: datalad-installer could be installed to assist in installation
 
-### Conformance statement
-
-100% lives to its promise.
-
 ### Links
 
-- [Home page](https://datalad.org)
-- [Tutorial](https://handbook.datalad.org/)
-- [Installation](https://handbook.datalad.org/en/latest/intro/installation.html)
-- [Full documentation](http://docs.datalad.org/en/stable/)
-- [How to get help](https://github.com/datalad/datalad/issues)
-- [Testimonials](https://github.com/datalad/datalad/wiki/Testimonials)
+- Home page: https://datalad.org
+- Tutorial: https://handbook.datalad.org/
+- Installation: https://handbook.datalad.org/en/latest/intro/installation.html
+- Full documentation: http://docs.datalad.org/en/stable/
+- How to get help: https://github.com/datalad/datalad/issues
+- Testimonials: https://github.com/datalad/datalad/wiki/Testimonials
 
 ### Representative publications
 
 - FAIRly big: https://doi.org/10.1038/s41597-022-01163-2 
 - BABS as generalization of FAIRly big: https://doi.org/10.1162/imag_a_00074 
 - HeuDiConv integration: https://doi.org/10.21105/joss.05839
+
+*Last updated December, 2024*

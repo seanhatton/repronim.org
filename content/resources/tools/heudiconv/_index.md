@@ -6,9 +6,11 @@ weight: 20
 
 *Flexible DICOM conversion into structured directory layouts.*
 
-HeuDiConv (Heuristic DICOM Converter) enables flexible and efficient conversion of spatially reconstructed neuroimaging data from the DICOM format (quasi-ubiquitous in biomedical image acquisition systems, particularly in clinical settings) to BIDS, as well as other file layouts.
+HeuDiConv (Heuristic DICOM Converter) is a command line converter from DICOM to BIDS (or other structured layouts).  HeuDiConv's conversion parameters are encoded as configurable Python code ("heuristics"), enabling flexible and efficient use.
 
-See also [ReproIn](../reproin/index.html).
+### Development status
+
+HeuDiConv is production software and is actively maintained.
 
 ### Citation information
 
@@ -16,13 +18,11 @@ RRID:SCR_017427
 
 ### Requisite knowledge to use
 
-### Requisite technical requirements
-
 - Command line
 - Desired project structure (BIDS)
 - Python
 
-### Conformance statement
+### Requisite technical requirements
 
 - Collecting DICOMs from MRI (not NIfTI, PAR/REC, etc)
 - Python OR Docker OR Singularity OR Debian
@@ -30,11 +30,14 @@ RRID:SCR_017427
 
 ### Links
 
-- [Home page](https://heudiconv.readthedocs.io/)
-- [Tutorial](https://heudiconv.readthedocs.io/en/latest/tutorials.html)
-- [Installation](https://heudiconv.readthedocs.io/en/latest/installation.html)
-- [Full documentation](https://heudiconv.readthedocs.io/)
-- [How to get help 1](https://github.com/nipy/heudiconv/issues) [How to get help 2](https://neurostars.org/tag/heudiconv)
-- Testimonials
+- Home page: https://heudiconv.readthedocs.io/
+- Tutorial: https://heudiconv.readthedocs.io/en/latest/tutorials.html
+- Installation: https://heudiconv.readthedocs.io/en/latest/installation.html
+- Full documentation: https://heudiconv.readthedocs.io/
+- How to get help:
+  - https://github.com/nipy/heudiconv/issues
+  - https://neurostars.org/tag/heudiconv
 
 ### Representative publications
+
+*Last updated December, 2024*

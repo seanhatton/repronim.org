@@ -1,10 +1,14 @@
 ---
-title: "NeuroDocker"
+title: "Neurodocker"
 date: 2024-10-28T15:17:51-04:00
 weight: 40
 ---
 
-Neurodocker is a command-line program that generates custom Dockerfiles and Singularity recipes for neuroimaging and minifies existing containers.
+Neurodocker is a command line program for generating Dockerfiles and Singularity recipes for neuroimaging software.
+
+### Development status
+
+Neurodocker is production software and is actively maintained.
 
 ### Citation information
 
@@ -13,7 +17,7 @@ Remi Gau, Jakub Kaczmarzyk, Satrajit Ghosh, Steffen Bollmann, Yaroslav Halchenko
 ### Requisite knowledge to use
 
 - bash/command line
-- Docker
+- Docker/singularity
 
 ### Requisite technical requirements
 
@@ -21,19 +25,14 @@ Remi Gau, Jakub Kaczmarzyk, Satrajit Ghosh, Steffen Bollmann, Yaroslav Halchenko
 - Python 3.8-3.12
 - Docker or Singularity
 
-### Conformance statement
-
 ### Links
 
-- [Home page](https://www.repronim.org/neurodocker/)
-- Tutorial
-- [Installation](https://www.repronim.org/neurodocker/user_guide/installation.html)
-- [Full documentation](https://www.repronim.org/neurodocker/index.html)
-- How to get help
-- Testimonials
+- Home page: https://www.repronim.org/neurodocker/
+- Tutorial: https://miykael.github.io/nipype_tutorial/notebooks/introduction_neurodocker.html
+- Installation: https://www.repronim.org/neurodocker/user_guide/installation.html
+- Full documentation: https://www.repronim.org/neurodocker/index.html
+- How to get help: https://neurostars.org/tag/neurodocker
 
 ### Representative publications
 
-
-
-
+*Last updated December, 2024*

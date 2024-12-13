@@ -16,8 +16,8 @@ This section describes core tools and standards produced by ReproNim.  For a mor
 
 ## Core Standards
 
-- [BIDS](bids/index.html): A standard for organizing neuroimaging data and metadata on disk.
-- [NIDM](nidm/index.html): A Semantic Web extension for neuroimaging concepts.
+- [The Brain Imaging Data Structure (BIDS)](bids/index.html): A standard for organizing neuroimaging data and metadata on disk.
+- [The Neuroimaging Data Model (NIDM)](nidm/index.html): A Semantic Web extension for neuroimaging concepts.
 
 ## Best Practices
 

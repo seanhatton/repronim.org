@@ -4,7 +4,7 @@ date: 2024-11-27T11:05:23-05:00
 weight: 43
 ---
 
-Nipoppy extends BIDS to help students and researchers to organize the full cycle of brain imaging processings. Nipoppy is a roadmap that relies on BIDS but extends it to help researchers adopt a standard for the processings of neuroimaging and non neuroimaging data. It automatically process new data coming in and help the organization of derived data. It offers visualization tools for monitoring the processings (what has failed, what has succeeded).
+Nipoppy is a command line tool to manage a complete neuroimaging processing workflow.  Nipoppy will organize and convertraw data, process it with existing or custom pipelines, and extract derived data for further statistical modeling and analysis.
 
 ### Citation information
 

@@ -6,7 +6,7 @@ weight: 80
 
 *A simple and intuitive way to organize and describe your neuroimaging and behavioral data.*
 
-The Brain Imaging Data Structure (BIDS) is a way to organize and describe neuroimaging and behavioral data.  BIDS describes a standard for organizing imaging data (such as NIfTI files), acquisition metadata, subject and session data, and other associated information in structured files in a file and directory structure.
+The Brain Imaging Data Structure (BIDS) is a standard for organizing and describing neuroimaging and behavioral data.  The standard describes how to organize imaging data (such as NIfTI files), acquisition metadata, subject and session data, and other associated information in structured files and a directory structure.
 
 Several tools have been developed to work with BIDS data.  (Such as...)
 

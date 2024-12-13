@@ -24,10 +24,10 @@ Nipoppy delivers on its promise, has already been adopted by the Enigma-PD conso
 
 ### Links
 
-- [Home page](https://nipoppy.readthedocs.io/en/latest/)
-- [Tutorial](https://nipoppy.readthedocs.io/en/latest/quickstart.html)
-- [Installation](https://nipoppy.readthedocs.io/en/latest/installation.html)
-- [Full documentation](https://nipoppy.readthedocs.io/en/latest/user_guide/index.html)
+- [Home page](https://nipoppy.readthedocs.io/en/stable/)
+- [Tutorial](https://nipoppy.readthedocs.io/en/stable/quickstart.html)
+- [Installation](https://nipoppy.readthedocs.io/en/stable/installation.html)
+- [Full documentation](https://nipoppy.readthedocs.io/en/stable/user_guide/index.html)
 - How to get help
 - [Testimonial](https://www.linkedin.com/posts/evavanheese789_you-only-realise-how-important-infrastructure-activity-7220000830463053828-QdDy)
 

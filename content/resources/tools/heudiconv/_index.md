@@ -6,9 +6,7 @@ weight: 20
 
 *Flexible DICOM conversion into structured directory layouts.*
 
-HeuDiConv (Heuristic DICOM Converter) enables flexible and efficient conversion of spatially reconstructed neuroimaging data from the DICOM format (quasi-ubiquitous in biomedical image acquisition systems, particularly in clinical settings) to BIDS, as well as other file layouts.
-
-See also [ReproIn](../reproin/index.html).
+HeuDiConv (Heuristic DICOM Converter) is a command line converter from DICOM to BIDS (or other structured layouts).  HeuDiConv's conversion parameters are encoded as configurable Python code ("heuristics"), enabling flexible and efficient use.
 
 ### Citation information
 

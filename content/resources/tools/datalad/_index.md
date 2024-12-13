@@ -6,7 +6,7 @@ weight: 10
 
 *Distributed data versioning and management software.*
 
-DataLad is a command-line tool for data management and sharing.  DataLad can download existing DataLad-prepared datasets and can assist in sharing your own data.  DataLad uses git and git-annex to affort scalable and modular data versioning and management.
+DataLad is a command line tool for data management and sharing.  DataLad can download existing DataLad-prepared datasets and can assist in sharing your own data.  DataLad can track changes to data and supports data versioning.
 
 ### Citation information
 

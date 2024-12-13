@@ -28,11 +28,12 @@ RRID:SCR_017427
 
 ### Links
 
-- [Home page](https://heudiconv.readthedocs.io/)
-- [Tutorial](https://heudiconv.readthedocs.io/en/latest/tutorials.html)
-- [Installation](https://heudiconv.readthedocs.io/en/latest/installation.html)
-- [Full documentation](https://heudiconv.readthedocs.io/)
-- [How to get help 1](https://github.com/nipy/heudiconv/issues) [How to get help 2](https://neurostars.org/tag/heudiconv)
-- Testimonials
+- Home page: https://heudiconv.readthedocs.io/
+- Tutorial: https://heudiconv.readthedocs.io/en/latest/tutorials.html
+- Installation: https://heudiconv.readthedocs.io/en/latest/installation.html
+- Full documentation: https://heudiconv.readthedocs.io/
+- How to get help:
+  - https://github.com/nipy/heudiconv/issues
+  - https://neurostars.org/tag/heudiconv
 
 ### Representative publications

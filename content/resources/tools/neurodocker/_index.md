@@ -25,12 +25,11 @@ Remi Gau, Jakub Kaczmarzyk, Satrajit Ghosh, Steffen Bollmann, Yaroslav Halchenko
 
 ### Links
 
-- [Home page](https://www.repronim.org/neurodocker/)
-- Tutorial
-- [Installation](https://www.repronim.org/neurodocker/user_guide/installation.html)
-- [Full documentation](https://www.repronim.org/neurodocker/index.html)
-- How to get help
-- Testimonials
+- Home page: https://www.repronim.org/neurodocker/
+- Tutorial: https://miykael.github.io/nipype_tutorial/notebooks/introduction_neurodocker.html
+- Installation: https://www.repronim.org/neurodocker/user_guide/installation.html
+- Full documentation: https://www.repronim.org/neurodocker/index.html
+- How to get help: https://neurostars.org/tag/neurodocker
 
 ### Representative publications
 

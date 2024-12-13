@@ -34,11 +34,9 @@ RRID:SCR_021022
 
 ### Links
 
-- [Home page](https://pynidm.readthedocs.io/)
-- [Tutorial]
-- [Installation](https://pynidm.readthedocs.io/en/latest/#installation)
-- [Full documentation](https://pynidm.readthedocs.io/)
-- [How to get help](https://github.com/incf-nidash/PyNIDM/issues)
-- Testimonials
+- Home page: https://pynidm.readthedocs.io/
+- Installation: https://pynidm.readthedocs.io/en/latest/#installation
+- Full documentation: https://pynidm.readthedocs.io/
+- How to get help: https://github.com/incf-nidash/PyNIDM/issues
 
 ### Representative publications

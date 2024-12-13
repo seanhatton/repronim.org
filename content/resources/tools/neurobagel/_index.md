@@ -26,11 +26,13 @@ Linux
 
 ### Links
 
-- [Home page](https://neurobagel.org/)
-- Tutorial
-- Installation
-- Full documentation
-- How to get help
-- [Testimonial](https://www.linkedin.com/posts/evavanheese789_you-only-realise-how-important-infrastructure-activity-7220000830463053828-QdDy)
+- Home page: https://neurobagel.org/
+- Tutorials:
+  - https://neurobagel.org/user_guide/query_tool/
+  - https://neurobagel.org/user_guide/getting_started/
+  - https://neurobagel.org/user_guide/data_prep/
+- Full documentation: https://neurobagel.org/user_guide/
+- How to get help: https://neurostars.org/tag/neurobagel
+- Testimonials: https://www.linkedin.com/posts/evavanheese789_you-only-realise-how-important-infrastructure-activity-7220000830463053828-QdDy
 
 ### Representative publications

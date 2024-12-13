@@ -32,12 +32,12 @@ DataLad: distributed system for joint management of code, data, and their relati
 
 ### Links
 
-- [Home page](https://datalad.org)
-- [Tutorial](https://handbook.datalad.org/)
-- [Installation](https://handbook.datalad.org/en/latest/intro/installation.html)
-- [Full documentation](http://docs.datalad.org/en/stable/)
-- [How to get help](https://github.com/datalad/datalad/issues)
-- [Testimonials](https://github.com/datalad/datalad/wiki/Testimonials)
+- Home page: https://datalad.org
+- Tutorial: https://handbook.datalad.org/
+- Installation: https://handbook.datalad.org/en/latest/intro/installation.html
+- Full documentation: http://docs.datalad.org/en/stable/
+- How to get help: https://github.com/datalad/datalad/issues
+- Testimonials: https://github.com/datalad/datalad/wiki/Testimonials
 
 ### Representative publications
 

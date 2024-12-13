@@ -12,6 +12,7 @@ This section describes core tools and standards produced by ReproNim.  For a mor
 - [HeuDiConv](heudiconv/index.html): A DICOM to BIDS converter.
 - [Neurobagel](neurobagel/index.html): A set of tools to query and share clinical and brain imaging data.
 - [Neurodocker](neurodocker/index.html): A tool to generate custom Dockerfiles and Singularity recipes to wrap neuroimaging tools.
+- [PyNIDM](pynidm/index.html): A command line tool for working with NIDM data.
 - [ReproSchema](reproschema/index.html): A tool for defining, sharing, and reusing structured research protocols, enabling versioning and interoperability across studies.
 
 ## Core Standards

@@ -18,6 +18,8 @@ ReproIn is a working example of HeuDiConv and DataLad that allows users to use t
 
 ### Citation information
 
+[RRID:SCR_017184](https://scicrunch.org/resolver/RRID:SCR_017184)
+
 ### Requisite knowledge to use
 
 ### Requisite technical requirements

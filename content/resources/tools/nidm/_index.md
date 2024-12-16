@@ -16,11 +16,11 @@ By using Semantic Web standards and technologies as its base, NIDM builds on and
 
 ### Citation information
 
-RRID:SCR_013667
+Keator, D. B., Helmer, K., Steffener, J., Turner, J. A., Van Erp, T. G. M., Gadde, S., Ashish, N., Burns, G. A., & Nichols, B. N. (2013). Towards structured sharing of raw and derived neuroimaging data across existing resources. NeuroImage, 82, 647–661. https://doi.org/10.1016/j.neuroimage.2013.05.094
 
-10.1016/j.neuroimage.2013.05.094
+Queder, N., Tien, V. B., Abraham, S. A., Urchs, S. G. W., Helmer, K. G., Chaplin, D., van Erp, T. G. M., Kennedy, D. N., Poline, J.-B., Grethe, J. S., Ghosh, S. S., & Keator, D. B. (2023). NIDM-Terms: community-based terminology management for improved neuroimaging dataset descriptions and query. Frontiers in Neuroinformatics, 17. https://doi.org/10.3389/fninf.2023.1174156
 
-10.3389/fninf.2023.1174156
+[RRID:SCR_013667](https://scicrunch.org/resolver/RRID:SCR_013667)
 
 ### How to use
 

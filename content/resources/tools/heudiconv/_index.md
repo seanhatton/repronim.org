@@ -18,7 +18,7 @@ Conversion from DICOM to more usable formats is complicated and requires managin
 
 ### Citation information
 
-RRID:SCR_017427
+[RRID:SCR_017427](https://scicrunch.org/resolver/RRID:SCR_017427)
 
 ### Requisite knowledge to use
 

@@ -16,6 +16,8 @@ While the use of containers is desirable, containerization of tools can be diffi
 
 ### Citation information
 
+[RRID:SCR_017426](https://scicrunch.org/resolver/RRID:SCR_017426)
+
 Remi Gau, Jakub Kaczmarzyk, Satrajit Ghosh, Steffen Bollmann, Yaroslav Halchenko, Mathias Goncalves, Matteo Visconti di Oleggio Castello, Dorota Jarecka, Paul Wighton, Michael Notter, Chris Markiewicz, Dylan Nielson, Ghislain Vaillant, araikes, Tom Close, Sooyoung Ahn, Ross Mitchell, Matt Cieslak, Joshua Scarsbrook, … James Kent. (2024). ReproNim/neurodocker: 1.0.1 (1.0.1). Zenodo. https://doi.org/10.5281/zenodo.12675111
 
 ### Requisite knowledge to use

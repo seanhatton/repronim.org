@@ -18,9 +18,9 @@ By applying source code best practices to data, DataLad has been able to build o
 
 ### Citation information
 
-RRID:SCR_003931
+Halchenko, Y., Meyer, K., Poldrack, B., Solanky, D., Wagner, A., Gors, J., MacFarlane, D., Pustina, D., Sochat, V., Ghosh, S., Mönch, C., Markiewicz, C., Waite, L., Shlyakhter, I., de la Vega, A., Hayashi, S., Häusler, C., Poline, J.-B., Kadelka, T., … Hanke, M. (2021). DataLad: distributed system for joint management of code, data, and their relationship. Journal of Open Source Software, 6(63), 3262. https://doi.org/10.21105/joss.03262
 
-DataLad: distributed system for joint management of code, data, and their relationship. Journal of Open Source Software, 6(63), 3262, 10.21105/joss.03262
+[RRID:SCR_003931](https://scicrunch.org/resolver/RRID:SCR_003931)
 
 ### Requisite knowledge to use
 

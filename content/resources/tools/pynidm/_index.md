@@ -27,7 +27,7 @@ PyNIDM is the first tool to allow working with NIDM without needing to understan
 
 ### Citation information
 
-RRID:SCR_021022
+[RRID:SCR_021022](https://scicrunch.org/resolver/RRID:SCR_021022)
 
 ### Requisite knowledge to use
 

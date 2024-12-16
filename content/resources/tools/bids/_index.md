@@ -18,9 +18,9 @@ BIDS broadens the idea of a data format to standardize the organization of level
 
 ### Citation information
 
-10.1038/sdata.2016.44
+Gorgolewski, K. J., Auer, T., Calhoun, V. D., Craddock, R. C., Das, S., Duff, E. P., Flandin, G., Ghosh, S. S., Glatard, T., Halchenko, Y. O., Handwerker, D. A., Hanke, M., Keator, D., Li, X., Michael, Z., Maumet, C., Nichols, B. N., Nichols, T. E., Pellman, J., … Poldrack, R. A. (2016). The brain imaging data structure, a format for organizing and describing outputs of neuroimaging experiments. Scientific Data, 3(1). https://doi.org/10.1038/sdata.2016.44
 
-RRID:SCR_016124
+[RRID:SCR_016124](https://scicrunch.org/resolver/RRID:SCR_016124)
 
 ### How to use
 

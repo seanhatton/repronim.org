@@ -12,6 +12,10 @@ The Brain Imaging Data Structure (BIDS) is a standard for organizing and describ
 
 BIDS is a mature standard widely adopted by the neuroimaging community.  Working groups actively maintain and update the standard.
 
+### Innovation
+
+BIDS broadens the idea of a data format to standardize the organization of levels of data not usually addressed by traditional formats.  BIDS focuses on data organization and not the definition of data elements: by not trying to solve every outstanding problem, BIDS is able to effectively addresses certain issues of data interchange.
+
 ### Citation information
 
 10.1038/sdata.2016.44

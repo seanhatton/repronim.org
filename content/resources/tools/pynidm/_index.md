@@ -21,6 +21,10 @@ PyNIDM also provides a utility to query NIDM data using a REST API.
 
 PyNIDM is production software and is actively maintained.
 
+### Innovation
+
+PyNIDM is the first tool to allow working with NIDM without needing to understand the details of its semantics.  While NIDM itself is a complicated standard that requires precise technical knowledge and some analysis software uses NIDM completely behind the scenes, PyNIDM allows interested users and developers to work with NIDM without being an expert in the standard.
+
 ### Citation information
 
 RRID:SCR_021022

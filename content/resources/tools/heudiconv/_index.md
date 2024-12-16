@@ -12,6 +12,10 @@ HeuDiConv (Heuristic DICOM Converter) is a command line converter from DICOM to 
 
 HeuDiConv is production software and is actively maintained.
 
+### Innovation
+
+Conversion from DICOM to more usable formats is complicated and requires managing a lot of metadata, but some flexibility is needed to prepare the data in a form appropriate for the next steps.  HeuDiConv allows the user to efficiently manage the flexibility while hiding unneeded complexity.
+
 ### Citation information
 
 RRID:SCR_017427

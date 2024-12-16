@@ -12,6 +12,10 @@ DataLad is a command line tool for data management and sharing.  DataLad can dow
 
 DataLad is production software and is actively maintained.
 
+### Innovation
+
+By applying source code best practices to data, DataLad has been able to build on existing tools to rapidly build a usable system for data management, versioning, and sharing.
+
 ### Citation information
 
 RRID:SCR_003931

@@ -10,6 +10,10 @@ Neurodocker is a command line program for generating Dockerfiles and Singularity
 
 Neurodocker is production software and is actively maintained.
 
+### Innovation
+
+While the use of containers is desirable, containerization of tools can be difficult in practice.  By abstracting away the details of creating container images, Neurodocker makes containers more accessible and lowers the barrier to their use.
+
 ### Citation information
 
 Remi Gau, Jakub Kaczmarzyk, Satrajit Ghosh, Steffen Bollmann, Yaroslav Halchenko, Mathias Goncalves, Matteo Visconti di Oleggio Castello, Dorota Jarecka, Paul Wighton, Michael Notter, Chris Markiewicz, Dylan Nielson, Ghislain Vaillant, araikes, Tom Close, Sooyoung Ahn, Ross Mitchell, Matt Cieslak, Joshua Scarsbrook, … James Kent. (2024). ReproNim/neurodocker: 1.0.1 (1.0.1). Zenodo. https://doi.org/10.5281/zenodo.12675111

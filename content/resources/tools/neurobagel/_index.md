@@ -14,6 +14,10 @@ Neurobagel is a system for distributed data sharing and discovery.  Neurobagel i
 
 Neurobagel is a production system and is actively maintained.
 
+### Innovation
+
+Neurobagel is a front end to ReproNim infrastructure technologies.  Neurobagel is an immediately-usable tool that uses the standards and technologies that have been developed as technical foundations but until now have needed specialized knowledge to use.
+
 ### Citation information
 
 ### Requisite knowledge to use

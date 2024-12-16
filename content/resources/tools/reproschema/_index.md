@@ -15,6 +15,10 @@ ReproSchema is a framework for structured survey developement and data collectio
 
 ReproSchema is complete and is actively maintained.
 
+### Innovation
+
+ReproSchema applies reproducible neuroimaging principles to assessments, allowing behavioral and survey data to be included in ReproNim's workflows.  ReproSchema provides both the backend infrastructure to do this as well as a front end to immediately use this technology.
+
 ### Citation information
 
 ### Requisite knowledge to use

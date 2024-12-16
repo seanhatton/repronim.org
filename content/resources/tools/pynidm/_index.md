@@ -46,5 +46,3 @@ RRID:SCR_021022
 - How to get help: https://github.com/incf-nidash/PyNIDM/issues
 
 ### Representative publications
-
-*Last updated December, 2024*

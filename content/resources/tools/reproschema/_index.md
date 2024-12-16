@@ -43,5 +43,3 @@ ReproSchema applies reproducible neuroimaging principles to assessments, allowin
 - How to get help: https://github.com/ReproNim/reproschema/issues
 
 ### Representative publications
-
-*Last updated December, 2024*

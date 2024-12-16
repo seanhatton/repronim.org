@@ -50,5 +50,3 @@ It is possible to interact with NIDM using:
 - How to get help: https://neurostars.org/tag/nidm
 
 ### Representative publications
-
-*Last updated December, 2024*

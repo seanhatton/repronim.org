@@ -54,5 +54,3 @@ It is possible to interact with BIDS using:
 - How to get help: https://bids.neuroimaging.io/get_involved.html
 
 ### Representative publications
-
-*Last updated December, 2024*

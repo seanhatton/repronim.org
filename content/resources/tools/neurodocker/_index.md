@@ -38,5 +38,3 @@ Remi Gau, Jakub Kaczmarzyk, Satrajit Ghosh, Steffen Bollmann, Yaroslav Halchenko
 - How to get help: https://neurostars.org/tag/neurodocker
 
 ### Representative publications
-
-*Last updated December, 2024*

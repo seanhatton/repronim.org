@@ -29,5 +29,3 @@ ReproIn is a working example of HeuDiConv and DataLad that allows users to use t
 - Full documentation: https://github.com/ReproNim/reproin
 
 ### Representative publications
-
-*Last updated December, 2024*

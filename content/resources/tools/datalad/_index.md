@@ -48,5 +48,3 @@ DataLad: distributed system for joint management of code, data, and their relati
 - FAIRly big: https://doi.org/10.1038/s41597-022-01163-2 
 - BABS as generalization of FAIRly big: https://doi.org/10.1162/imag_a_00074 
 - HeuDiConv integration: https://doi.org/10.21105/joss.05839
-
-*Last updated December, 2024*

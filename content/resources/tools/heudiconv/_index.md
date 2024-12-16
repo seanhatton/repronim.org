@@ -43,5 +43,3 @@ RRID:SCR_017427
   - https://neurostars.org/tag/heudiconv
 
 ### Representative publications
-
-*Last updated December, 2024*

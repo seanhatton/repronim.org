@@ -35,5 +35,3 @@ Command line familiarity, some python experience if one wants to extend the ecos
 - Testimonial: https://www.linkedin.com/posts/evavanheese789_you-only-realise-how-important-infrastructure-activity-7220000830463053828-QdDy
 
 ### Representative publications
-
-*Last updated December, 2024*

@@ -4,7 +4,7 @@ date: 2024-10-28T15:17:51-04:00
 weight: 70
 ---
 
-ReproSchema is a framework for structured survey developement and data collection.  It provides:
+ReproSchema is a framework for structured survey development and data collection.  It provides:
 
 - A library of common assessments and questionnaires.
 - A user interface for data collection.

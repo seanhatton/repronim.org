@@ -4,7 +4,7 @@ date: 2024-11-27T11:05:23-05:00
 weight: 43
 ---
 
-Nipoppy is a command line tool to manage a complete neuroimaging processing workflow.  Nipoppy will organize and convertraw data, process it with existing or custom pipelines, and extract derived data for further statistical modeling and analysis.
+Nipoppy is a command line tool to manage a complete neuroimaging processing workflow.  Nipoppy will organize and convert raw data, process it with existing or custom pipelines, and extract derived data for further statistical modeling and analysis.
 
 ### Development status
 

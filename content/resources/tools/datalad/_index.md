@@ -45,6 +45,9 @@ Halchenko, Y., Meyer, K., Poldrack, B., Solanky, D., Wagner, A., Gors, J., MacFa
 
 ### Representative publications
 
-- FAIRly big: https://doi.org/10.1038/s41597-022-01163-2 
-- BABS as generalization of FAIRly big: https://doi.org/10.1162/imag_a_00074 
-- HeuDiConv integration: https://doi.org/10.21105/joss.05839
+Wagner, A. S., Waite, L. K., Wierzba, M., Hoffstaedter, F., Waite, A. Q., Poldrack, B., Eickhoff, S. B., & Hanke, M. (2022). FAIRly big: A framework for computationally reproducible processing of large-scale data. Scientific Data, 9(1). https://doi.org/10.1038/s41597-022-01163-2
+
+Zhao, C., Jarecka, D., Covitz, S., Chen, Y., Eickhoff, S. B., Fair, D. A., Franco, A. R., Halchenko, Y. O., Hendrickson, T. J., Hoffstaedter, F., Houghton, A., Kiar, G., Macdonald, A., Mehta, K., Milham, M. P., Salo, T., Hanke, M., Ghosh, S. S., Cieslak, M., & Satterthwaite, T. D. (2024). A reproducible and generalizable software workflow for analysis of large-scale neuroimaging data collections using BIDS Apps. Imaging Neuroscience, 2, 1–19. https://doi.org/10.1162/imag_a_00074
+
+Halchenko, Y. O., Goncalves, M., Ghosh, S., Velasco, P., Visconti di Oleggio Castello, M., Salo, T., Wodder, J. T., Hanke, M., Sadil, P., Gorgolewski, K. J., Ioanas, H.-I., Rorden, C., Hendrickson, T. J., Dayan, M., Houlihan, S. D., Kent, J., Strauss, T., Lee, J., To, I., … Kennedy, D. N. (2024). HeuDiConv — flexible DICOM conversion into structured
+directory layouts. Journal of Open Source Software, 9(99), 5839. https://doi.org/10.21105/joss.05839

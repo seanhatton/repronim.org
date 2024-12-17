@@ -22,12 +22,12 @@ Remi Gau, Jakub Kaczmarzyk, Satrajit Ghosh, Steffen Bollmann, Yaroslav Halchenko
 
 ### Requisite knowledge to use
 
-- bash/command line
-- Docker/singularity
+- Command line familiarity
+- Docker or Singularity familiarity
 
 ### Requisite technical requirements
 
-- Linux / OSX
+- Linux / macOS
 - Python 3.8-3.12
 - Docker or Singularity
 

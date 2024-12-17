@@ -36,7 +36,7 @@ PyNIDM is the first tool to allow working with NIDM without needing to understan
 
 ### Requisite technical requirements
 
-- Supported system
+- Python
 
 ### Links
 

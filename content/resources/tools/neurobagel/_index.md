@@ -22,13 +22,12 @@ Neurobagel is a front end to ReproNim infrastructure technologies.  Neurobagel i
 
 ### Requisite knowledge to use
 
-Command-line familiarity.
+- Command line familiarity.
+- Docker familiarity.
 
 ### Requisite technical requirements
 
-All required element should be installed when setting up a neurobagel node.
-
-Linux
+- A system with Docker installed.
 
 ### Links
 

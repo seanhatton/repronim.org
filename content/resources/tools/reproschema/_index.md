@@ -23,9 +23,9 @@ ReproSchema applies reproducible neuroimaging principles to assessments, allowin
 
 ### Requisite knowledge to use
 
-- Git familiarity (https://git-scm.com/doc)
-- Command-line familiarity is helpful (https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-- Python familiarity is helpful but not mandatory (https://www.python.org/about/gettingstarted/)
+- Git familiarity
+- Command line familiarity is helpful
+- Python familiarity is helpful but not mandatory
 
 ### Requisite technical requirements
 

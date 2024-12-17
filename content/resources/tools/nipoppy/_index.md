@@ -18,13 +18,12 @@ Nipoppy is the first end-to-end tool for neuroimaging analysis, integrating othe
 
 ### Requisite knowledge to use
 
-Command line familiarity, some python experience if one wants to extend the ecosystem to new processings.
+- Command line familiarity
 
 ### Requisite technical requirements
 
-- list of subjects to be processed,
-- collection of dicoms or nifti, relies on heudiconv
-- depends on python and containers
+- Python or conda
+- Docker
 
 ### Links
 

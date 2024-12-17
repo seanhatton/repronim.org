@@ -22,7 +22,12 @@ ReproIn is a working example of HeuDiConv and DataLad that allows users to use t
 
 ### Requisite knowledge to use
 
+- Working knowledge of HeuDiConv
+- Working knowledge of DataLad (optional)
+
 ### Requisite technical requirements
+
+- HeuDiconv installed
 
 ### Links
 

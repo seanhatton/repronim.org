@@ -22,15 +22,14 @@ Conversion from DICOM to more usable formats is complicated and requires managin
 
 ### Requisite knowledge to use
 
-- Command line
-- Desired project structure (BIDS)
-- Python
+- Command line familiarity
+- BIDS familiarity
+- Python proficiency
 
 ### Requisite technical requirements
 
-- Collecting DICOMs from MRI (not NIfTI, PAR/REC, etc)
-- Python OR Docker OR Singularity OR Debian
-- DataLad (optional)
+- A system with Python installed, or
+- A system with Docker or Singularity installed
 
 ### Links
 

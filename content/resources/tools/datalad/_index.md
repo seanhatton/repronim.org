@@ -24,15 +24,15 @@ Halchenko, Y., Meyer, K., Poldrack, B., Solanky, D., Wagner, A., Gors, J., MacFa
 
 ### Requisite knowledge to use
 
-- Command-line familiarity (command line tutorial: https://www.repronim.org/module-reproducible-basics/01-shell-basics/ )
-- Git familiarity is helpful but not mandatory (Git tutorial: https://swcarpentry.github.io/git-novice/)
-- git-annex familiarity is helpful but not mandatory (Git-annex tutorial: https://git-annex.branchable.com/walkthrough/)
+- Command line familiarity
+- Git familiarity is helpful but not mandatory
+- git-annex familiarity is helpful but not mandatory
 
 ### Requisite technical requirements
 
-- Debian: apt proficiency.
-- Mac: conda proficiency or Homebrew installed
-- If Python / pip available: datalad-installer could be installed to assist in installation
+- One of the following systems, and proficiency in its installer
+  - Debian (install with apt)
+  - macOS (install with conda or Homebrew)
 
 ### Links
 

@@ -12,11 +12,22 @@ See also [HeuDiConv](../heudiconv/index.html) and [DataLad](../datalad/index.htm
 
 ReproIn can be used as-is and is actively maintained.
 
+### Innovation
+
+ReproIn is a working example of HeuDiConv and DataLad that allows users to use these tools immediately and alter the ReproIn configurations to meet their needs rather than to have to learn HeuDiConv and DataLad from the ground up.
+
 ### Citation information
+
+[RRID:SCR_017184](https://scicrunch.org/resolver/RRID:SCR_017184)
 
 ### Requisite knowledge to use
 
+- Working knowledge of HeuDiConv
+- Working knowledge of DataLad (optional)
+
 ### Requisite technical requirements
+
+- HeuDiconv installed
 
 ### Links
 
@@ -25,5 +36,3 @@ ReproIn can be used as-is and is actively maintained.
 - Full documentation: https://github.com/ReproNim/reproin
 
 ### Representative publications
-
-*Last updated December, 2024*

@@ -4,7 +4,7 @@ date: 2024-10-28T15:17:51-04:00
 weight: 70
 ---
 
-ReproSchema is a framework for structured survey developement and data collection.  It provides:
+ReproSchema is a framework for structured survey development and data collection.  It provides:
 
 - A library of common assessments and questionnaires.
 - A user interface for data collection.
@@ -15,13 +15,17 @@ ReproSchema is a framework for structured survey developement and data collectio
 
 ReproSchema is complete and is actively maintained.
 
+### Innovation
+
+ReproSchema applies reproducible neuroimaging principles to assessments, allowing behavioral and survey data to be included in ReproNim's workflows.  ReproSchema provides both the backend infrastructure to do this as well as a front end to immediately use this technology.
+
 ### Citation information
 
 ### Requisite knowledge to use
 
-- Git familiarity (https://git-scm.com/doc)
-- Command-line familiarity is helpful (https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
-- Python familiarity is helpful but not mandatory (https://www.python.org/about/gettingstarted/)
+- Git familiarity
+- Command line familiarity is helpful
+- Python familiarity is helpful but not mandatory
 
 ### Requisite technical requirements
 
@@ -39,5 +43,3 @@ ReproSchema is complete and is actively maintained.
 - How to get help: https://github.com/ReproNim/reproschema/issues
 
 ### Representative publications
-
-*Last updated December, 2024*

@@ -8,11 +8,11 @@ This section describes core tools and standards produced by ReproNim.  For a mor
 
 ## Core Tools
 
-- [DataLad](datalad/index.html): A distribution and version control system for all digital objects of science.
+- [DataLad](datalad/index.html): Software for data versioning and distribution.
 - [HeuDiConv](heudiconv/index.html): A DICOM to BIDS converter.
 - [Neurobagel](neurobagel/index.html): A set of tools to query and share clinical and brain imaging data.
-- [Neurodocker](neurodocker/index.html): A tool to generate custom Dockerfiles and Singularity recipes to wrap neuroimaging tools.
-- [Nipoppy](nipoppy/index.html): A protocol and a set of tools for standardized processing of neuroimaging studies.
+- [Neurodocker](neurodocker/index.html): A tool to generate custom Dockerfiles and Singularity recipes to containerize neuroimaging tools.
+- [Nipoppy](nipoppy/index.html): A command line tool to manage a complete neuroimaging processing workflow.
 - [PyNIDM](pynidm/index.html): A command line tool for working with NIDM data.
 - [ReproSchema](reproschema/index.html): A tool for defining, sharing, and reusing structured research protocols, enabling versioning and interoperability across studies.
 

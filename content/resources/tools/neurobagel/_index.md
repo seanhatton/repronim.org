@@ -14,17 +14,20 @@ Neurobagel is a system for distributed data sharing and discovery.  Neurobagel i
 
 Neurobagel is a production system and is actively maintained.
 
+### Innovation
+
+Neurobagel is a front end to ReproNim infrastructure technologies.  Neurobagel is an immediately-usable tool that uses the standards and technologies that have been developed as technical foundations but until now have needed specialized knowledge to use.
+
 ### Citation information
 
 ### Requisite knowledge to use
 
-Command-line familiarity.
+- Command line familiarity.
+- Docker familiarity.
 
 ### Requisite technical requirements
 
-All required element should be installed when setting up a neurobagel node.
-
-Linux
+- A system with Docker installed.
 
 ### Links
 
@@ -38,5 +41,3 @@ Linux
 - Testimonials: https://www.linkedin.com/posts/evavanheese789_you-only-realise-how-important-infrastructure-activity-7220000830463053828-QdDy
 
 ### Representative publications
-
-*Last updated December, 2024*

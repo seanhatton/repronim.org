@@ -5,7 +5,7 @@
 <div class="people-gallery">
   {{ range $people }}
   <div class="person">
-    <img src="{{ .image }}" alt="{{ .name }}">
+    <img src="{{ .image | default "/images/people/brain.png" }}" alt="{{ .name }}">
     <div class="person-name">{{ .name }}</div>
   </div>
   {{ end }}

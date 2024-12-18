@@ -1,0 +1,12 @@
+div.logos {
+}
+
+div.logos div {
+    justify-content: center;
+}
+
+div.logos div {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}

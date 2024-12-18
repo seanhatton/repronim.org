@@ -50,4 +50,66 @@ In parallel, we are working with both basic and clinical researchers with establ
 
 ## Collaborating Projects
 
+- CP1: Segmenting Brain Structures for Neurological Disorders
+    - Bruce Fischl (PI)
+    - Institution: Massachusetts General Hospital/Harvard Medical School
+- CP2: Connectome Coordination Facility II
+    - Daniel Marcus and David Van Essen (PIs)
+    - Institution: Washington University St. Louis
+- CP3: Healthy Brains for Healthy Lives Initiative
+    - Alan Evans (PI)
+    - Institution: McGill University
+- CP4: COINSTAC: Worldwide Analysis of Valence System Brain Circuits
+    - Vince Calhoun, Jessica Turner,Theodorus Van Erp (PIs)
+    - Institutions: Georgia State University/UC Irvine
+- CP5: OPENNEURO: An Open Archive for Analysis and Sharing of Brain Initiative Data
+    - Russell Poldrack (PI)
+    - Institution: Stanford University
+- CP6: Brainlife: Lowering the Barrier of Entry to Network Neuroscience
+    - Franco Pestilli (PI)
+    - Institution: University of Texas at Austin
+- CP7: DataLad: Versatile Platform for Digital Logistics
+    - Michael Hanke (PI)
+    - Institution: Research Center Julich
+- CP8: Reproducible Imaging-based Brain Growth Charts for Psychiatry
+    - Theodore Satterthwaite (PI)
+    - Institution: University of Pennsylvania
+- CP9: Adolescent Brain and Cognitive Development (ABCD)
+    - Anders Dale
+    - Institution: University of California at San Diego
+- CP10:ENIGMA: A Global Alliance to Unlock Brain Mechanisms
+    - Neda Jahanshad and Paul Thompson (PIs)
+    - Institution: University of Southern California (USC)
+
 ## Service Projects
+
+- SP1: Biomarkers of Developmental Trajectories and Treatment in ASD
+    - Susan Bookheimer (PI)
+    - Institution: University of California at Los Angeles
+- SP2: Environment, Epigenetics, Neurodevelopment & Health of Extremely Preterm Children
+    - Michael O’Shea and Rebecca Fry (PIs)
+    - Institution:University of North Carolina at Chapel Hill
+- SP3: Neuroscience Gateway to Enable Dissemination of Computational and Data Processing Tools and Software
+    - Amitava Majumdar and Kenneth Yoshimoto and Subhashini Sivagnanam (PIs)
+    - Institution: University of California at San Diego
+- SP4: CRCNS: NeuroBridge: Connecting Big Data for Reproducible Clinical Neuroscience
+    - Lei Wang (PI)
+    - Institution: Ohio State University
+- SP5: EAGER: Community Building and Workflows for Data Sharing with Publicly Accessible and Consumable Metadata
+    - Brian Nosek (PI)
+    - Institution: University of Virginia/Center for Open Science
+- SP6: Fragmented Early-life Experiences, Aberrant Circuit Maturation, Emotional Vulnerabilities
+    - Tallie Baram (PI)
+    - Institution: University of California at Irvine
+- SP7: Bridges-2: Scalable Converged Computing, Data, and Analytics for Rapidly Evolving Science and Engineering Research
+    - Shawn Brown (PI)
+    - Institution: Pittsburgh Supercomputing Center
+- SP8: Neuroimaging Analysis Center (NAC)
+    - Ron Kikinis (PI)
+    - Institution: Harvard Medical School
+- SP9: Anticipatory Processing in Psychiatric Disorder
+    - Anna Manelis (PI)
+    - Institution: University of Pittsburgh
+- SP10:Developing Multimodal Imaging of Neurocognitive Dynamics (Dev-MIND)
+    - Tony Wilson (PI)
+    - Institution: University of Nebraska Medical Center

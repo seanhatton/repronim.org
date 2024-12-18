@@ -27,7 +27,7 @@ Who would you like to hear from?
 
 <link rel="stylesheet" href="/css/personas.css">
 <div class="persona">
-    <a href="#sarah-the-early-to-mid-career-researcher">
+    <a href="#sarah">
         <img src="/images/sarah.jpg" alt="Sarah">
     </a>
     <p>

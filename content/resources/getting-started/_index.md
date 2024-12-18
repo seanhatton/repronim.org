@@ -25,36 +25,37 @@ To introduce you to ReproNIM, we have created a set of exemplary user personas t
 
 Who would you like to hear from?
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; gap: 10px;">
+<link rel="stylesheet" href="/css/personas.css">
+<div class="persona">
     <a href="#sarah-the-early-to-mid-career-researcher">
-        <img src="/images/sarah.jpg" alt="Sarah" style="width: 150px; height: auto; object-fit: cover;">
+        <img src="/images/sarah.jpg" alt="Sarah">
     </a>
     <p>
         Hi, I’m Sarah.  I’m an early- to mid-career researcher.  I’m  interested in applying best practices to my day-to-day research workflow.  <a href="#sarah">Read more.</a>
     </p>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; gap: 10px;">
-    <a href="#richard-the-software-engineer">
-        <img src="/images/richard.jpg" alt="Richard" style="width: 150px; height: auto; object-fit: cover;">
+<div class="persona">
+    <a href="#richard">
+        <img src="/images/richard.jpg" alt="Richard">
     </a>
     <p>
         Hi, I’m Richard.  I’m a research software engineer.  I want to incorporate more standards into the technical operations of my lab and also learn more about how to effectively share workflows with my clients.  <a href="#richard">Read more.</a>
     </p>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; gap: 10px;">
-    <a href="#john-the-computational-neuroscientist-and-teacher">
-        <img src="/images/john.jpg" alt="John" style="width: 150px; height: auto; object-fit: cover;">
+<div class="persona">
+    <a href="#john">
+        <img src="/images/john.jpg" alt="John">
     </a>
     <p>
         Hi, I’m John.  I'm a university-based computational neuroscientist and teacher.  I would like to see what resources are available for my teaching about rigor and reproducibility. <a href="#john">Read more.</a>
     </p>
 </div>
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px; gap: 10px;">
-    <a href="#evelyn-the-director-of-a-multi-center-project">
-        <img src="/images/evelyn.jpg" alt="Evelyn" style="width: 150px; height: auto; object-fit: cover;">
+<div class="persona">
+    <a href="#evelyn">
+        <img src="/images/evelyn.jpg" alt="Evelyn">
     </a>
     <p>
       Hi, I’m Evelyn.  I'm the director of a multi-center distributed project.  My interest is in harmonizing the research being performed at several sites. <a href="#evelyn">Read more.</a>

@@ -49,7 +49,7 @@ type: docs
 
 - Dartmouth College, Hanover, NH
     - Yaroslav Halchenko Project Lead
-        - Austin MacDonald Scientific Software Developer
+        - Austin Macdonald Scientific Software Developer
         - Vadim Melnick Scientific Software Developer, Consultant
         - Isaac To Scientific Software Developer
 

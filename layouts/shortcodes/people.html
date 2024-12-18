@@ -1,0 +1,13 @@
+{{ $listParam := .Get 0 }} <!-- Get the first argument passed to the shortcode -->
+{{ $people := index .Site.Data $listParam }}
+
+<link rel="stylesheet" href="/css/people.css">
+<div class="people-gallery">
+  {{ range $people }}
+  <div class="person">
+    <img src="{{ .image }}" alt="{{ .name }}">
+    <div class="person-name">{{ .name }}</div>
+  </div>
+  {{ end }}
+</div>
+

@@ -1,0 +1,6 @@
+- name: "Alice"
+  image: "/images/people/brain.png"
+- name: "Bob"
+  image: "/images/people/brain.png"
+- name: "Charlie"
+  image: "/images/people/brain.png"

@@ -1,9 +1,25 @@
 ---
 linkTitle: Fellowship
+fellows-2024:
+- name: "Alice"
+  image: "/images/people/brain.png"
+- name: "Bob"
+  image: "/images/people/brain.png"
+- name: "Charlie"
+  image: "/images/people/brain.png"
+- name: "Alice2"
+  image: "/images/people/brain.png"
+- name: "Bob2"
+  image: "/images/people/brain.png"
+- name: "Charlie2"
+  image: "/images/people/brain.png"
 title: ReproNim/INCF Fellowship Program
 ---
 
+
 ## Program Overview
+
+<!-- {{< people "people2" >}} -->
 
 This is a full year Train-the-Trainer fellowship program which provides Fellows with conceptual and practical training in reproducible neuroimaging, as well as tailored support for individual syllabus development and implementation of reproducibility training in their home institutions.
 
@@ -29,3 +45,7 @@ We typically award five to ten fellowships per fellowship year, with the total n
 The ReproNim/INCF Fellowship program is currently being offered in alternate years. We anticipate opening applications for the 2026 Fellowship class in January 2026.
 
 Take a [Look](TODO (GH 36) link) at some of the many things our Fellows have done!
+
+## 2024 Fellows
+
+{{< people "fellows-2024" >}}

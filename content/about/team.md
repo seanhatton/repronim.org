@@ -6,70 +6,70 @@ type: docs
 
 ## ReproNim Leadership
 
-David Kennedy ReproNim PI - ReproNim: A Center for Reproducible Neuroimaging Computation
-    Professor of Psychiatry and Radiology, UMass Chan Medical School, Worcester, MA
-        Founding Director, Division of Neuroinformatics
-        Founding Co-Director, Child and Adolescent Neurodevelopment Initiative (CANDI) Lab
-    Founding Director, Center for Reproducible Neuroimaging Computation (ReproNim)
-Maryann Martone Project 1 Co-Lead - A FAIR Data and Metadata Foundation for Reproducible Research (DISCOVER)
-    Professor Emerita of Neuroscience, UC San Diego Health Sciences, San Diego, CA
-        Principal Investigator, FAIR Data Informatics Lab at UCSD
-    Chair, Governing Board, INCF
-Jeffrey Grethe Project 1 Co-Lead - A FAIR Data and Metadata Foundation for Reproducible Research (DISCOVER)
-    Associate Director, Neurosciences, UC San Diego Health Sciences, San Diego, CA
-        Principal Investigator, FAIR Data Informatics Lab at UCSD
-Satra Ghosh Project 2 Lead - Improving Research Efficiency through Better Descriptors (DESCRIBE)
-    Principal Research Scientist, McGovern Institute for Brain Research, M.I.T., Cambridge, MA
-        Director, Senseable Intelligence Group, M.I.T./Harvard Medical School
-    Assistant Professor of Otolaryngology, Harvard Medical School, Boston, MA
-        Faculty, Speech and Hearing Biosciences and Technology, Harvard Division of Medical Sciences
-Yaroslav Halchenko Project 3 Lead - Efficient and Reproducible Execution from Data Collection to Processing (DO)
-    Research Associate Professor of Psychological and Brain Sciences, Dartmouth College, Hanover, NH
-        Founding Director, Center for Open Neuroscience, Psychological and Brain Sciences, Dartmouth College, Hanover, NH
-    Adjunct Associate Professor of Computer Science, Dartmouth College, Hanover, NH
-Jean-Baptise Poline Training Core Lead
-    Associate Professor of Neurology and Neurosurgery, Montreal Neurologic Institute, McGill University, Montreal, Canada
-        Primary Investigator, Ludmer Centre for Neuroinformatics & Mental Health, Montreal Neurologic Institute
-        Principal Investigator, NeuroDataScience - ORIGAMI Research Group, Montreal Neurologic Institute
-    Chair, CTSI, INCF
+- David Kennedy ReproNim PI - ReproNim: A Center for Reproducible Neuroimaging Computation
+    - Professor of Psychiatry and Radiology, UMass Chan Medical School, Worcester, MA
+        - Founding Director, Division of Neuroinformatics
+        - Founding Co-Director, Child and Adolescent Neurodevelopment Initiative (CANDI) Lab
+    - Founding Director, Center for Reproducible Neuroimaging Computation (ReproNim)
+- Maryann Martone Project 1 Co-Lead - A FAIR Data and Metadata Foundation for Reproducible Research (DISCOVER)
+    - Professor Emerita of Neuroscience, UC San Diego Health Sciences, San Diego, CA
+        - Principal Investigator, FAIR Data Informatics Lab at UCSD
+    - Chair, Governing Board, INCF
+- Jeffrey Grethe Project 1 Co-Lead - A FAIR Data and Metadata Foundation for Reproducible Research (DISCOVER)
+    - Associate Director, Neurosciences, UC San Diego Health Sciences, San Diego, CA
+        - Principal Investigator, FAIR Data Informatics Lab at UCSD
+- Satra Ghosh Project 2 Lead - Improving Research Efficiency through Better Descriptors (DESCRIBE)
+    - Principal Research Scientist, McGovern Institute for Brain Research, M.I.T., Cambridge, MA
+        - Director, Senseable Intelligence Group, M.I.T./Harvard Medical School
+    - Assistant Professor of Otolaryngology, Harvard Medical School, Boston, MA
+        - Faculty, Speech and Hearing Biosciences and Technology, Harvard Division of Medical Sciences
+- Yaroslav Halchenko Project 3 Lead - Efficient and Reproducible Execution from Data Collection to Processing (DO)
+    - Research Associate Professor of Psychological and Brain Sciences, Dartmouth College, Hanover, NH
+        - Founding Director, Center for Open Neuroscience, Psychological and Brain Sciences, Dartmouth College, Hanover, NH
+    - Adjunct Associate Professor of Computer Science, Dartmouth College, Hanover, NH
+- Jean-Baptise Poline Training Core Lead
+    - Associate Professor of Neurology and Neurosurgery, Montreal Neurologic Institute, McGill University, Montreal, Canada
+        - Primary Investigator, Ludmer Centre for Neuroinformatics & Mental Health, Montreal Neurologic Institute
+        - Principal Investigator, NeuroDataScience - ORIGAMI Research Group, Montreal Neurologic Institute
+    - Chair, CTSI, INCF
 
 ## Our Current Full Team by Site
 
-    University of Massachusetts Chan Medical School, Worcester, MA
-        David Kennedy Principal Investigator
-            Julie Bates Administrative Core
-            Christian Haselgrove Senior Software Engineer
-            Steven Hodge Data Analyst, Statistician
+- University of Massachusetts Chan Medical School, Worcester, MA
+    - David Kennedy Principal Investigator
+        - Julie Bates Administrative Core
+        - Christian Haselgrove Senior Software Engineer
+        - Steven Hodge Data Analyst, Statistician
 
-    Massachusetts Institute of Technology, Cambridge, MA
-        Satra Ghosh Project Lead
-            Yibei Chen Postdoctoral Researcher
-            Tek Raj Chhetri Postdoctoral Researcher
-            Dorota Jarecka Research Scientist
+- Massachusetts Institute of Technology, Cambridge, MA
+    - Satra Ghosh Project Lead
+        - Yibei Chen Postdoctoral Researcher
+        - Tek Raj Chhetri Postdoctoral Researcher
+        - Dorota Jarecka Research Scientist
 
-    Dartmouth College, Hanover, NH
-        Yaroslav Halchenko Project Lead
-            Austin MacDonald Scientific Software Developer
-            Vadim Melnick Scientific Software Developer, Consultant
-            Isaac To Scientific Software Developer
+- Dartmouth College, Hanover, NH
+    - Yaroslav Halchenko Project Lead
+        - Austin MacDonald Scientific Software Developer
+        - Vadim Melnick Scientific Software Developer, Consultant
+        - Isaac To Scientific Software Developer
 
-    McGill University, Montreal, Canada
-        Jean-Baptise Poline Project Lead
-            Alyssa Dai Developer
-            Arman Jahanpour Developer
-            Brent McPherson Postdoctoral Researcher
-            Sebastian Urchs Senior Scientific Software Developer
+- McGill University, Montreal, Canada
+    - Jean-Baptise Poline Project Lead
+        - Alyssa Dai Developer
+        - Arman Jahanpour Developer
+        - Brent McPherson Postdoctoral Researcher
+        - Sebastian Urchs Senior Scientific Software Developer
 
-    University of California at Irvine, Irvine, CA
-        David Keator Senior Investigator
+- University of California at Irvine, Irvine, CA
+    - David Keator Senior Investigator
 
-    University of California at San Diego, San Diego, CA
-        Maryann Martone and Jeff Grethe Project Leads
-            Sean Hatton Research Data Analyst
-            Fahim Imam Assistant Project Scientist
+- University of California at San Diego, San Diego, CA
+    - Maryann Martone and Jeff Grethe Project Leads
+        - Sean Hatton Research Data Analyst
+        - Fahim Imam Assistant Project Scientist
 
-    Preuss Enterprises, Inc.
-        Nina Preuss Investigator
+- Preuss Enterprises, Inc.
+    - Nina Preuss Investigator
 
 ## Directory
 

@@ -46,6 +46,18 @@ The ReproNim/INCF Fellowship program is currently being offered in alternate yea
 
 Take a [Look](TODO (GH 36) link) at some of the many things our Fellows have done!
 
-## 2024 Fellows
+## 2024 Awardees
 
 {{< people "fellows-2024" >}}
+
+## 2022 Awardees
+
+{{< people "fellows-2022" >}}
+
+## 2020-2021 Awardees
+
+{{< people "fellows-2020" >}}
+
+## 2019-2020 Awardees
+
+{{< people "fellows-2019" >}}

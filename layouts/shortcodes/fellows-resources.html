@@ -1,0 +1,21 @@
+{{ $resources := site.Data.fellowsresources.resources }}
+<link rel="stylesheet" href="/css/fellows-resources.css">
+<div class="fellows-resources-container">
+  {{ range $resources }}
+    <div class="fellows-resource-box">
+      {{ if .title }}<h3>{{ .title }}</h3>{{ end }}
+      {{ if .type }}<p><strong>Type:</strong> {{ .type }}</p>{{ end }}
+      {{ if .description }}<p><strong>Description:</strong> {{ .description }}</p>{{ end }}
+      {{ if .audience }}<p><strong>Audience:</strong> {{ .audience }}</p>{{ end }}
+      {{ if .keywords}}<p><strong>Keywords:</strong> {{ .keywords}}</p>{{ end }}
+      {{ if .links }}
+        <p><strong>Links:</strong>
+          {{ range .links }}
+            <a href="{{ . }}" target="_blank" rel="noopener">{{ . }}</a>
+          {{ end }}
+        </p>
+      {{ end }}
+      {{ if .fellow }}<p><strong>Fellow:</strong> {{ .fellow }}</p>{{ end }}
+    </div>
+  {{ end }}
+</div>

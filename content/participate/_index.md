@@ -13,10 +13,8 @@ title: Participate
 
 ## Calendar
 
-### ReproNim ‘First Fridays’ Webinar Series
-
+**ReproNim ‘First Fridays’ Webinar Series:**  
 Webinars occur on the first Friday of every month throughout the academic year
 
-### ReproNim ‘First Thursdays’ Virtual Office Hour
-
+**ReproNim ‘First Thursdays’ Virtual Office Hour:**  
 Virtual Drop-in Office Hours occurs on the first Thursday of every month throughout the year

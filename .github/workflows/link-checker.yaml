@@ -1,0 +1,42 @@
+name: Check Links
+on:
+  pull_request: {}
+
+
+jobs:
+  build-and-test-links:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          # If your Hugo theme is a submodule, this ensures it gets pulled
+          submodules: true
+
+      - name: Read hugo version
+        id: hugo-version
+        run: |
+          HUGO_VERSION=$(grep 'HUGO_VERSION' netlify.toml | sed -E 's/.*=\s*"([^"]+)".*/\1/')
+          echo ${HUGO_VERSION}
+          echo "HUGO_VERSION=${HUGO_VERSION}" >> "${GITHUB_OUTPUT}"
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '${{ steps.hugo-version.outputs.HUGO_VERSION }}'
+
+      - name: Build site
+        run: hugo
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3.6'
+      - name: Create Gemfile and install dependencies
+        run: |
+          echo "source 'https://rubygems.org'" > Gemfile
+          echo "gem 'html-proofer', '5.0.9'" >> Gemfile
+          bundle install
+
+      - name: Run html-proofer
+        run: htmlproofer ./public --disable-external --no-enforce-https

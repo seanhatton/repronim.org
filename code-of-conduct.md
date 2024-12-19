@@ -1,11 +1,11 @@
 # Code of Conduct
 
-The ReproNIM orginization is dedicated to providing an environment where people are kind and respectful to each other, a harassment-free learning experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
+The ReproNIM organization is dedicated to providing an environment where people are kind and respectful to each other, a harassment-free learning experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
 We do not tolerate harassment in any form.
 Sexual language and imagery is not appropriate for any ReproNIM event, including meetings, workshops, and online forums.
 Participants violating these rules may be sanctioned or expelled from participation in the group at the discretion of the organizers.
 
-### Harrassment
+### Harassment
 
 ⛔ Harassment includes, but _is not limited to_:
 

@@ -2,20 +2,21 @@
 title: Participate
 ---
 
-#### Contact us
-
+- [Contact us](mailto:info@repronim.org)
 - [The ReproNim Blog](https://repronim.wordpress.com/)
-- Sign up for our mailing list
-- How to report site errors
-- Link to Training under Resources
-- Become a collaborator
-- Let us help you → service project
-- Become a fellow
-- Your materials here → Contribute training, news, highlights
-- Join our webinar series
-- Sign up for our mailing list
+- Sign up for our [mailing list](https://www.nitrc.org/mailman/listinfo/repronim-announcement)
+- To report site errors, please file an issue at our [github repo](https://github.com/ReproNim/repronim.org)
+- Explore, Use, and Contribute to our [Training Resources](https://dev.repronim.org/resources/training/)
+- Interested in becoming a Collaborator or Service Project? [Contact us](mailto:info@repronim.org)
+- Become a [ReproNim/INCF Fellow](https://dev.repronim.org/fellowship/)
+- Follow our [Webinar series](https://dev.repronim.org/about/webinars/)
 
-#### Calendar
+## Calendar
 
-- Webinars/office hours
-- Fellows application deadlines
+### ReproNim ‘First Fridays’ Webinar Series
+
+Webinars occur on the first Friday of every month throughout the academic year
+
+### ReproNim ‘First Thursdays’ Virtual Office Hour
+
+Virtual Drop-in Office Hours occurs on the first Thursday of every month throughout the year

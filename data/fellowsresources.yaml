@@ -1,0 +1,308 @@
+resources:
+  - title: "A (brief) Introduction to Open and Reproducible Science In Computational Brain Imaging"
+    type: "Lecture"
+    audience: "graduate students, postdocs in Psych to electrical engineering"
+    keywords: "reproducibility, re-executability, computation, brain imaging, open science, version control, workflows"
+    links:
+      - "https://github.com/sebastientourbier/openneuroresources/blob/master/lectures/reproducibility_trabit19.pdf"
+    fellow: "Sebastien Tourbier"
+
+  - title: "Southampton Brain Image Processing Workshops"
+    type: "Workshop"
+    audience: "academics and clinicians developing image processing and data analysis methods for neurological disorders"
+    links:
+      - "https://sotnir.github.io/svg"
+    fellow: "Yukai Zou"
+
+  - title: "Brainhack NY"
+    type: "Event"
+    links:
+      - "https://brainhack-ny.github.io/"
+    fellow: "Xihe Xie"
+
+  - title: "BrainIAK"
+    type: "Tutorials"
+    links:
+      - "https://brainiak.org/tutorials/"
+    fellow: "Elizabeth McDevitt"
+
+  - title: "Carpentries Incubator: SDC-BIDS-diffusion MRI"
+    type: "Workshop"
+    audience: "grad students, postdocs, staff"
+    links:
+      - "https://github.com/carpentries-incubator/SDC-BIDS-dMRI"
+    fellow: "Michael Joseph"
+
+  - title: "Carpentries Incubator: SDC-BIDS-functional MRI"
+    type: "Workshop"
+    audience: "grad students, postdocs, staff"
+    links:
+      - "https://github.com/carpentries-incubator/SDC-BIDS-fMRI"
+    fellow: "Michael Joseph"
+
+  - title: "Carpentries Incubator: SDC-BIDS-IntroMRI"
+    type: "Workshop"
+    audience: "grad students, postdocs, staff"
+    links:
+      - "https://github.com/carpentries-incubator/SDC-BIDS-IntroMRI"
+    fellow: "Michael Joseph"
+
+  - title: "Creating Environments for Reproducible Science"
+    type: "Brainhack event"
+    audience: "Undergraduate - faculty"
+    keywords: "shell, git/github, python, R, hpc"
+    links:
+      - "https://github.com/jdkent/incf-fellow-jdkent/blob/gh-pages/index.md"
+    fellow: "James Kent"
+
+  - title: "Data collection to paper-Git basics, Data Management"
+    type: "Workshop"
+    audience: "grad, research staff, postdoc, librarians"
+    links:
+      - "https://github.com/adswa/mpi-datamanagement-ws"
+    fellow: "Lennart Wittkuhn"
+
+  - title: "Data Science Basics in Neuroscience"
+    type: "Course"
+    audience: "grad, postdoc elective course"
+    links:
+      - "https://wcm-datascibasics.github.io/"
+    fellow: "Xihe Xie"
+
+  - title: "Data Science in Communication: Python and Reproducible Research"
+    type: "Course"
+    description: "COMM 160DS: Data Science in Communication: Python and Reproducible Research (Spring 2023, University of California, Santa Barbara)"
+    links:
+      - "https://github.com/yibeichan/COMM160DS"
+    fellow: "Yibei Chen"
+
+  - title: "DataLad Course/Handbook"
+    type: "Workshop/online course"
+    audience: "researchers all stages"
+    fellow: "Adina Wagner"
+
+  - title: "Fundamentals of MRI data"
+    type: "Course"
+    audience: "undergrad cog sci"
+    fellow: "Karolina Finc"
+
+  - title: "German Learning platform for DataLad MOOC"
+    type: "Course"
+    audience: "researchers all stages"
+    links:
+      - "https://ki-campus.org/"
+    fellow: "Adina Wagner"
+
+  - title: "Git for Librarians"
+    type: "Course"
+    description: "This repository contains the curriculum and material for the Git for Librarians workshop at the VALA Tech Camp."
+    links:
+      - "https://git-for-librarians.netlify.app/"
+      - "https://github.com/likeajumprope/Git_for_librarians"
+    fellow: "Johanna Bayer"
+
+  - title: "Git Workshop"
+    type: "Workshop"
+    audience: "Researchers, Infrastructure managers"
+    links:
+      - "https://1drv.ms/b/s!AgJAAJz1ThiGms0Z1FcP8964X7sAxw?e=ZpBDCi"
+    fellow: "Julian Kosciessa"
+
+  - title: "Gitlab, Docker"
+    type: "Tutorial"
+    audience: "postdocs, Neuroimaging grad students"
+    fellow: "Avery Van De Water"
+
+  - title: "Guidelines for hosting plus teaching resources"
+    type: "Workshop"
+    audience: "undergrad/grad students, postdoc, faculty"
+    links:
+      - "https://github.com/brainhack-uiowa/2020-brainhack"
+    fellow: "James Kent"
+
+  - title: "How to Analyze IQMs"
+    type: "Educational notebook"
+    audience: "masters students from physics and bio, Researchers- neuroimaging, machine learning"
+    fellow: "Celine Provins"
+
+  - title: "Image to Inference"
+    type: "Course"
+    audience: "undergrad, scientists, MD, postdoc"
+    links:
+      - "https://crnl.readthedocs.io/psyc589888/#overlay-context="
+    fellow: "Chris Rorden"
+
+  - title: "Individualized training, DataLad and Data consumption"
+    type: "Video tutorial"
+    fellow: "Felix Hoffstaedter"
+
+  - title: "Interpretability of the Image Quality Metrics (IQMs) of MRIQC"
+    type: "Book chapter"
+    audience: "masters students from physics and bio, Researchers- neuroimaging, machine learning"
+    links:
+      - "https://www.nipreps.org/qc-book/auto-qc/iqms_intepretability.html"
+    fellow: "Celine Provins"
+
+  - title: "Intro to Open and Reproducible Science in Computational Brain Imaging"
+    type: "Lecture"
+    links:
+      - "https://github.com/sebastientourbier/openneuroresources/blob/master/lectures/reproducibility_trabit19.pdf"
+    fellow: "Sebastien Tourbier"
+
+  - title: "Intro to Reproducibility Tools and Foundations"
+    type: "Workshop"
+    audience: "grad students, human cog neuro labs"
+    links:
+      - "https://brainhack-princeton.github.io/handbook/"
+    fellow: "Elizabeth McDevitt"
+
+  - title: "Introduction to ReproNim"
+    type: "Lecture"
+    keywords: "Github, DataLad, YODA"
+    links:
+      - "https://github.com/myyoda/talk-principles"
+      - "https://github.com/DavidEWarrenPhD/INCF-Fellow-DavidEWarren"
+    fellow: "David Warren"
+
+  - title: "Managing Your Reproducible Experiments with DataLad and Boutiques"
+    type: "Workshop"
+    audience: "upper-level undergraduates and graduate students in the sciences"
+    keywords: "reproducible computational workflows data management, data processing"
+    links:
+      - "https://github.com/gkiar/Repronim-GSAN"
+      - "https://docs.google.com/document/d/12vvV_Vx9Jw03mr-gmAuSt2QnaByVXfhtoDPjObPGf4o/edit#heading=h.fv7xzjeknb2"
+      - "https://docs.google.com/document/d/12vvV_Vx9Jw03mr-gmAuSt2QnaByVXfhtoDPjObPGf4o/edit#heading=h.pmutzjv87s05"
+    fellow: "Greg Kiar"
+
+  - title: "MRI Analysis & ReproNim Reproducibility Imaging"
+    type: "Course"
+    audience: "graduate students, novices"
+    keywords: "Shell, fMRI basics, BIDS, FAIR, Statistics"
+    links:
+      - "https://github.com/eroesch/2019-20-PYM0FM"
+      - "https://docs.google.com/spreadsheets/d/1VVsCPr4BS1Jc7TL6F7E9rJJsJ1_2PJojODq9uHUTb1A/edit#gid=0"
+    fellow: "Etienne Roesch"
+
+  - title: "Open & Reproducible Neuroimaging Data Science"
+    type: "Annual Workshop"
+    audience: "Graduate students/postdocs in neuroimaging"
+    keywords: "Linux, version control, python, data science, FAIR, reproducible basics"
+    links:
+      - "https://github.com/mick-d/repronim-fcbg"
+      - "https://docs.google.com/document/d/1iSJYKgCTs7gCOIxc3T2V5Nrzfc349R3X708-rx8EVvg/edit"
+    fellow: "Michael Dayan"
+
+  - title: "Open and Reproducible Computational Modeling"
+    type: "Lecture series"
+    fellow: "Paula Sanz-Leon"
+
+  - title: "Princeton Handbook for Reproducible Neuroimaging (fMRI)"
+    type: "Document"
+    audience: "graduate students, postdocs in psych and neurobio"
+    keywords: "best practices for building reproducible workflow, BIDS, data management, data analyses"
+    links:
+      - "https://brainhack-princeton.github.io/handbook/"
+      - "https://github.com/brainhack-princeton/handbook"
+    fellow: "Sam Nastase"
+
+  - title: "Reproducibility science and methodologies"
+    type: "Course"
+    audience: "grad students, post docs"
+    links:
+      - "https://docs.google.com/document/d/1I4U9E_5fvJ2BSSAux_PPQvr6QavR6g1burSyIACXuKI/edit#heading=h.qm1rn5lf4l02"
+    fellow: "Jennifer Legault"
+
+  - title: "Reproducible Computation Environments"
+    type: "Video tutorial"
+    audience: "postdocs, Neuroimaging grad students"
+    links:
+      - "https://uicapture.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0640440b-c7ab-46c7-9bca-afdc00f914e6"
+    fellow: "Avery Van De Water"
+
+  - title: "Reproducible Data Management with DataLad"
+    type: "Talk"
+    audience: "Researchers, Infrastructure managers"
+    links:
+      - "https://onedrive.live.com/?authkey=%21AFsNiGzveqZ750s&id=86184EF59C004002%21416672&cid=86184EF59C004002&parId=root&parQt=sharedby&o=OneUp"
+    fellow: "Julian Kosciessa"
+
+  - title: "Reproducible Data Management with DataLad"
+    type: "Talk"
+    audience: "Researchers, Infrastructure managers"
+    links:
+      - "https://onedrive.live.com/?authkey=%21AANsp4ZosaSOK2o&id=86184EF59C004002%21416988&cid=86184EF59C004002&parId=root&parQt=sharedby&o=OneUp"
+    fellow: "Julian Kosciessa"
+
+  - title: "Reproducible Neuroimaging - open source guide"
+    type: "Guide"
+    description: "Reproducible neuroimaging guide in Polish."
+    fellow: "Karolina Finc"
+
+  - title: "Reproducible Neuroimaging w/Connectome Mapper 3 Training"
+    type: "Workshop"
+    audience: "postdocs -psych to electr engineering, phd students"
+    links:
+      - "https://drive.google.com/file/d/1BkZvAyGpRXpgOPtt9wOVjaWIRNquQOjl/view"
+    fellow: "Sebastien Tourbier"
+
+  - title: "Reproducible Neuroimaging, tutorial guide"
+    type: "Tutorial"
+    audience: "cog sci students"
+    links:
+      - "https://github.com/compneuro-ncu/reproducible-neuroimaging"
+    fellow: "Karolina Finc"
+
+  - title: "ReproNim concepts"
+    type: "Workshop"
+    description: "Lap workshop on ReproNim."
+    fellow: "David Smith"
+
+  - title: "ReproRehab: Reproducible Rehabilitation Research Education Program"
+    type: "Course"
+    audience: "MS and PhD students, Rehab researchers"
+    links:
+      - "https://www.reprorehab.usc.edu/"
+      - "https://github.com/npnl/OT699"
+    fellow: "Sook-Lei Liew"
+
+  - title: "Research Data Management workshop at MPI Berlin"
+    type: "Workshop recording"
+    audience: "researchers all stages"
+    links:
+      - "https://www.youtube.com/watch?v=fL3DWzSWFL8"
+    fellow: "Adina Wagner"
+
+  - title: "Research Imaging Informatics"
+    type: "Course"
+    audience: "grad students biomed informatics"
+    keywords: "imaging, informatics, workflows, containers, analytics, FAIR, data sharing"
+    links:
+      - "https://docs.google.com/document/d/1J-wCg62yIJNCdZd_bTDYkOWCXn0eqD1j7l17MQlE4qM/edit"
+    fellow: "Aaron Kemp"
+
+  - title: "Reusable (big) data management with DataLad"
+    type: "Talk"
+    audience: "Researchers, Infrastructure managers"
+    links:
+      - "https://1drv.ms/b/s!AgJAAJz1ThiGms0Vdo-WifbI8FKPOA?e=ourGa2"
+    fellow: "Julian Kosciessa"
+
+  - title: "syllabus for creating Univ.Del. Reproducibility Handbook"
+    type: "Workshop syllabus"
+    links:
+      - "https://docs.google.com/document/d/1VBMtoBSuviYTDY5AdaoqIFBrHlBt6NmBToDVGkTexG4/edit#heading=h.g63wsqcq2bbh"
+    fellow: "Jennifer Legault"
+
+  - title: "Version Control of Code and Data"
+    type: "Online course"
+    links:
+      - "https://lennartwittkuhn.com/version-control-book/"
+    fellow: "Lennart Wittkuhn"
+
+  - title: "Workshop/tutorial series in reproducibility"
+    type: "Workshop"
+    audience: "grad students, postdocs"
+    links:
+      - "https://docs.google.com/document/d/1I4U9E_5fvJ2BSSAux_PPQvr6QavR6g1burSyIACXuKI/edit#heading=h.qm1rn5lf4l02"
+      - "https://docs.google.com/document/d/1JAz10xCdWw2ifOzcV-KQhmqz9Vq7PCF1CBq868aaXvQ/edit?usp=sharing"
+    fellow: "Julie Schneider"

@@ -34,7 +34,7 @@ We also provide some guidance on preparing a DMSP budget for implementing the pl
 3. **Metadata, other relevant data, and associated documentation:**
 
 * **Study protocols**: We recommend pre-registering the study protocol using a platform such as the Open Science Framework (osf.io).  Pre-registering your study design, including planned outcome measures,  increases transparency and accountability.
-* **Associate relevant metadata with both imaging and behavioral raw data**.  Using BIDS and NIDM provides the means to associate metadata with imaging raw data. Use  ReproSchema to prospectively create a re-usable schema for structured behavioral data capture.  Use NeuroBagel to annotate behavioral data retrospectively.
+* **Associate relevant metadata with both imaging and behavioral raw data**.  Using BIDS and NIDM provides the means to associate metadata with imaging raw data. Use  ReproSchema to prospectively create a reusable schema for structured behavioral data capture.  Use NeuroBagel to annotate behavioral data retrospectively.
 * **Data dictionary:**
   * **Good**: Create a data dictionary to define your variables.  (provide a link to examples)
   * **Best:** Use NIDM to create or map the data dictionary to standard variable names and value sets.  NIDM also provides additional semantics, i.e., the necessary human knowledge for both humans and machines to interpret and relate data elements.  NIDM utilizes community ontologies to provide this knowledge in the form of a common vocabulary and relationships between terms, e.g., Freesurfer variable *caudate\_left\_volume* maps to the term “caudate nucleus” in the UBERON anatomical ontology.  Caudate nucleus is part of the striatum and telencephalon.

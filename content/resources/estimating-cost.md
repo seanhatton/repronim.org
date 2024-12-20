@@ -2,7 +2,7 @@
 title: Estimating Cost
 linkTitle: Estimating Cost
 type: docs
-weight: 3
+weight: 15
 ---
 
 ## How much will it cost?
@@ -11,5 +11,3 @@ weight: 3
 1. What tools and standards need to be adopted?
 1. Do any lab members/collaborators already have experience with the new tools and standards?
 1. How comfortable are the collaborators with technical fundamentals like the command line?
-
-

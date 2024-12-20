@@ -21,11 +21,6 @@ weight: 5
 
 # Challenge
 
-- layout
-- annotation of procedure using version control
-- annotation of software versions 
-- automation and replicability of procedures
-
 Using version control and automation to execute procedures can produce re-executable and provenance-rich results, but the task can appear daunting. 
 Following best-practices for file layouts (Datalad + YODA Principles) provide clear connections (via subdatasets) between the source data and the derivative data that is produced.
 Additionally, utilizing `datalad run` with `repronim-containers` preserves the provenance of exactly what software versions were used and how, leaving a detailed trail for future work.

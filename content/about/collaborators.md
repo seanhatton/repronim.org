@@ -5,6 +5,7 @@ type: docs
 
 Our efforts are substantially informed and enhanced through the breadth and depth of scientific expertise of our collaborative liaisons, including both Collaborating Projects and Service Projects.
 
+[Contact us](mailto:info@repronim.org) if you are interested in becoming a ReproNim Collaborating or Service Project
 
 <link rel="stylesheet" href="/css/logos.css">
 <div class="container logos">
@@ -38,17 +39,11 @@ Our efforts are substantially informed and enhanced through the breadth and dept
     </div>
 </div>
 
-## Participate in ReproNim
-
-ReproNim is dedicated to making neuroimaging research openly reproducible across a wide spectrum of research endeavors.
-We actively seek and support community engagement and feedback in the technical development, application, and refinement of user-friendly computational services that can be readily integrated into current research practices.
-Contact us to participate.
-
-We are collaborating with numerous groups around the country and abroad to synergistically develop ReproNim tools in concert with (and as informed by) rapidly advancing technologies in a variety of areas including image analysis, workflow processing, data sourcing and hosting, and associated API developments (See Collaborator Projects below).
-
-In parallel, we are working with both basic and clinical researchers with established programs of applied neuroimaging research around the country, as well as large scale informatics initiatives in the US and the UK, to guide and refine the practical implementation of ReproNim tools in a variety of real-world research settings (See Service Projects below).
-
 ## Collaborating Projects
+
+We are collaborating with numerous groups around the country and abroad to synergistically develop ReproNim tools in concert with (and as informed by) rapidly advancing technologies in a variety of areas including image analysis, workflow processing, data sourcing and hosting, and associated API developments.
+
+The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, and testbeds for the cutting-edge technology developed in Technology, Research and Development projects.
 
 - CP1: [Segmenting Brain Structures for Neurological Disorders](https://reporter.nih.gov/search/kT7X-zyN302C6XNNo4g5xQ/project-details/10295766)
     - [Bruce Fischl](https://www.nmr.mgh.harvard.edu/user/5499) (PI)
@@ -82,6 +77,10 @@ In parallel, we are working with both basic and clinical researchers with establ
     - Institution: University of Southern California (USC)
 
 ## Service Projects
+
+In parallel, we are working with both basic and clinical researchers with established programs of applied neuroimaging research around the country, as well as large scale informatics initiatives in the US and the UK, to guide and refine the practical implementation of ReproNim tools in a variety of real-world research settings.
+
+The P41 Center provides their technology to Service Projects (SPs) that serve as users of the well-developed and stable technologies of the Center.
 
 - SP1: [Biomarkers of Developmental Trajectories and Treatment in ASD](https://www.semel.ucla.edu/autism/cart-team)
     - [Susan Bookheimer](https://www.semel.ucla.edu/autism/team/susan-bookheimer-phd) (PI)

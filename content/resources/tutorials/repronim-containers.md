@@ -1,10 +1,10 @@
 ---
 title: ReproNim Containers and Yoda
 type: docs
-weight: 5 
+weight: 5
 ---
 
-**ReproPrinciples**: 
+**ReproPrinciples**:
  - 2a: Use **standard** data formats and extend them to meet your needs.
  - 2b: Use **version control** from start to finish
  - 2c: **Annotate** data using standard, reproducible procedures
@@ -15,13 +15,15 @@ weight: 5
  - 3e: **Annotate** your code and workflows using standard, reproducible procedures
  - 3f: Use **containers** where reasonable
 
-**Actions**:  Standards, Annotation, Containers, Version Control
-**Standards**:  BIDS 
+**Actions**: Standards, Annotation, Containers, Version Control
+
+**Standards**: BIDS
+
 **Tools**: ReproNim Containers, Singularity, Datalad
 
 # Challenge
 
-Using version control and automation to execute procedures can produce re-executable and provenance-rich results, but the task can appear daunting. 
+Using version control and automation to execute procedures can produce re-executable and provenance-rich results, but the task can appear daunting.
 Following best-practices for file layouts (Datalad + YODA Principles) provide clear connections (via subdatasets) between the source data and the derivative data that is produced.
 Additionally, utilizing `datalad run` with `repronim-containers` preserves the provenance of exactly what software versions were used and how, leaving a detailed trail for future work.
 
@@ -30,7 +32,7 @@ Additionally, utilizing `datalad run` with `repronim-containers` preserves the p
 Let's assume that our goal is to do Quality Control of an MRI dataset
 (which is available as DataLad dataset ds000003). We will create a new
 dataset with the output of the QC results (as analyzed by mriqc
-BIDS-App). 
+BIDS-App).
 
 - create a new dataset which would contain results and everything needed
     to obtain them
@@ -59,7 +61,7 @@ pip install datalad-container
 
 #### Step 2: Start a Datalad dataset
 
-Following YODA, our dataset for the results is **the** dataset that will contain everything needed to produce those results. 
+Following YODA, our dataset for the results is **the** dataset that will contain everything needed to produce those results.
 
 ```bash
 mkdir ~/my-experiments

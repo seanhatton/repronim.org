@@ -5,6 +5,7 @@ type: docs
 
 Our efforts are substantially informed and enhanced through the breadth and depth of scientific expertise of our collaborative liaisons, including both Collaborating Projects and Service Projects.
 
+[Contact us](mailto:info@repronim.org) if you are interested in becoming a ReproNim Collaborating or Service Project
 
 <link rel="stylesheet" href="/css/logos.css">
 <div class="container logos">

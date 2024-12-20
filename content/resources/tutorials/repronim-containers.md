@@ -197,7 +197,7 @@ on if you need to extend or redo your analysis.
 - for more eleborate example with use of [reproman] to parallelize execution on
   remote resources, see [ReproNim/reproman PR#438](https://github.com/ReproNim/reproman/pull/438);
 - a copy of the dataset is made available from [`///repronim/ds000003-qc`](http://datasets.datalad.org/?dir=/repronim/ds000003-qc)
-  and [https://github.com/ReproNim/ds000003-qc]().
+  and [ds000003-qc][https://github.com/ReproNim/ds000003-qc].
 
 [reproman]: http://reproman.repronim.org
 [datalad rerun]: http://docs.datalad.org/projects/container/en/latest/generated/man/datalad-rerun.html

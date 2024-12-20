@@ -44,6 +44,21 @@ materials would be *reachable* within that dataset.
 
 Note: This exercise is based on the [ReproNim/containers README](https://github.com/ReproNim/containers/), which should be referenced for more information.
 
+## Before you start
+
+Required knowledge:
+
+ - Basics of operating in a terminal environment
+
+Though it is not strictly necessary to be familiar with all of the tools used
+to complete the tutorial, knowledge of the following will be helpful for adapting this tutorial to
+your usecase:
+
+- [Datalad](https://datalad.org)
+- [datalad-container extension](http://docs.datalad.org/projects/container/en/latest/index.html)
+- [YODA Organigram](https://github.com/myyoda/poster/blob/master/ohbm2018.pdf)
+- [Singularity/Apptainer](https://apptainer.org/)
+
 # Step by step guide
 
 #### Step 1: Installing the Necessary Tools

@@ -35,9 +35,9 @@ Building on the materials above, reproducible neuroimaging refers to the practic
 1. Study planning:
     1. Implement good science basics, e.g., power analysis, statistical consult
     2. Consider using pre-existing data for planning and/or analysis
-    3. Create an NIH-compliant data management and sharing plan
-    4. Adopt open consent to allow broad sharing of data
-    5. Pre-register your study
+    3. Create an [NIH-compliant data management and sharing plan](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan#after)
+    4. Adopt [open consent](https://open-brain-consent.readthedocs.io/en/stable/) to allow broad sharing of data
+    5. [Pre-register](https://www.cos.io/initiatives/prereg) your study
 
 1.  Data and metadata management:
     1. Use **standard** data formats and extend them to meet your needs.

@@ -78,9 +78,9 @@ ReproNIM can help Sarah learn more about data and software management and other 
 
 **Tutorials that might be interesting to Sarah**:
 
-* Creating a neuroimaging data management and sharing plan
+* Creating a [neuroimaging data management and sharing plan](/resources/tutorials/data-management-and-sharing/)
   * Principle \= planning
-* Implementing data management basics:  Using ReproNIM tools to convert data to the BIDS standard and create a data dictionary
+* Implementing data management basics:  Using ReproNIM tools to [convert data to the BIDS standard](/resources/tutorials/dicom-to-bids/) and create a data dictionary
   * Principle:  Data and metadata management
   * Foundations:  Standards, Annotation
 * Implementing software management basics:  Using Git to manage workflow/pipeline versions
@@ -128,13 +128,13 @@ I'm interested in whether ReproNim provides up-to-date teaching materials that I
 
 **Educational resources that might be interesting to John and his students**:
 
-* John should point his students to Why Reproducible Neuroimaging and What is Reproducible Neuroimaging sections of our website for a high level overview of these topics.
-* For more in-depth training, ReproNim has created a modular on-line course that covers basic and advanced topics in reproducible neuroimaging.  Each module contains tutorials and hands on exercises.
-* ReproNIM also offers a Fellows Program, a one year train-the-trainer program in reproducible neuroimaging
+* John should point his students to the [Why Reproducible Neuroimaging](/about/why/) sections of our website for a high level overview of issues around reproducible neuroimaging.
+* For more in-depth training, ReproNim has created a [modular on-line course](/resources/training/) that covers basic and advanced topics in reproducible neuroimaging.  Each module contains tutorials and hands on exercises.
+* ReproNIM also offers a [Fellows Program](/fellowship/), a one year train-the-trainer program in reproducible neuroimaging
 
-ReproNIM has also organized our tools and a set of step-by-step use cases in our ReproGuide.
+ReproNIM provides a [catalog of our main tools](/resources/tools/), with links to help materials and on-line forums.
 
-→ For hands on experience, his students can follow tutorials recommended for Sarah, Richard and Evelyn
+→ For hands on experience, his students can follow [tutorials](/resources/tutorials/) recommended for Sarah, Richard and Evelyn
 
 ## Evelyn
 

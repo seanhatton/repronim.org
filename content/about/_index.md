@@ -26,7 +26,7 @@ The program is open by competitive review, to applicants at all career stages.
 
  - Sign up for our mailing list [TODO link]
  - Follow our [webinar series](https://www.youtube.com/channel/UCGX2sXmEgDuUGWHDSiT1NdQ/videos)
- - Read [The ReproNim Blog](https://repronim.wordpress.com/)
+ - Read [The ReproNim Blog](https://reprodev.wordpress.com/category/article/)
  - [Become a Fellow](/fellowship)
 
 ## Contact us

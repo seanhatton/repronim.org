@@ -6,7 +6,7 @@ ReproNim is dedicated to making neuroimaging research openly reproducible across
 We actively seek and support community engagement and feedback in the technical development, application, and refinement of user-friendly computational services that can be readily integrated into current research practices.
 
 - [Contact us](mailto:info@repronim.org)
-- [The ReproNim Blog](https://repronim.wordpress.com/)
+- [The ReproNim Blog](https://reprodev.wordpress.com/category/article/)
 - Sign up for our [mailing list](https://www.nitrc.org/mailman/listinfo/repronim-announcement)
 - Explore, Use, and Contribute to our [Training Resources](/resources/training/)
 - Interested in becoming a Collaborator or Service Project? [Contact us](mailto:info@repronim.org)

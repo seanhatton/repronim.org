@@ -32,6 +32,18 @@ Building on the materials above, reproducible neuroimaging refers to the practic
 
 ### ReproNim’s principles of reproducible neuroimaging
 
+<!--
+The style section will cause the sub-lists to be labeled with lowercase 
+letters.
+
+Use care when modifying the principles since there are hard coded 
+references to them (by NUMBER.LETTER) on other pages.
+-->
+
+<style>
+    ol ol li { list-style-type: lower-alpha; }
+</style>
+
 1. Study planning:
     1. Implement good science basics, e.g., power analysis, statistical consult
     2. Consider using pre-existing data for planning and/or analysis

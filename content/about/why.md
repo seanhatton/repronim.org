@@ -7,15 +7,15 @@ Neuroimaging, like many fields of science, has been described as having a “rep
 
 Reproducible neuroimaging is therefore not only a concern to those outside your lab trying to build on your work, but to you as a researcher, project director or principal investigator. Can you reproduce your own research? Can your graduate students?  Can your present and future post-docs?  If a reviewer asks you to perform a different analysis on the same data, can you?
 
-# What is Reproducible Neuroimaging?
+## What is Reproducible Neuroimaging?
 
-## Scientific reproducibility
+### Scientific reproducibility
 
 First, what do we mean when we say that scientific results are reproducible?  Reproducibility is a broad term and is often used as a generic term to refer to replicate at some level the findings of a study.  Here, we use the term scientific reproducibility in general to mean **re-executability**, that is, the ability to obtain the exact same results when the same data is analyzed using the exact same analysis methods.  Re-executability focuses on methodological reproducibility and should be seen as simply the first step in establishing the validity of a given set of results. A **result**, that is, a claim made about the meaning of a study, is fully reproducible when it can be **re-executed** and **generalized** independently.  Some of what we are referring to as generalization is referred to as **replication**, defined as repeating an entire study with new data to see if the original results can be replicated.  But as you can see in the graphic below, there are multiple types of replication in the age of open data and tool sharing.  A true biological inference should hold true regardless of the methods used to observe a biological process or the specific sample of the population being studied.
 
 ![image](/images/spectrum.png)
 
-## Reproducible Neuroimaging
+### Reproducible Neuroimaging
 
 Building on the materials above, reproducible neuroimaging refers to the practice of conducting and disseminating neuroimaging research in a manner that allows others to independently verify and replicate the findings. It encompasses a set of principles, practices, and tools aimed at ensuring transparency, rigor, and accountability in neuroimaging studies. Transparency is achieved through others **being able to know** **precisely *‘what operations’* were performed on *‘what data’*** .  Remember, the “others” that benefit from reproducible neuroimaging include:
 
@@ -28,9 +28,9 @@ Building on the materials above, reproducible neuroimaging refers to the practic
 * Data scientists
 * AI
 
-# What does reproducible neuroimaging look like in practice?
+## What does reproducible neuroimaging look like in practice?
 
-## ReproNim’s principles of reproducible neuroimaging
+### ReproNim’s principles of reproducible neuroimaging
 
 1. Study planning:
     1. Implement good science basics, e.g., power analysis, statistical consult
@@ -80,7 +80,7 @@ In turn, as indicated by the blue highlights in the above figure,  **four core a
 
 ![image](/images/principles-of-neuroimaging.jpg)
 
-# How does ReproNIM help support reproducible neuroimaging?
+## How does ReproNIM help support reproducible neuroimaging?
 
 [ReproNim](https://www.repronim.org/)’s goal is to improve the reproducibility of neuroimaging science, while making the process of capturing and precisely describing all essential/necessary experimental details both easier and more efficient for investigators.
 ReproNIM focuses on practices and tools that support researchers and software engineers in integrating reproducible principles and actions into their own neuroimaging workflow.

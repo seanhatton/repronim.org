@@ -2,6 +2,7 @@
 title: ReproNim Monthly Webinar Series
 linkTitle: Webinar Series
 type: docs
+weight: 50
 ---
 
 Introducing Important Efforts in Reproducibility, featuring presentations by both ReproNim and Guest Investigators.

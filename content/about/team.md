@@ -2,6 +2,7 @@
 title: Meet the ReproNim Team!
 linkTitle: ReproNim Team
 type: docs
+weight: 10
 ---
 
 ## ReproNim Leadership

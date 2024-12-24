@@ -5,6 +5,8 @@ type: docs
 weight: 15
 ---
 
+[GH 125](https://github.com/ReproNim/repronim.org/issues/125)
+
 ## How much will it cost?
 
 1. Direct Resource Cost: Are the infrastructure requirements currently met? (Cloud Infrastructure and Physical Hardware)

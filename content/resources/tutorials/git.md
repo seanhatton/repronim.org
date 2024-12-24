@@ -7,7 +7,11 @@ weight: 5
 
 **Repronim principles**:
 
+[3b:  Software management:  Use version control from start to finish](https://repronim.netlify.app/about/in-practice/)
+
 **Actions**:
+
+Implementing version control
 
 **Standards**:
 

@@ -1,0 +1,36 @@
+<style>
+
+    #rn-buttons {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin-top: 1em;
+    }
+
+    .rn-button {
+        flex: 1 1 20%;
+        min-width: 150px;
+        max-width: 300px;
+        margin: 10px;
+        text-align: center;
+        box-sizing: border-box;
+    }
+
+    .rn-button img:hover {
+        border: 1px solid #000;
+    }
+
+    .rn-button a {
+        text-decoration: none;
+        color: #000;
+    }
+
+    .rn-button .title {
+        font-weight: bold;
+    }
+
+</style>
+
+<div id="rn-buttons">
+    {{ .Inner }}
+</div>

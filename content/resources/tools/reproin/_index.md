@@ -8,31 +8,31 @@ ReproIn is a set of best practices for using HeuDiConv and DataLad to prepare ra
 
 See also [HeuDiConv](../heudiconv/index.html) and [DataLad](../datalad/index.html).
 
-### Development status
+## Development status
 
 ReproIn can be used as-is and is actively maintained.
 
-### Innovation
+## Innovation
 
 ReproIn is a working example of HeuDiConv and DataLad that allows users to use these tools immediately and alter the ReproIn configurations to meet their needs rather than to have to learn HeuDiConv and DataLad from the ground up.
 
-### Citation information
+## Citation information
 
 [RRID:SCR_017184](https://scicrunch.org/resolver/RRID:SCR_017184)
 
-### Requisite knowledge to use
+## Requisite knowledge to use
 
 - Working knowledge of HeuDiConv
 - Working knowledge of DataLad (optional)
 
-### Requisite technical requirements
+## Requisite technical requirements
 
-- HeuDiconv installed
+- HeuDiConv installed
 
-### Links
+## Links
 
 - Home page: https://github.com/ReproNim/reproin
 - Tutorial: https://github.com/ReproNim/reproin#tutorialhowto
 - Full documentation: https://github.com/ReproNim/reproin
 
-### Representative publications
+## Representative publications

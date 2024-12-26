@@ -11,13 +11,13 @@ Browse our complete collections of ReproNim Webinar
 [Videos](https://www.youtube.com/channel/UCGX2sXmEgDuUGWHDSiT1NdQ/videos) and
 [Slides](https://drive.google.com/drive/folders/1xqgWtghspJtxa8hmC4d6_zUPCgpe4fp-)
 
-# Upcoming Webinars
+## Upcoming Webinars
 
 ### Friday, January 3, 2025
 
 No Webinar ~ Happy New Year!
 
-# Webinar Presentations to Date
+## Webinar Presentations to Date
 
 ### Friday, December 6, 2024 at 2pm EST
 Our featured speaker this month is ReproNim/INCF Fellowship alum [Johanna Bayer](https://nl.linkedin.com/in/johanna-bayer) who joins us from the [Predictive Clinical Neuroscience Group](https://predictiveclinicalneuroscience.com/),(Donders Institute and RadboudUMC, Netherlands). Johanna discusses normative modelling of neuroimaging data using the Predictive Clinical Neuroscience toolkit ([pcntoolkit](https://pcntoolkit.readthedocs.io/en/latest/)), in her presentation: "Normative modelling using the pcntoolkit – the what when and why.”
@@ -107,7 +107,7 @@ We welcome ReproNim Fellowship graduate [Sook-Lei Liew](https://chan.usc.edu/peo
 ### Friday, March 3, 2023
 Special guest speaker [Pradeep Raamana](https://crossinvalidation.com/about-pradeep/) joins us from the University of Pittsburgh to share his expertise in the development of automated QA tools for MRI protocol compliance, including open datasets, in Neuroimaging Quality Control (niQC): critical yet overlooked part of neuroscience."
 
-[Video presention](https://www.youtube.com/watch?v=kLsSrK1dhzM) is now available. Slides will be posted as soon as possible.
+[Video presentation](https://www.youtube.com/watch?v=kLsSrK1dhzM) is now available. Slides will be posted as soon as possible.
 
 ### Thursday, February 2, 2023 (live) and Friday, February 3 (re-broadcast)
 Special guest speaker [Steffen Bollmann](https://researchers.uq.edu.au/researcher/11402) joins us from University of Queensland with a presentation on [Neurodesk](https://www.neurodesk.org/): An accessible, flexible, and portable data analysis environment for reproducible neuroimaging.

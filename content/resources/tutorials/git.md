@@ -5,17 +5,19 @@ type: docs
 weight: 5
 ---
 
-**Repronim principles**:
+**ReproNim principles**
 
-[3b:  Software management:  Use version control from start to finish](https://repronim.netlify.app/about/in-practice/)
+- [3b: Software management:  Use version control from start to finish](https://repronim.netlify.app/about/in-practice/)
 
-**Actions**:
+**Actions**
 
-Implementing version control
+- Implementing version control
 
-**Standards**:
+**Standards**
 
-**Tools**: [git](https://git-scm.com/)
+**Tools**
+
+- [git](https://git-scm.com/)
 
 ## Challenge
 
@@ -34,7 +36,7 @@ Git not only helps you streamline your workflow but also promotes collaboration,
 
 In this exercise we show how you can create your first git repository with your script and how to start collaborating with your colleagues.
 
-# Before you start
+## Before you start
 
 Before I show you specific steps, I think it is useful to learn more about the concept behind `git` and version control systems in general. I recommend reading:
 
@@ -43,13 +45,13 @@ Before I show you specific steps, I think it is useful to learn more about the c
 
 ## Step by step guide
 
-### **Step 1: Installing the Necessary Tools**
+### Step 1: Installing the Necessary Tools
 
 If you are using Linux or OSX, you will likely already have `git` installed, you can open your terminal and try typing `git –help`. If you need to install on your own, you can follow the instructions from the [website](https://git-scm.com/downloads) (if you are a windows user you might want to install `bash shell` that comes with `git`, you can follow [the instructions](https://carpentries.github.io/workshop-template/install_instructions/#shell)).
 
-### **Step 2: Creating the repository and adding new file**
+### Step 2: Creating the repository and adding new file
 
-I recommend watching [the ReproNIM/ABCD course lesson, starting from minute 35](https://www.youtube.com/watch?v=SyKmry47SsY&t=2139s&ab_channel=ABCD-ReproNimCourse), if you want to have a bit more guidance (you can start from watching minutes 35-46).
+I recommend watching [the ReproNim/ABCD course lesson, starting from minute 35](https://www.youtube.com/watch?v=SyKmry47SsY&t=2139s&ab_channel=ABCD-ReproNimCourse), if you want to have a bit more guidance (you can start from watching minutes 35-46).
 
 - Let’s say you have a directory `my_project` where you have all scripts that are important to you, let’s say you have `fsl_bet.sh` there. In order to start you repository, you can follow:
 
@@ -93,7 +95,7 @@ Changes to be committed:
 	new file:   fsl\_bet.sh
 ```
 
-### **Step 3: Creating a snapshot of the file**
+### Step 3: Creating a snapshot of the file
 
 You can see, that `git` recognized a new file added to the repository, and reports that there are “changes to be committed”. By running `git commit` command you create a snapshot of the current state of your file in `git`, and that will allow you to track progress and revert to this point (or snapshot) if needed anytime in the future.
 
@@ -114,7 +116,7 @@ nothing to commit, working tree clean
 
 So you have confirmation that all changes have been committed (or saved as a snapshot) and the working tree is clean, which means that there are no files that are not tracked by `git`.	
 
-### **Step 4: Changing the file content and creating another snapshot**
+### Step 4: Changing the file content and creating another snapshot
 
 You have a working script, but of course you will want to experiment and change various things. Once you modify the file and run `git status` you will see:
 
@@ -195,5 +197,5 @@ git diff 744d47eb
 The introduction from the previous section was very brief. If you want to have more explanation or learn about additional features, I recommend more extended tutorials that are available online:
 
 - [Software Carpentry lesson](https://swcarpentry.github.io/git-novice/index.html)
-- [An interactive course using Github platform](https://github.com/Science-Reproducibility/version-control-systems/tree/main)
+- [An interactive course using GitHub platform](https://github.com/Science-Reproducibility/version-control-systems/tree/main)
 

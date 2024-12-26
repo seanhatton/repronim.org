@@ -5,23 +5,36 @@ type: docs
 weight: 5 
 ---
 
-**ReproPrinciple**:  2a. Data and Metadata management: Use standard data formats and extend them for your needs
-**Actions**:  Standards, Annotation
-**Standards**:  BIDS
-**Tools**: Heudiconv, ReproIn
+**ReproNim principles**
 
-# Challenge
+- 2a. Data and Metadata management: Use standard data formats and extend them for your needs
+
+**Actions**
+
+- Standards
+- Annotation
+
+**Standards**
+
+- BIDS
+
+**Tools**
+
+- HeuDiConv
+- ReproIn
+
+## Challenge
 
 Using standardized file organization and naming schemes form the basis of basic data management, making it easy to understand, work with and find data files. Using *the* standard way of organizing your data that is shared by other members of the field is even better.  Why?  Because a community standards means that it is much easier to adopt new tools and share your data with your labmates and colleagues. Community standards are integral to the new NIH Data Management and Sharing requirements. Neuroimaging has such a standard:  the Brain Imaging Data Structure or BIDS.  BIDS has been adopted widely and is the standard required by the OpenNeuro database.  Implementing a standard is worthwhile but can be challenging ([see Bush et al., 2022](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2022.988084/full)).
 
-# Exercise:
+## Exercise
 
-Here we will learn how to convert data coming off the scanner as **DICOM** files into **nifti** format organized according to **BIDS** using **Heudiconv**, a tool that maps DICOM file information into organized BIDS directories. HeuDiConv **(Heuristic DICOM Converter)** utilizes Python scripts called **heuristics** that provide a set of rules to guide the conversion and organization of DICOM files into BIDS. The use of custom heuristics makes  HeuDiConv a versatile and highly configurable tool.
+Here we will learn how to convert data coming off the scanner as **DICOM** files into **nifti** format organized according to **BIDS** using **HeuDiConv**, a tool that maps DICOM file information into organized BIDS directories. HeuDiConv **(Heuristic DICOM Converter)** utilizes Python scripts called **heuristics** that provide a set of rules to guide the conversion and organization of DICOM files into BIDS. The use of custom heuristics makes  HeuDiConv a versatile and highly configurable tool.
 
 ![image](/images/dicom-bids-inverted.png)
 [DICOM (left) to BIDS (right)](https://bids.neuroimaging.io/assets/img/dicom-reorganization-transparent-white_1000x477.png)
 
-# Before you start
+## Before you start
 
 Before diving into the conversion process, it's important to familiarize yourself with the following:
 
@@ -29,14 +42,14 @@ Before diving into the conversion process, it's important to familiarize yoursel
 * **BIDS (Brain Imaging Data Structure):** A widely adopted standard for organizing neuroimaging data. BIDS enforces a specific directory structure and file naming conventions, promoting data organization, shareability, and compatibility with various analysis tools.  We recommend visiting the [BIDS website](https://bids.neuroimaging.io/index.html) and browsing the [BIDS starter kit](https://bids-standard.github.io/bids-starter-kit/)
 * **Python**:  HeuDiConv requires creating a script in Python.
 
-# Step by step guide
+## Step by step guide
 
-#### **Step 1: Installing the Necessary Tools**
+### Step 1: Installing the Necessary Tools
 
 * **HeuDiConv:** Installation instructions can be found on the HeuDiConv GitHub page. You may want to verify the installation instructions on this website are up to date.
 * **dcm2niix:** HeuDiConv utilizes dcm2niix to convert DICOM files to the NIfTI format, required by BIDS. You'll need to install dcm2niix,  separately. You can find installation instructions on the [dcm2niix](https://github.com/rordenlab/dcm2niix) website.
 
-#### **Step 2: Creating a Heuristic File**
+### Step 2: Creating a Heuristic File
 
 Heuristics are the heart of HeuDiConv's flexibility. They provide the instructions for mapping your specific DICOM data into the desired BIDS structure. You have two options:
 
@@ -78,7 +91,7 @@ Example:  Instead of calling your structural imaging protocol “mp\_rage”, ca
 
 Implementing these naming conventions means that you do not have to use a custom heuristic file, as HeuDiConv recognizes the ReproIn conventions.
 
-#### **Step 3: Running the Conversion**
+### Step 3: Running the Conversion
 
 Once you have your heuristic file ready, use the following command to initiate the conversion:
 
@@ -91,7 +104,7 @@ heudiconv \-d DICOM\_DIR\_TEMPLATE \-o BIDS\_OUTDIR \-f HEURISTIC\_FILE \-c dcm2
 * **\-b:** Enables BIDS compatibility mode.
 * **\--minmeta:** Minimizes the amount of metadata written to the output files. You can adjust this based on your requirements.
 
-#### **Step 4: Validation and Next Steps**
+### Step 4: Validation and Next Steps
 
 After the conversion completes, carefully validate your BIDS output using the BIDS Validator tool. The BIDS Validator helps identify any deviations from the BIDS specification, ensuring your data is properly formatted for future analysis and sharing. You can find the BIDS Validator online. You may want to verify that the website is up to date.
 

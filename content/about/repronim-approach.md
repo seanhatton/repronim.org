@@ -4,10 +4,10 @@ type: docs
 weight: 90
 ---
 
-## How does ReproNIM help support reproducible neuroimaging?
+## How does ReproNim help support reproducible neuroimaging?
 
 [ReproNim](https://www.repronim.org/)’s goal is to improve the reproducibility of neuroimaging science, while making the process of capturing and precisely describing all essential/necessary experimental details both easier and more efficient for investigators.
-ReproNIM focuses on practices and tools that support researchers and software engineers in integrating reproducible principles and actions into their own neuroimaging workflow.
+ReproNim focuses on practices and tools that support researchers and software engineers in integrating reproducible principles and actions into their own neuroimaging workflow.
 We call this operational framework for reproducible analysis the ReproSystem.
 
 ![image](/images/reprosystem.png)

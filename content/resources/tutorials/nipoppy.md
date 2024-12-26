@@ -5,12 +5,15 @@ type: docs
 weight: 5 
 ---
 
-**ReproPrinciple**: 
-**Actions**: 
-**Standards**: 
-**Tools**: 
+**ReproNim principles**
 
-# Challenge
+**Actions**
+
+**Standards**
+
+**Tools**
+
+## Challenge
 
 Managing neuroimaging pipelines often involves handling complex datasets and multiple tools, all while ensuring reproducibility throughout the process. The challenge lies in:
 
@@ -18,7 +21,7 @@ Managing neuroimaging pipelines often involves handling complex datasets and mul
 * **Workflow management:** Keeping track of different pipeline steps, tools, and configurations can be overwhelming, especially in collaborative projects.  
 * **Reproducibility:** Ensuring that workflows are transparent, repeatable, and compatible with community standards such as BIDS.
 
-# Exercise
+## Exercise
 
 In this tutorial, you will learn how to use [`nipoppy`](https://nipoppy.readthedocs.io/en/latest/) to address these challenges by:
 
@@ -26,9 +29,9 @@ In this tutorial, you will learn how to use [`nipoppy`](https://nipoppy.readthed
 2. **Running the pipeline:** Executing the MRIQC 23.1.0 pipeline our example dataset.  
 3. **Tracking progress:** Monitoring the pipeline's status and ensuring all steps are completed successfully.
 
-# Step-by-step guide
+## Step-by-step guide
 
-## Step 0: Prerequisites
+### Step 0: Prerequisites
 
 We will utilize the dataset **ds004101** from [OpenNeuro](https://openneuro.org/), which includes structural and functional MRI data for 9 subjects (2 sessions), as our working example. The dataset can be downloaded by following instructions [here](https://openneuro.org/datasets/ds004101/versions/1.0.1/download).
 
@@ -38,7 +41,7 @@ We will utilize the dataset **ds004101** from [OpenNeuro](https://openneuro.org/
 - Python environment with Nipoppy. Instructions can be found [here](https://nipoppy.readthedocs.io/en/latest/installation.html)  
 - [Apptainer](https://apptainer.org/)
 
-## Step 1: Initializing the Nipoppy dataset
+### Step 1: Initializing the Nipoppy dataset
 
 Run the following command to create a Nipoppy dataset and populate it with the BIDS data:
 
@@ -109,7 +112,7 @@ For now, the dataset only has BIDS data.
 
 ![](/images/nipoppy-1.png)
 
-## Step 2: Modifying the global configuration file
+### Step 2: Modifying the global configuration file
 
 The `nipoppy init` command created the configuration file at `nipoppy_example/global_config.json`. This file needs to be updated with information specific to the dataset and your computing environment. By default, the beginning of the global config file looks like this:
 
@@ -161,7 +164,7 @@ There are still paths that need to be filled in for the `SUBSTITUTIONS` field:
 - `<PATH_TO_CONTAINER_STORE_DIRECTORY>`: a central directory where container images are stored (i.e. if sharing between multiple datasets/projects). This can also be deleted, in which case the `nipoppy_example/containers` directory will be used.  
 - `<PATH_TO_TEMPLATEFLOW_DIRECTORY>`: either an existing directory used by TemplateFlow, or an empty directory where templates will be downloaded.
 
-## Step 3: Download the MRIQC Apptainer image
+### Step 3: Download the MRIQC Apptainer image
 
 Before running the pipeline, download the MRIQC container in the appropriate directory (either `nipoppy_example/containers` or the custom path specified in the global config file) using Apptainer.
 
@@ -169,7 +172,7 @@ Before running the pipeline, download the MRIQC container in the appropriate dir
 apptainer build <path_to_container_store>/mriqc_23.1.0.sif docker://nipreps/mriqc:23.1.0
 ```
 
-## Step 4: Running MRIQC on a single participant and session
+### Step 4: Running MRIQC on a single participant and session
 
 Use `nipoppy run` to run MRIQC on a single participant and session. This will take around 15 minutes.
 
@@ -195,7 +198,7 @@ nipoppy_example/derivatives/mriqc/23.1.0/output/
 
 Log files can be found in `nipoppy_example/logs/run/mriqc-23.1.0`.
 
-## Step 5: Tracking pipeline processing status
+### Step 5: Tracking pipeline processing status
 
 Run `nipoppy track` to determine the MRIQC processing status for each subject and session:
 
@@ -237,7 +240,7 @@ The imaging bagel file can also be uploaded to the [Neurobagel digest dashboard]
 
 Finally, this file can be used directly as input to the [Neurobagel CLI](https://neurobagel.org/user_guide/cli/) when generating participant-level metadata about processing pipeline results.
 
-## Step 6 (optional): Running MRIQC on the rest of the dataset
+### Step 6 (optional): Running MRIQC on the rest of the dataset
 
 Use `nipoppy run` without the participant and session flags to process the rest of the dataset (in a loop). This will skip the participant-session that has previously been run successfully.
 
@@ -245,6 +248,6 @@ Use `nipoppy run` without the participant and session flags to process the rest 
 nipoppy run --pipeline mriqc --pipeline-version 23.1.0 nipoppy_example
 ```
 
-# Conclusion
+## Conclusion
 
 In this tutorial, we ran a neuroimaging pipeline (MRIQC) on a small BIDS dataset, showcasing how Nipoppy keeps track of which participants and sessions are available, and which ones have been processed already. Nipoppy offers a streamlined interface for configuring, running, and tracking virtually any pipeline (including custom ones). Beyond processing pipelines, Nipoppy can also be used to run pipelines for BIDS conversion and for extracting imaging-derived phenotypes (IDPs) from processing pipeline results.

@@ -8,30 +8,30 @@ weight: 20
 
 HeuDiConv (Heuristic DICOM Converter) is a command line converter from DICOM to BIDS (or other structured layouts).  HeuDiConv's conversion parameters are encoded as configurable Python code ("heuristics"), enabling flexible and efficient use.
 
-### Development status
+## Development status
 
 HeuDiConv is production software and is actively maintained.
 
-### Innovation
+## Innovation
 
 Conversion from DICOM to more usable formats is complicated and requires managing a lot of metadata, but some flexibility is needed to prepare the data in a form appropriate for the next steps.  HeuDiConv allows the user to efficiently manage the flexibility while hiding unneeded complexity.
 
-### Citation information
+## Citation information
 
 [RRID:SCR_017427](https://scicrunch.org/resolver/RRID:SCR_017427)
 
-### Requisite knowledge to use
+## Requisite knowledge to use
 
 - Command line familiarity
 - BIDS familiarity
 - Python proficiency
 
-### Requisite technical requirements
+## Requisite technical requirements
 
 - A system with Python installed, or
 - A system with Docker or Singularity installed
 
-### Links
+## Links
 
 - Home page: https://heudiconv.readthedocs.io/
 - Tutorial: https://heudiconv.readthedocs.io/en/latest/tutorials.html
@@ -41,4 +41,4 @@ Conversion from DICOM to more usable formats is complicated and requires managin
   - https://github.com/nipy/heudiconv/issues
   - https://neurostars.org/tag/heudiconv
 
-### Representative publications
+## Representative publications

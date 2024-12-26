@@ -5,10 +5,13 @@ type: docs
 weight: 5 
 ---
 
-**ReproPrinciple**: 
-**Actions**: 
-**Standards**: 
-**Tools**: 
+**ReproNim principles**
+
+**Actions**
+
+**Standards**
+
+**Tools**
 
 # Challenge
 

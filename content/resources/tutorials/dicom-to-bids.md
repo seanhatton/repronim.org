@@ -5,10 +5,23 @@ type: docs
 weight: 5 
 ---
 
-**ReproPrinciple**:  2a. Data and Metadata management: Use standard data formats and extend them for your needs
-**Actions**:  Standards, Annotation
-**Standards**:  BIDS
-**Tools**: Heudiconv, ReproIn
+**ReproNim principles**
+
+- 2a. Data and Metadata management: Use standard data formats and extend them for your needs
+
+**Actions**
+
+- Standards
+- Annotation
+
+**Standards**
+
+- BIDS
+
+**Tools**
+
+- HeuDiConv
+- ReproIn
 
 # Challenge
 

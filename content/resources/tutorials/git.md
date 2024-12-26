@@ -5,17 +5,19 @@ type: docs
 weight: 5
 ---
 
-**Repronim principles**:
+**ReproNim principles**
 
-[3b:  Software management:  Use version control from start to finish](https://repronim.netlify.app/about/in-practice/)
+- [3b: Software management:  Use version control from start to finish](https://repronim.netlify.app/about/in-practice/)
 
-**Actions**:
+**Actions**
 
-Implementing version control
+- Implementing version control
 
-**Standards**:
+**Standards**
 
-**Tools**: [git](https://git-scm.com/)
+**Tools**
+
+- [git](https://git-scm.com/)
 
 ## Challenge
 

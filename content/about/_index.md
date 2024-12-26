@@ -5,7 +5,7 @@ type: docs
 
 ReproNim is a national multi-site technology and research development Center for reproducible neuroimaging computation, funded by a P41 award from the National Institute of Biomedical Imaging and Bioengineering. 
 
-Collectively, our project and core teams are based across six sites (UMassChan Medical School, MIT, Dartmouth College, McGill, UCSD, and UCI) in North America.
+Collectively, our project and core teams are based across six sites (UMass Chan Medical School, MIT, Dartmouth College, McGill, UCSD, and UCI) in North America.
 
 ## What we do
 

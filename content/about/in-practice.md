@@ -4,7 +4,7 @@ type: docs
 weight: 80
 ---
 
-## ReproNim’s principles of reproducible neuroimaging
+## ReproNim's principles of reproducible neuroimaging
 
 <!--
 The style section will cause the sub-lists to be labeled with lowercase 

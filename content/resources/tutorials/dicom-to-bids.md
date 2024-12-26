@@ -29,7 +29,7 @@ Using standardized file organization and naming schemes form the basis of basic 
 
 ## Exercise
 
-Here we will learn how to convert data coming off the scanner as **DICOM** files into **nifti** format organized according to **BIDS** using **Heudiconv**, a tool that maps DICOM file information into organized BIDS directories. HeuDiConv **(Heuristic DICOM Converter)** utilizes Python scripts called **heuristics** that provide a set of rules to guide the conversion and organization of DICOM files into BIDS. The use of custom heuristics makes  HeuDiConv a versatile and highly configurable tool.
+Here we will learn how to convert data coming off the scanner as **DICOM** files into **nifti** format organized according to **BIDS** using **HeuDiConv**, a tool that maps DICOM file information into organized BIDS directories. HeuDiConv **(Heuristic DICOM Converter)** utilizes Python scripts called **heuristics** that provide a set of rules to guide the conversion and organization of DICOM files into BIDS. The use of custom heuristics makes  HeuDiConv a versatile and highly configurable tool.
 
 ![image](/images/dicom-bids-inverted.png)
 [DICOM (left) to BIDS (right)](https://bids.neuroimaging.io/assets/img/dicom-reorganization-transparent-white_1000x477.png)

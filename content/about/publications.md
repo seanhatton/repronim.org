@@ -1,5 +1,5 @@
 ---
-Title: ReproNIM Publications
+Title: ReproNim Publications
 linkTitle: "Publications"
 type: docs
 weight: 60

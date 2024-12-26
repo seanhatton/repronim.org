@@ -1,5 +1,5 @@
 ---
-title: ReproNIM tips for creating an NIH Data Management and Sharing Plan (DMSP)
+title: ReproNim tips for creating an NIH Data Management and Sharing Plan (DMSP)
 linkTitle: Creating a Data Management and Sharing Plan
 type: docs
 weight: 5
@@ -17,7 +17,7 @@ We also provide some guidance on preparing a DMSP budget for implementing the pl
 ### Element 1: Data Type
 
 1. **Types and amount of scientific data expected to be generated in the project:**
-* The tools and standards developed/promoted by ReproNIM are appropriate for all types of MRI data including sMRI, fMRI and DTI
+* The tools and standards developed/promoted by ReproNim are appropriate for all types of MRI data including sMRI, fMRI and DTI
 * Share both imaging and behavioral data acquired
   * Share all raw imaging data and derived imaging results
 * ReproNim’s principles and core actions are appropriate to all types of data
@@ -37,7 +37,7 @@ We also provide some guidance on preparing a DMSP budget for implementing the pl
 * **Associate relevant metadata with both imaging and behavioral raw data**.  Using BIDS and NIDM provides the means to associate metadata with imaging raw data. Use  ReproSchema to prospectively create a reusable schema for structured behavioral data capture.  Use NeuroBagel to annotate behavioral data retrospectively.
 * **Data dictionary:**
   * **Good**: Create a data dictionary to define your variables.  (provide a link to examples)
-  * **Best:** Use NIDM to create or map the data dictionary to standard variable names and value sets.  NIDM also provides additional semantics, i.e., the necessary human knowledge for both humans and machines to interpret and relate data elements.  NIDM utilizes community ontologies to provide this knowledge in the form of a common vocabulary and relationships between terms, e.g., Freesurfer variable *caudate\_left\_volume* maps to the term “caudate nucleus” in the UBERON anatomical ontology.  Caudate nucleus is part of the striatum and telencephalon.
+  * **Best:** Use NIDM to create or map the data dictionary to standard variable names and value sets.  NIDM also provides additional semantics, i.e., the necessary human knowledge for both humans and machines to interpret and relate data elements.  NIDM utilizes community ontologies to provide this knowledge in the form of a common vocabulary and relationships between terms, e.g., FreeSurfer variable *caudate\_left\_volume* maps to the term “caudate nucleus” in the UBERON anatomical ontology.  Caudate nucleus is part of the striatum and telencephalon.
 * **Metadata for processing pipelines**:  Metadata is also important for understanding how the data were processed, e.g., when using Freesurfer to generate a volume of the caudate nucleus, information on the Freesurfer run such as what flags were set should be recorded. NIDM provides a standards-compliant way to capture these details.  ReproNim has integrated NIDM into major neuroimaging packages, currently Freesurfer, ANTS, SFL and SPM so that metadata is automatically captured and formatted according to NIDM.
 
 ### Element 2: Related Tools, Software and/or Code
@@ -58,7 +58,7 @@ Good software management practices are essential for sharing code and workflows 
 
 ### Element 3: Standards
 
-As described in the previous elements, the use of standards greatly simplifies managing and sharing data in the broadest possible way.  ReproNIM tools are build on a set of community standards for neuroimaging:
+As described in the previous elements, the use of standards greatly simplifies managing and sharing data in the broadest possible way.  ReproNim tools are build on a set of community standards for neuroimaging:
 
 * **BIDS**:  For organizing primary and derived data
 * **NIDM** for recording the data and processing workflows.   NIDM is built on top of the Prov model, a W3C standard.  The W3C sets the standards for the World Wide Web.

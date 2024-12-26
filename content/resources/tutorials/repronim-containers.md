@@ -36,7 +36,7 @@ weight: 5
 ## Challenge
 
 Using version control and automation to execute procedures can produce re-executable and provenance-rich results, but the task can appear daunting.
-Following best-practices for file layouts (Datalad + YODA Principles) provide clear connections (via subdatasets) between the source data and the derivative data that is produced.
+Following best-practices for file layouts (DataLad + YODA Principles) provide clear connections (via subdatasets) between the source data and the derivative data that is produced.
 Additionally, utilizing `datalad run` with `repronim-containers` preserves the provenance of exactly what software versions were used and how, leaving a detailed trail for future work.
 
 ## Exercise
@@ -218,7 +218,7 @@ on if you need to extend or redo your analysis.
 ### Notes
 
 - aforementioned example requires DataLad >= 0.11.5 and datalad-containers >= 0.4.0;
-- for more eleborate example with use of [reproman] to parallelize execution on
+- for more elaborate example with use of [reproman] to parallelize execution on
   remote resources, see [ReproNim/reproman PR#438](https://github.com/ReproNim/reproman/pull/438);
 - a copy of the dataset is made available from [`///repronim/ds000003-qc`](http://datasets.datalad.org/?dir=/repronim/ds000003-qc)
   and [ds000003-qc][https://github.com/ReproNim/ds000003-qc].

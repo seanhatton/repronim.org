@@ -51,7 +51,7 @@ If you are using Linux or OSX, you will likely already have `git` installed, you
 
 ### Step 2: Creating the repository and adding new file
 
-I recommend watching [the ReproNIM/ABCD course lesson, starting from minute 35](https://www.youtube.com/watch?v=SyKmry47SsY&t=2139s&ab_channel=ABCD-ReproNimCourse), if you want to have a bit more guidance (you can start from watching minutes 35-46).
+I recommend watching [the ReproNim/ABCD course lesson, starting from minute 35](https://www.youtube.com/watch?v=SyKmry47SsY&t=2139s&ab_channel=ABCD-ReproNimCourse), if you want to have a bit more guidance (you can start from watching minutes 35-46).
 
 - Let’s say you have a directory `my_project` where you have all scripts that are important to you, let’s say you have `fsl_bet.sh` there. In order to start you repository, you can follow:
 
@@ -197,5 +197,5 @@ git diff 744d47eb
 The introduction from the previous section was very brief. If you want to have more explanation or learn about additional features, I recommend more extended tutorials that are available online:
 
 - [Software Carpentry lesson](https://swcarpentry.github.io/git-novice/index.html)
-- [An interactive course using Github platform](https://github.com/Science-Reproducibility/version-control-systems/tree/main)
+- [An interactive course using GitHub platform](https://github.com/Science-Reproducibility/version-control-systems/tree/main)
 

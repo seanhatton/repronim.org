@@ -107,7 +107,7 @@ We welcome ReproNim Fellowship graduate [Sook-Lei Liew](https://chan.usc.edu/peo
 ### Friday, March 3, 2023
 Special guest speaker [Pradeep Raamana](https://crossinvalidation.com/about-pradeep/) joins us from the University of Pittsburgh to share his expertise in the development of automated QA tools for MRI protocol compliance, including open datasets, in Neuroimaging Quality Control (niQC): critical yet overlooked part of neuroscience."
 
-[Video presention](https://www.youtube.com/watch?v=kLsSrK1dhzM) is now available. Slides will be posted as soon as possible.
+[Video presentation](https://www.youtube.com/watch?v=kLsSrK1dhzM) is now available. Slides will be posted as soon as possible.
 
 ### Thursday, February 2, 2023 (live) and Friday, February 3 (re-broadcast)
 Special guest speaker [Steffen Bollmann](https://researchers.uq.edu.au/researcher/11402) joins us from University of Queensland with a presentation on [Neurodesk](https://www.neurodesk.org/): An accessible, flexible, and portable data analysis environment for reproducible neuroimaging.

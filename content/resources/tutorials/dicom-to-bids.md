@@ -14,7 +14,7 @@ weight: 5
 
 Using standardized file organization and naming schemes form the basis of basic data management, making it easy to understand, work with and find data files. Using *the* standard way of organizing your data that is shared by other members of the field is even better.  Why?  Because a community standards means that it is much easier to adopt new tools and share your data with your labmates and colleagues. Community standards are integral to the new NIH Data Management and Sharing requirements. Neuroimaging has such a standard:  the Brain Imaging Data Structure or BIDS.  BIDS has been adopted widely and is the standard required by the OpenNeuro database.  Implementing a standard is worthwhile but can be challenging ([see Bush et al., 2022](https://www.frontiersin.org/journals/big-data/articles/10.3389/fdata.2022.988084/full)).
 
-# Exercise:
+# Exercise
 
 Here we will learn how to convert data coming off the scanner as **DICOM** files into **nifti** format organized according to **BIDS** using **Heudiconv**, a tool that maps DICOM file information into organized BIDS directories. HeuDiConv **(Heuristic DICOM Converter)** utilizes Python scripts called **heuristics** that provide a set of rules to guide the conversion and organization of DICOM files into BIDS. The use of custom heuristics makes  HeuDiConv a versatile and highly configurable tool.
 

@@ -27,7 +27,7 @@ Using version control and automation to execute procedures can produce re-execut
 Following best-practices for file layouts (Datalad + YODA Principles) provide clear connections (via subdatasets) between the source data and the derivative data that is produced.
 Additionally, utilizing `datalad run` with `repronim-containers` preserves the provenance of exactly what software versions were used and how, leaving a detailed trail for future work.
 
-# Exercise:
+# Exercise
 
 Let's assume that our goal is to do Quality Control of an MRI dataset
 (which is available as DataLad dataset ds000003). We will create a new

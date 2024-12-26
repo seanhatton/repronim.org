@@ -10,26 +10,26 @@ Neurobagel is a system for distributed data sharing and discovery.  Neurobagel i
 - Annotating data to prepare it for sharing via Neurobagel.
 - Adding your data to the Neurobagel network.
 
-### Development status
+## Development status
 
 Neurobagel is a production system and is actively maintained.
 
-### Innovation
+## Innovation
 
 Neurobagel is a front end to ReproNim infrastructure technologies.  Neurobagel is an immediately-usable tool that uses the standards and technologies that have been developed as technical foundations but until now have needed specialized knowledge to use.
 
-### Citation information
+## Citation information
 
-### Requisite knowledge to use
+## Requisite knowledge to use
 
 - Command line familiarity.
 - Docker familiarity.
 
-### Requisite technical requirements
+## Requisite technical requirements
 
 - A system with Docker installed.
 
-### Links
+## Links
 
 - Home page: https://neurobagel.org/
 - Tutorials:
@@ -40,4 +40,4 @@ Neurobagel is a front end to ReproNim infrastructure technologies.  Neurobagel i
 - How to get help: https://neurostars.org/tag/neurobagel
 - Testimonials: https://www.linkedin.com/posts/evavanheese789_you-only-realise-how-important-infrastructure-activity-7220000830463053828-QdDy
 
-### Representative publications
+## Representative publications

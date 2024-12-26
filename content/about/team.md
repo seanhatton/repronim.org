@@ -34,7 +34,7 @@ weight: 10
         - Principal Investigator, NeuroDataScience - [ORIGAMI Research Group](https://neurodatascience.github.io/), Montreal Neurologic Institute
     - Chair, CTSI, [INCF](https://www.incf.org/team/prof-jean-baptiste-poline)
 
-## Our Current Full Team by Site
+## Full team
 
 - University of Massachusetts Chan Medical School, Worcester, MA
     - David Kennedy Principal Investigator
@@ -74,6 +74,6 @@ weight: 10
 
 ## Directory
 
-ReproNim Alumni are indicated by asterisks*
+ReproNim Alumni are indicated by asterisks.
 
 {{< people "repronim-team" >}}

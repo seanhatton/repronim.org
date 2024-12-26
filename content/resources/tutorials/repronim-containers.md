@@ -33,13 +33,13 @@ weight: 5
 - Singularity
 - DataLad
 
-# Challenge
+## Challenge
 
 Using version control and automation to execute procedures can produce re-executable and provenance-rich results, but the task can appear daunting.
 Following best-practices for file layouts (Datalad + YODA Principles) provide clear connections (via subdatasets) between the source data and the derivative data that is produced.
 Additionally, utilizing `datalad run` with `repronim-containers` preserves the provenance of exactly what software versions were used and how, leaving a detailed trail for future work.
 
-# Exercise
+## Exercise
 
 Let's assume that our goal is to do Quality Control of an MRI dataset
 (which is available as DataLad dataset ds000003). We will create a new
@@ -56,7 +56,7 @@ materials would be *reachable* within that dataset.
 
 Note: This exercise is based on the [ReproNim/containers README](https://github.com/ReproNim/containers/), which should be referenced for more information.
 
-## Before you start
+### Before you start
 
 Required knowledge:
 
@@ -71,9 +71,9 @@ your usecase:
 - [YODA Organigram](https://github.com/myyoda/poster/blob/master/ohbm2018.pdf)
 - [Singularity/Apptainer](https://apptainer.org/)
 
-# Step by step guide
+## Step by step guide
 
-#### Step 1: Installing the Necessary Tools
+### Step 1: Installing the Necessary Tools
 
 The following tools should be installed:
 
@@ -86,7 +86,7 @@ Additionally, the `datalad-container` extension should also be installed.
 pip install datalad-container
 ```
 
-#### Step 2: Start a Datalad dataset
+### Step 2: Start a Datalad dataset
 
 Following YODA, our dataset for the results is **the** dataset that will contain everything needed to produce those results.
 
@@ -96,7 +96,7 @@ cd ~/my-experiments
 datalad create -d ds000003-qc -c text2git
 cd ds000003-qc
 ```
-#### Step 3: Install source data
+### Step 3: Install source data
 
 Next we install our source data as a subdataset.
 
@@ -104,7 +104,7 @@ Next we install our source data as a subdataset.
 datalad install -d . -s https://github.com/ReproNim/ds000003-demo sourcedata
 ```
 
-#### Step 4: Install ReproNim/containers
+### Step 4: Install ReproNim/containers
 
 Next we install the `ReproNim/containers` collection.
 
@@ -120,7 +120,7 @@ Now let's take a look at what we have.
  |--/code/containers # repronim/containers, this is where our non-custom code lives
 ```
 
-#### Step 4: Freezing Container Image Versions
+### Step 4: Freezing Container Image Versions
 
 `freeze_versions` is an optional step that will record and "freeze" the
 version of the container used. Even if the `///repronim/containers` dataset is
@@ -157,7 +157,7 @@ specified in the `.gitmodules`. By freezing into the top-level dataset
 instead, authors do not need to host a modified version of
 `///reporonim/containers`.
 
-#### Step 5: Running the Containers
+### Step 5: Running the Containers
 
 When we run the bids-mriqc container, it will need a working directory
 for intermediate files. These are not helpful to commit, so we will
@@ -215,7 +215,7 @@ singularity container. You can even now [datalad uninstall] sourcedata and even 
 sub-datasets to save space - they will be retrievable at those exact versions later
 on if you need to extend or redo your analysis.
 
-#### Notes:
+### Notes
 
 - aforementioned example requires DataLad >= 0.11.5 and datalad-containers >= 0.4.0;
 - for more eleborate example with use of [reproman] to parallelize execution on

@@ -12,9 +12,9 @@ In some cases, we provide several options, ranked from good/basic to best/advanc
 Generally the more advanced options require additional effort to implement.
 We also provide some guidance on preparing a DMSP budget for implementing the plan.
 
-# DMSP Plan elements
+## DMSP Plan elements
 
-## Element 1: Data Type
+### Element 1: Data Type
 
 1. **Types and amount of scientific data expected to be generated in the project:**
 * The tools and standards developed/promoted by ReproNIM are appropriate for all types of MRI data including sMRI, fMRI and DTI
@@ -40,7 +40,7 @@ We also provide some guidance on preparing a DMSP budget for implementing the pl
   * **Best:** Use NIDM to create or map the data dictionary to standard variable names and value sets.  NIDM also provides additional semantics, i.e., the necessary human knowledge for both humans and machines to interpret and relate data elements.  NIDM utilizes community ontologies to provide this knowledge in the form of a common vocabulary and relationships between terms, e.g., Freesurfer variable *caudate\_left\_volume* maps to the term “caudate nucleus” in the UBERON anatomical ontology.  Caudate nucleus is part of the striatum and telencephalon.
 * **Metadata for processing pipelines**:  Metadata is also important for understanding how the data were processed, e.g., when using Freesurfer to generate a volume of the caudate nucleus, information on the Freesurfer run such as what flags were set should be recorded. NIDM provides a standards-compliant way to capture these details.  ReproNim has integrated NIDM into major neuroimaging packages, currently Freesurfer, ANTS, SFL and SPM so that metadata is automatically captured and formatted according to NIDM.
 
-## Element 2: Related Tools, Software and/or Code
+### Element 2: Related Tools, Software and/or Code
 
 What tools can be used to work with shared data?
 
@@ -56,7 +56,7 @@ Good software management practices are essential for sharing code and workflows 
 * **Most advanced**:  DataLad provides complete versioning of data, code and containerized environments via the container player functionalities, associating all elements of data, code and environment for every operation.
 
 
-## Element 3: Standards
+### Element 3: Standards
 
 As described in the previous elements, the use of standards greatly simplifies managing and sharing data in the broadest possible way.  ReproNIM tools are build on a set of community standards for neuroimaging:
 
@@ -65,7 +65,7 @@ As described in the previous elements, the use of standards greatly simplifies m
 * **Common data elements**: The NIH is strongly recommending the use of Common Data Elements to capture data in a standardized way.  Many of the common instruments used for behavioral data have CDEs available, e.g., the [Hamilton Depression Scale](https://cde.nlm.nih.gov/cde/search?q=Hamilton%20depression%20scale). ReproNim has created a set of CDEs (aka Federated data elements) that provide a standard for the most common neuroimaging packages.
 
 
-## Element 4: Data Preservation, Access, and Associated Timelines
+### Element 4: Data Preservation, Access, and Associated Timelines
 
 1. **Repository where scientific data and metadata will be archived:**
 
@@ -87,7 +87,7 @@ Uploading data to a repository can take a while depending on the size and comple
 * **At time of publication or at completion of study as per NIH requirements**:  Using the ReproNim framework can expedite sharing dramatically (see above)
 * Utilizing a trusted repository like OpenNeuro can ensure that data will be available for the long term.
 
-## Element 5: Access, Distribution, or Reuse Considerations
+### Element 5: Access, Distribution, or Reuse Considerations
 
 * To ensure that clinical data can be shared to the greatest extent possible, utilize [open consent](https://open-brain-consent.readthedocs.io/en/stable/) when designing your study, even if you plan to fully anonymize your data for open sharing.  Anonymized data is not considered human data and may be freely shared.  However, sharing of clinical data requires authorization by your institutional IRB, and IRBs don’t always agree on what constitutes anonymization. Plus, anonymization is a moving target.  If data access control is required, the repository will ensure that data was consented for broad sharing.
 
@@ -100,11 +100,11 @@ Uploading data to a repository can take a while depending on the size and comple
 
 	Consult with your IRB
 
-## Element 6: Oversight of Data Management and Sharing
+### Element 6: Oversight of Data Management and Sharing
 
 Adhering to ReproNim best practices for managing your data and tools ensures that your institutional official can easily assess whether you are in compliance with your DMSP
 
-# Preparing a budget for implementing the DMSP
+## Preparing a budget for implementing the DMSP
 
 The NIH expects that a budget will be provided to cover the costs of implementing your plan.
 NDA publishes [a general guide](https://nda.nih.gov/nda/data-contribution#cost) on efforts required to prepare data for submission.

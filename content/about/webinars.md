@@ -11,13 +11,13 @@ Browse our complete collections of ReproNim Webinar
 [Videos](https://www.youtube.com/channel/UCGX2sXmEgDuUGWHDSiT1NdQ/videos) and
 [Slides](https://drive.google.com/drive/folders/1xqgWtghspJtxa8hmC4d6_zUPCgpe4fp-)
 
-# Upcoming Webinars
+## Upcoming Webinars
 
 ### Friday, January 3, 2025
 
 No Webinar ~ Happy New Year!
 
-# Webinar Presentations to Date
+## Webinar Presentations to Date
 
 ### Friday, December 6, 2024 at 2pm EST
 Our featured speaker this month is ReproNim/INCF Fellowship alum [Johanna Bayer](https://nl.linkedin.com/in/johanna-bayer) who joins us from the [Predictive Clinical Neuroscience Group](https://predictiveclinicalneuroscience.com/),(Donders Institute and RadboudUMC, Netherlands). Johanna discusses normative modelling of neuroimaging data using the Predictive Clinical Neuroscience toolkit ([pcntoolkit](https://pcntoolkit.readthedocs.io/en/latest/)), in her presentation: "Normative modelling using the pcntoolkit – the what when and why.”

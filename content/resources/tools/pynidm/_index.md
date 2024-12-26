@@ -17,32 +17,32 @@ PyNIDM is a command line tool for working with [NIDM](../nidm/index.html) data. 
 
 PyNIDM also provides a utility to query NIDM data using a REST API.
 
-### Development status
+## Development status
 
 PyNIDM is production software and is actively maintained.
 
-### Innovation
+## Innovation
 
 PyNIDM is the first tool to allow working with NIDM without needing to understand the details of its semantics.  While NIDM itself is a complicated standard that requires precise technical knowledge and some analysis software uses NIDM completely behind the scenes, PyNIDM allows interested users and developers to work with NIDM without being an expert in the standard.
 
-### Citation information
+## Citation information
 
 [RRID:SCR_021022](https://scicrunch.org/resolver/RRID:SCR_021022)
 
-### Requisite knowledge to use
+## Requisite knowledge to use
 
 - Command line familiarity
 - Familiarity with [NIDM](../nidm/index.html)
 
-### Requisite technical requirements
+## Requisite technical requirements
 
 - Python
 
-### Links
+## Links
 
 - Home page: https://pynidm.readthedocs.io/
 - Installation: https://pynidm.readthedocs.io/en/latest/#installation
 - Full documentation: https://pynidm.readthedocs.io/
 - How to get help: https://github.com/incf-nidash/PyNIDM/issues
 
-### Representative publications
+## Representative publications

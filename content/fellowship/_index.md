@@ -5,7 +5,6 @@ title: ReproNim/INCF Fellowship Program
 type: docs
 ---
 
-
 ## Program Overview
 
 This is a full year Train-the-Trainer fellowship program which provides Fellows with conceptual and practical training in reproducible neuroimaging, as well as tailored support for individual syllabus development and implementation of reproducibility training in their home institutions.

@@ -3,9 +3,8 @@ title: About
 type: docs
 ---
 
-## ReproNim is a National Center funded through the NIH
+ReproNim is a national multi-site technology and research development Center for reproducible neuroimaging computation, funded by a P41 award from the National Institute of Biomedical Imaging and Bioengineering. 
 
-ReproNim is a National multi-site technology and research development Center for reproducible neuroimaging computation, funded by a P41 award from the National Institute of Biomedical Imaging and Bioengineering. 
 Collectively, our project and core teams are based across six sites (UMassChan Medical School, MIT, Dartmouth College, McGill, UCSD, and UCI) in North America.
 
 ## What we do
@@ -31,4 +30,4 @@ The program is open by competitive review, to applicants at all career stages.
 
 ## Contact us
 
-Email us at <info@repronim.org>
+Email us at <info@repronim.org>.

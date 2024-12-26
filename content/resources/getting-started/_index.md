@@ -62,7 +62,7 @@ Who would you like to hear from?
     </p>
 </div>
 
-## Sarah
+### Sarah
 
 <img src="/images/sarah.jpg" alt="Sarah" style="width: 250px; height: auto;">
 
@@ -90,7 +90,7 @@ ReproNIM can help Sarah learn more about data and software management and other 
   * Principle:  Publishing re-executable paper
   * Foundations: Standards, Annotation
 
-## Richard
+### Richard
 
 <img src="/images/richard.jpg" alt="Richard" style="width: 250px; height: auto;">
 
@@ -114,7 +114,7 @@ ReproNIM can help Richard learn how standards such as BIDs and NIDM can help wit
 * Advanced data and software management: Datalad containers/run \+, YODA principles
 * More use cases are available through our ReproGuide
 
-## John
+### John
 
 <img src="/images/john.jpg" alt="John" style="width: 250px; height: auto;">
 
@@ -136,7 +136,7 @@ ReproNIM provides a [catalog of our main tools](/resources/tools/), with links t
 
 → For hands on experience, his students can follow [tutorials](/resources/tutorials/) recommended for Sarah, Richard and Evelyn
 
-## Evelyn
+### Evelyn
 
 <img src="/images/evelyn.jpg" alt="Evelyn" style="width: 250px; height: auto;">
 

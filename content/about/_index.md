@@ -24,7 +24,7 @@ The program is open by competitive review, to applicants at all career stages.
 
 ## Join the ReproNim Community
 
- - Sign up for our mailing list [TODO link] [GH 123](https://github.com/ReproNim/repronim.org/issues/123)
+- Sign up for our [mailing list](https://www.nitrc.org/mailman/listinfo/repronim-announcement)
  - Follow our [webinar series](https://www.youtube.com/channel/UCGX2sXmEgDuUGWHDSiT1NdQ/videos)
  - Read [The ReproNim Blog](https://reprodev.wordpress.com/category/article/)
  - [Become a Fellow](/fellowship)

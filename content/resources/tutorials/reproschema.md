@@ -68,7 +68,7 @@ Essential components in ReproSchema:
 * A foundational schema (reproschema, [https://github.com/ReproNim/reproschema](https://github.com/ReproNim/reproschema)) standardizes the structure and presentation of assessments, defining relationships between data elements and their metadata. It requires each data element, like survey responses or experimental measurements, to be linked with contextual information, including the collection method, timing, and conditions.  
 * A library ([https://github.com/ReproNim/reproschema-library](https://github.com/ReproNim/reproschema-library)) of standardized, reusable assessments, each formatted in JSON-LD according to criteria defined by the schema.  
 * A Python package ([https://github.com/ReproNim/reproschema-py](https://github.com/ReproNim/reproschema-py)) that supports schema creation and validation, including tools for converting schemas to compatible formats like those used in REDCap and the Fast Healthcare Interoperability Resources (FHIR) standard.  
-* A user interface (UI, [https://github.com/ReproNim/reproschema-ui](https://github.com/ReproNim/reproschema-ui)) designed to optmize data collection.  
+* A user interface (UI, [https://github.com/ReproNim/reproschema-ui](https://github.com/ReproNim/reproschema-ui)) designed to optimize data collection.  
 * A cookiecutter (i.e., template, [https://github.com/ReproNim/reproschema-protocol-cookiecutter](https://github.com/ReproNim/reproschema-protocol-cookiecutter)) that enables the creation of customized research protocols using the library and the UI. 
 
 ![image](/images/reproschema_2.png)

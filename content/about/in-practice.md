@@ -46,6 +46,8 @@ references to them (by NUMBER.LETTER) on other pages.
 
 In turn, as indicated by the blue highlights in the above figure,  **four core actions** are key to implementing these principles:
 
+## ReproNim's 4 Core Actions
+
 1) **Use of Standards:** Using standard data formats and extending them to meet specific research needs is important for *data and metadata management* in reproducible neuroimaging.
 
 2) **Annotation and provenance:** Annotating data using standard, reproducible procedures ensures clarity and transparency in data management (*data and metadata management*). **Provenance** refers to the origin and history of data and processes, enabling researchers to track how data was generated, modified, and analyzed (*data and metadata management*, *software management*, and *publishing everything*). This is essential for understanding the context of data and ensuring reproducibility.

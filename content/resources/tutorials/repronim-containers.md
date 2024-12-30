@@ -4,7 +4,7 @@ type: docs
 weight: 5
 ---
 
-**ReproNim principles**
+**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**
 
 - 2a: Use **standard** data formats and extend them to meet your needs.
 - 2b: Use **version control** from start to finish
@@ -16,7 +16,7 @@ weight: 5
 - 3e: **Annotate** your code and workflows using standard, reproducible procedures
 - 3f: Use **containers** where reasonable
 
-**Actions**
+**[Actions](/about/in-practice/#repronims-4-core-actions)**
 
 - Standards
 - Annotation

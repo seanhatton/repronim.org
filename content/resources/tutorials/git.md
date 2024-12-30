@@ -5,11 +5,11 @@ type: docs
 weight: 5
 ---
 
-**ReproNim principles**
+**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**
 
-- [3b: Software management:  Use version control from start to finish](https://repronim.netlify.app/about/in-practice/)
+- 3b: Software management:  Use version control from start to finish
 
-**Actions**
+**[Actions](/about/in-practice/#repronims-4-core-actions)**
 
 - Implementing version control
 

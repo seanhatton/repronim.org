@@ -5,9 +5,9 @@ type: docs
 weight: 5 
 ---
 
-**ReproNim principles**
+**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**
 
-**Actions**
+**[Actions](/about/in-practice/#repronims-4-core-actions)**
 
 **Standards**
 

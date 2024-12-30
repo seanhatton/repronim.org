@@ -86,7 +86,7 @@ ReproNim can help Sarah learn more about data and software management and other 
 * Implementing software management basics:  [Using Git to manage workflow/pipeline versions](/resources/tutorials/git/)
   * Principle:  Software management
   * Foundations:  Versioning
-* Publishing your work as a “Re-executable paper”( \= text, data, code):  Standards-based data sharing through Open Neuro
+* Publishing your work as a “Re-executable paper”( \= text, data, code):  Standards-based data sharing through OpenNeuro
   * Principle:  Publishing re-executable papers
   * Foundations: Standards, Annotation
 
@@ -109,7 +109,7 @@ ReproNim can help Richard learn how standards such as BIDS and NIDM can help wit
 * Advanced data management: Putting your derived data into BIDS derivatives and creating a semantically-enriched  data dictionary using NIDM, a standard for annotating neuroimaging data
   * Principles:  Data management
   * Foundations:  Standards, annotation
-* Working with containers:  Using NeuroDocker to containerize computational
+* Working with containers:  Using Neurodocker to containerize computational
   * Principles:  Re-executability
 * Advanced data and software management: [DataLad containers/run \+, YODA principles](/resources/tutorials/repronim-containers/)
   * Principles:  Re-executability

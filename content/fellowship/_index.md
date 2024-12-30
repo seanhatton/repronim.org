@@ -19,7 +19,7 @@ We typically award five to ten fellowships per fellowship year, with the total n
 
 ## ReproNim/INCF Fellowship Benefits
 
-- Each Fellowship class has a hybrid kickoff event held in conjunction with the OHBM BrainHack, immediately preceding the annual [OHBM Conference](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3298) wherever that conference is being held on a given year. Some travel assistance may be available to the Fellows.
+- Each Fellowship class has a hybrid kickoff event held in conjunction with the OHBM Brainhack, immediately preceding the annual [OHBM Conference](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3298) wherever that conference is being held on a given year. Some travel assistance may be available to the Fellows.
 - Conceptual and hands-on experience in various aspects of reproducible neuroimaging, including computational technologies, pipelines/workflows, data handling and statistics.
 - Ongoing Mentorship with ReproNim faculty throughout the year and as needed going forward
 - Networking and Collaborative opportunities, including ReproNim faculty, Fellows, and Alumni

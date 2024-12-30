@@ -80,14 +80,14 @@ ReproNim can help Sarah learn more about data and software management and other 
 
 * Creating a [neuroimaging data management and sharing plan](/resources/tutorials/data-management-and-sharing/)
   * Principle \= planning
-* Implementing data management basics:  Using ReproNim tools to [convert data to the BIDS standard](/resources/tutorials/dicom-to-bids/) and create a data dictionary
+* Implementing data management basics:  Using ReproNim tools to [convert data to the BIDS standard](/resources/tutorials/dicom-to-bids/) and [create a data dictionary](/resources/tutorials/data-dictionary/)
   * Principle:  Data and metadata management
   * Foundations:  Standards, Annotation
-* Implementing software management basics:  Using Git to manage workflow/pipeline versions
+* Implementing software management basics:  [Using Git to manage workflow/pipeline versions](/resources/tutorials/git/)
   * Principle:  Software management
   * Foundations:  Versioning
 * Publishing your work as a “Re-executable paper”( \= text, data, code):  Standards-based data sharing through Open Neuro
-  * Principle:  Publishing re-executable paper
+  * Principle:  Publishing re-executable papers
   * Foundations: Standards, Annotation
 
 ### Richard
@@ -111,8 +111,8 @@ ReproNim can help Richard learn how standards such as BIDS and NIDM can help wit
   * Foundations:  Standards, annotation
 * Working with containers:  Using NeuroDocker to containerize computational
   * Principles:  Re-executability
-* Advanced data and software management: DataLad containers/run \+, YODA principles
-* More use cases are available through our ReproGuide
+* Advanced data and software management: [DataLad containers/run \+, YODA principles](/resources/tutorials/repronim-containers/)
+  * Principles:  Re-executability
 
 ### John
 
@@ -152,15 +152,15 @@ ReproNim is not an end to end platform, but has several tools that can take her 
 
 **Use cases that might be of interest to Evelyn:**
 
-* Planning and data management:  Learn how a data collection and annotation framework for behavioral data to be collected can be set up using ReproSchema and shared across multiple sites.
+* Planning and data management:  Learn how a data collection and annotation framework for behavioral data to be collected can be set up using [ReproSchema and shared across multiple sites](https://repronim.netlify.app/resources/tutorials/reproschema/).
   * Principles:  planning, data management
   * Foundations:  standards, annotations
-* Basic software management for distributed data: Curating and processing a single study to generate standardized, analysis-ready data to participate in distributed projects using Nipoppy
+* Basic software management for distributed data: [Curating and processing a single study to generate standardized, analysis-ready data to participate in distributed projects using Nipoppy](/resources/tutorials/nipoppy/)
   * Principles:  Software management
   * Standards:  Standards, annotation
-* Advanced data management:  Adding standards and semantics to data dictionaries to promote data harmonization and findability using Neurobagel
+* Advanced data management:  Adding standards and semantics to data dictionaries to promote data harmonization and findability
   * Principles:  data management, FAIR
   * Foundations:  Standards, Annotation
-* Advanced metadata management: Searching and sharing metadata through ReproPond and ReproLake
+* Advanced metadata management: [Searching and sharing metadata through ReproPond and ReproLake](/resources/tutorials/pond-lake/)
   * Principles:  Metadata management
   * Foundations:  Standards, Annotation

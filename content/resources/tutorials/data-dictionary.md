@@ -108,7 +108,7 @@ Full Name: Age
 Description: Age of participant at time of scan
 ```
 
-#### **Step 4b: Choose a Datatype
+#### Step 4b: Choose a Datatype
 
 Select a datatype from the predefined list:
 

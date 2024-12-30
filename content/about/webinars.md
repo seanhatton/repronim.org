@@ -20,12 +20,12 @@ No Webinar ~ Happy New Year!
 ## Webinar Presentations to Date
 
 ### Friday, December 6, 2024 at 2pm EST
-Our featured speaker this month is ReproNim/INCF Fellowship alum [Johanna Bayer](https://nl.linkedin.com/in/johanna-bayer) who joins us from the [Predictive Clinical Neuroscience Group](https://predictiveclinicalneuroscience.com/),(Donders Institute and RadboudUMC, Netherlands). Johanna discusses normative modelling of neuroimaging data using the Predictive Clinical Neuroscience toolkit ([pcntoolkit](https://pcntoolkit.readthedocs.io/en/latest/)), in her presentation: "Normative modelling using the pcntoolkit – the what when and why.”
+Our featured speaker this month is ReproNim/INCF Fellowship alum [Johanna Bayer](https://nl.linkedin.com/in/johanna-bayer) who joins us from the [Predictive Clinical Neuroscience Group](https://predictiveclinicalneuroscience.com/),(Donders Institute and RadboudUMC, Netherlands). Johanna discusses normative modeling of neuroimaging data using the Predictive Clinical Neuroscience toolkit ([pcntoolkit](https://pcntoolkit.readthedocs.io/en/latest/)), in her presentation: "Normative modelling using the pcntoolkit – the what when and why.”
 
 [Video Presentation](https://youtu.be/u_ZGVs_B6VY) and [Slides](https://github.com/likeajumprope/Repronim_webinar_normative_modelling) are now available
 
 ### Friday, November 1, 2024 at 2pm EDT
-We welcome [Stefano Moia](https://cris.maastrichtuniversity.nl/en/persons/stefano-moia) and colleagues Inês Esteves (Instituto Superior Técnico, Universidade de Lisboa - Lisbon), Rebecca Clemens (Northwestern University - Chicago), Mary Miedema (McGill University - Montreal), and Marie-Eve Picard (Université de Montréal - Montreal) for a special introduction to the [PhysioPy](https://physiopy.github.io/) project: "The physiopy Community: working towards accessible and reproducible physiological data integration in neuroimaging studies"
+We welcome [Stefano Moia](https://cris.maastrichtuniversity.nl/en/persons/stefano-moia) and colleagues Inês Esteves (Instituto Superior Técnico, Universidade de Lisboa - Lisbon), Rebecca Clemens (Northwestern University - Chicago), Mary Miedema (McGill University - Montreal), and Marie-Eve Picard (Université de Montréal - Montreal) for a special introduction to the [Physiopy](https://physiopy.github.io/) project: "The physiopy Community: working towards accessible and reproducible physiological data integration in neuroimaging studies"
 
 [Video Presentation](https://youtu.be/4euIogu-TnA) is now available
 
@@ -68,7 +68,7 @@ ReproNim faculty member [Jeffrey Grethe](https://www.linkedin.com/in/jgrethe) (U
 
 [Video Presentation](https://youtu.be/SrA-3MZ4tw4) is now available.
 
-### Friday, January 5, 2024 - Cancelled due to unforeseen circumstances
+### Friday, January 5, 2024 - Canceled due to unforeseen circumstances
 
 ### Friday, December 1, 2023
 [Daniel Asay](https://cbs.fas.harvard.edu/directory/6975/) joins us from the Harvard University Center for Brain Science. He discusses his work with Tim O'Keefe and colleagues on open-source quality control pipelines (XNAT 1.8+ plugins), particularly for diffusion weighted imaging, in his presentation: DWIQC: Diffusion Imaging Quality Control Pipeline
@@ -112,7 +112,7 @@ Special guest speaker [Pradeep Raamana](https://crossinvalidation.com/about-prad
 ### Thursday, February 2, 2023 (live) and Friday, February 3 (re-broadcast)
 Special guest speaker [Steffen Bollmann](https://researchers.uq.edu.au/researcher/11402) joins us from University of Queensland with a presentation on [Neurodesk](https://www.neurodesk.org/): An accessible, flexible, and portable data analysis environment for reproducible neuroimaging.
 
-[Video presention](https://www.youtube.com/watch?v=HY-TqE6I2oo) is now available.
+[Video presentation](https://www.youtube.com/watch?v=HY-TqE6I2oo) is now available.
 
 ### Friday, January 6, 2023 at 2pm EDT
 Our own [David Kennedy](https://profiles.umassmed.edu/display/130002) (ReproNim PI, UMass Chan Medical School) and members of the ReproNim Team discuss The State of the ReproNim: An Update on Center Activities
@@ -281,7 +281,7 @@ ReproNim investigator JB Poline discusses "How Do I Teach or Learn Reproducible 
 Both the [Video Presentation](https://www.youtube.com/watch?v=2JJ0AqYH1iQ), and [Slides](https://docs.google.com/presentation/d/1vSrK3Du0iggi4x6NW1jUG-WsJJKIb8EnU9OeP2IpZAk/edit#slide=id.p1) are now available
 
 ### Friday February 7, 2020 at 2pm EST
-ReproNIm investigator Jeff Grethe introduces [InterLex](https://scicrunch.org/nidm-terms/interlex/dashboard) in his presentation "Damn it Jim, I am a researcher not an ontologist: Exploring and using terminologies"
+ReproNim investigator Jeff Grethe introduces [InterLex](https://scicrunch.org/nidm-terms/interlex/dashboard) in his presentation "Damn it Jim, I am a researcher not an ontologist: Exploring and using terminologies"
 
 Both the [Video Presentation](https://youtu.be/4qcRkqkTOFk), and
 [Slides](https://drive.google.com/open?id=1NhxbgmqT5Pd8n1SMqEhUjd5Fl6UAujOwL9am7icl61c) are available
@@ -293,7 +293,7 @@ Both the [Video Presentation](https://www.youtube.com/watch?v=d5KbmuhvnwE) and
 [Slides](https://drive.google.com/open?id=1QzcywXi1ThawyxJQLFVGG8hls9H0trOC) are available
 
 ### Friday, December 6, at 2pm EST
-ReproNim investigator Yaroslav Halchenko and colleagues present "Taking Control of your DICOM Data: ReproIn/Heudiconv Tools"
+ReproNim investigator Yaroslav Halchenko and colleagues present "Taking Control of your DICOM Data: ReproIn/HeuDiConv Tools"
 
 Both the [Video Presentation](https://www.youtube.com/watch?v=j2SKX37-w4c&list=PLs3CA4ShM1DUX0nTMKfoB8Z6kdrZpByLa&index=5&t=0s) and 
 [Slides](https://docs.google.com/presentation/d/14UNWQVY49c9Xc-7sj1FkoILXnt-wYjW404oqT-FtCW8/edit#slide=id.p) are available

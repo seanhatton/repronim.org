@@ -58,7 +58,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
 - CP4: [COINSTAC: Worldwide Analysis of Valence System Brain Circuits](https://coinstac.org/)
     - [Vince Calhoun](https://www.ece.gatech.edu/faculty-staff-directory/vince-calhoun), [Jessica Turner](https://trendscenter.org/jessica-turner/), [Theodorus Van Erp](https://www.faculty.uci.edu/profile.cfm?faculty_id=5812) (PIs)
     - Institutions: Georgia State University/UC Irvine
-- CP5: [OPENNEURO: An Open Archive for Analysis and Sharing of Brain Initiative Data](https://openneuro.org/)
+- CP5: [OpenNeuro: An Open Archive for Analysis and Sharing of Brain Initiative Data](https://openneuro.org/)
     - [Russell Poldrack](https://profiles.stanford.edu/russell-poldrack) (PI)
     - Institution: Stanford University
 - CP6: [Brainlife: Lowering the Barrier of Entry to Network Neuroscience](https://brainlife.io/about/)

@@ -45,9 +45,16 @@ Before I show you specific steps, I think it is useful to learn more about the c
 
 ## Step by step guide
 
-### Step 1: Installing the Necessary Tools
+### Step 1: Install the Necessary Tools
 
 If you are using Linux or OSX, you will likely already have `git` installed, you can open your terminal and try typing `git –help`. If you need to install on your own, you can follow the instructions from the [website](https://git-scm.com/downloads) (if you are a windows user you might want to install `bash shell` that comes with `git`, you can follow [the instructions](https://carpentries.github.io/workshop-template/install_instructions/#shell)).
+
+If you have not yet set the basic git configuration, run:
+
+```
+git config --global user.name "Your Name"
+git config --global user.email youremail@example.com
+```
 
 ### Step 2: Creating the repository and adding new file
 

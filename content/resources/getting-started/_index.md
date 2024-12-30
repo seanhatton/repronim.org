@@ -111,7 +111,7 @@ ReproNim can help Richard learn how standards such as BIDS and NIDM can help wit
   * Foundations:  Standards, annotation
 * Working with containers:  Using NeuroDocker to containerize computational
   * Principles:  Re-executability
-* Advanced data and software management: [DataLad containers/run \+, YODA principles](https://repronim.netlify.app/resources/tutorials/repronim-containers/)
+* Advanced data and software management: [DataLad containers/run \+, YODA principles](/resources/tutorials/repronim-containers/)
   * Principles:  Re-executability
 
 ### John

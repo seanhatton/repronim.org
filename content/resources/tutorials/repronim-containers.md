@@ -1,5 +1,5 @@
 ---
-title: ReproNim Containers and Yoda
+title: Advanced containerization using DataLad
 type: docs
 weight: 5
 ---

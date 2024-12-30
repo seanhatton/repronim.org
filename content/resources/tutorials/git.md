@@ -1,6 +1,6 @@
 ---
 title: Using Git to manage workflow/pipeline versions
-linkTitle: Git
+linkTitle: Basic sofware versioning using Git
 type: docs
 weight: 5
 ---

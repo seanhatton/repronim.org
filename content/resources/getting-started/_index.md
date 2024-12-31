@@ -12,7 +12,7 @@ ReproNim offers best practices, tools and training to implement reproducible neu
   * [What is reproducible neuroimaging?](/about/why/#what-is-reproducible-neuroimaging)
   * [ReproNim's principles and supporting actions](/about/in-practice/) for reproducible neuroimaging 
 * **Wondering what ReproNim can do for you?**
-  * Meet our [exemplary user personas and the issues they face in running neuroimaging studies](/resources/getting-started/#meet-our-users-personas)
+  * Meet our [exemplary user personas and the issues they face in running neuroimaging studies](/resources/getting-started/#meet-our-user-personas)
   * View our introduction to the [ReproNim approach](/about/repronim-approach/) and some step-by-step tutorials on how to use ReproNim tools to improve your ability to perform robust and shareable neuroimaging studies
 * **Tools and how-to guide:**
   * Our [Resource](https://repronim.netlify.app/resources/) section provides a listing of [tools](/resources/tools/) and [tutorials](/resources/tutorials/) on how to use them to support principles of reproducible neuroimaging 

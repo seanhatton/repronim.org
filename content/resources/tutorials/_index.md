@@ -13,7 +13,7 @@ Tutorials are organized into basic and more advanced approaches. Each tutorial i
 **Principle 1:  Study Planning**
 
 * Creating a [neuroimaging data management and sharing plan](/resources/tutorials/data-management-and-sharing/)
-* Set up a data collection and annotation framework for a multisite study using [ReproSchema](https://repronim.netlify.app/resources/tutorials/reproschema/).
+* Set up a data collection and annotation framework for a multisite study using [ReproSchema](/resources/tutorials/reproschema/).
 
 **Principle 2: Data and metadata management**
 

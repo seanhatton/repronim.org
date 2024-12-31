@@ -36,7 +36,7 @@ Neurobagel is a front end to ReproNim infrastructure technologies.  Neurobagel i
   - https://neurobagel.org/user_guide/query_tool/
   - https://neurobagel.org/user_guide/getting_started/
   - https://neurobagel.org/user_guide/data_prep/
-  - [Searching across study metadata using ReproPonds, ReproLake and Neurobagel](https://repronim.netlify.app/resources/tutorials/pond-lake/)
+  - [Searching across study metadata using ReproPonds, ReproLake and Neurobagel](/resources/tutorials/pond-lake/)
 - Full documentation: https://neurobagel.org/user_guide/
 - How to get help: https://neurostars.org/tag/neurobagel
 - Testimonials: https://www.linkedin.com/posts/evavanheese789_you-only-realise-how-important-infrastructure-activity-7220000830463053828-QdDy

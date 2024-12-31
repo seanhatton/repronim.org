@@ -1,25 +1,21 @@
 ---
-title: Creating a BIDS Data Dictionary (Annotation)
+title: Creating a BIDS Data Dictionary and Adding Semantics to for FAIR
 linkTitle: Creating a data dictionary
 type: docs
 weight: 5 
 ---
 
 **[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**
-
 - 2b. Data and Metadata management: Use standard data formats and extend them for your needs
 
 **[Actions](/about/in-practice/#repronims-4-core-actions)**
-
 - Standards
 - Annotation
 
 **Standards**
-
 - BIDS
 
-**Tools**
- 
+**Tools** 
 - PyNIDM
 
 ## Challenge

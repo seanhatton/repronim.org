@@ -8,7 +8,7 @@ weight: 5
 **[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**
 - 2b. Data and Metadata management: Use standard data formats and extend them for your needs
 
-**[Actions](/about/in-practice/#repronims-4-core-actions)**
+**[Actions](/about/in-practice/#repronims-four-core-actions)**
 - Standards
 - Annotation
 

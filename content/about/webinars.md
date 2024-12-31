@@ -5,19 +5,17 @@ type: docs
 weight: 50
 ---
 
-Introducing Important Efforts in Reproducibility, featuring presentations by both ReproNim and Guest Investigators.
+The ReproNim webinar series introduces important efforts in reproducibility featuring presentations by both ReproNim and guest investigators.
 
-Browse our complete collections of ReproNim Webinar
-[Videos](https://www.youtube.com/channel/UCGX2sXmEgDuUGWHDSiT1NdQ/videos) and
-[Slides](https://drive.google.com/drive/folders/1xqgWtghspJtxa8hmC4d6_zUPCgpe4fp-)
+Browse our complete collections of ReproNim webinar [videos](https://www.youtube.com/channel/UCGX2sXmEgDuUGWHDSiT1NdQ/videos) and [slides](https://drive.google.com/drive/folders/1xqgWtghspJtxa8hmC4d6_zUPCgpe4fp-).
 
-## Upcoming Webinars
+## Upcoming webinars
 
 ### Friday, January 3, 2025
 
 No Webinar ~ Happy New Year!
 
-## Webinar Presentations to Date
+## Webinar presentations to date
 
 ### Friday, December 6, 2024 at 2pm EST
 Our featured speaker this month is ReproNim/INCF Fellowship alum [Johanna Bayer](https://nl.linkedin.com/in/johanna-bayer) who joins us from the [Predictive Clinical Neuroscience Group](https://predictiveclinicalneuroscience.com/),(Donders Institute and RadboudUMC, Netherlands). Johanna discusses normative modeling of neuroimaging data using the Predictive Clinical Neuroscience toolkit ([pcntoolkit](https://pcntoolkit.readthedocs.io/en/latest/)), in her presentation: "Normative modelling using the pcntoolkit – the what when and why.”
@@ -41,7 +39,7 @@ Chris has very considerable expertise in large systems-level computation modelin
 
 [Video Presentation](https://youtu.be/pH4hiUaknow) is now available
 
-### Summer Hiatus ~ July-August 2024 
+### Summer hiatus ~ July-August 2024 
 
 ### Friday, June 7, 2024
 ReproNim faculty member [Yaroslav Halchenko](https://pbs.dartmouth.edu/people/yaroslav-o-halchenko-0) discusses principles, methods, and automation for the scientific operations in reproducible neuroimaging experiments in: "SciOps from ReproNim/ReproFlow."
@@ -85,7 +83,7 @@ We welcome [Anisha Keshavan](https://theorg.com/org/octave-bioscience/org-chart/
 
 [Video Presentation](https://youtu.be/NTl-25tgKgY) and [Slides](http://fnndsc.childrens.harvard.edu/ChRIS/ReproNim) are now available.
 
-### July-September, 2023 ~ Summer Hiatus
+### July-September, 2023 ~ summer hiatus
 
 ### Friday, June 2, 2023 at 2pm EDT
 [Arno Klein](https://matter.childmind.org/) is our special guest speaker, joining us from the Child Mind Institute to share some of his intriguing and innovative technological developments aimed at better understanding of and treatment for childhood mental health disorders: [MindLogger platform](https://mindlogger.org/) for configurable data collection and interventions in research and clinical practice
@@ -136,7 +134,7 @@ We kick off the new academic year with a special presentation by ReproNim facult
 
 [Video Presentation](https://youtu.be/hX_JnsZz-uY) is now available.
 
-### Summer Hiatus, Friday July 1 - Friday September 2, 2022
+### Summer hiatus, Friday July 1 - Friday September 2, 2022
 
 ### Friday, June 3, 2022 at 2pm EDT
 Special guest speaker [Ted Satterthwaite](https://www.pennlinc.io//team/Ted-Satterthwaite) joins us from UPenn's [Lifespan Informatics and Neuroimaging Center](https://www.pennlinc.io/research), with a presentation on Reproducible Image Curation and Processing for Large-scale Studies of Brain Development.
@@ -256,7 +254,7 @@ ReproNim investigator Satra Ghosh addresses the topic of "Harmonizing clinical a
 [Video Presentation](https://youtu.be/dDuP-Znso5Y) and
 [Slides](https://docs.google.com/presentation/d/1H4C_cBU9BE9EYFNyK8YBLQObzvq9iDztLWrqRIQTmgc/edit#slide=id.p) are now available.
 
-### Friday, July 3, 2020 ~~No Meeting~~ Happy Summer!
+### Friday, July 3, 2020 ~ no meeting ~ happy summer!
 
 ### Friday, June 5, 2020 at 2pm EDT
 ReproNim investigator Yaroslav Halchenko presents "Version control your data and computation using containers, DataLad and ReproMan, and reproducible they be!"

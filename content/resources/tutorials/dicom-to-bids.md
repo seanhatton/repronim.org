@@ -9,7 +9,7 @@ weight: 5
 
 - 2a. Data and Metadata management: Use standard data formats and extend them for your needs
 
-**[Actions](/about/in-practice/#repronims-4-core-actions)**
+**[Actions](/about/in-practice/#repronims-four-core-actions)**
 
 - Standards
 - Annotation

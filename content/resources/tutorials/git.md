@@ -9,7 +9,7 @@ weight: 5
 
 - 3b: Software management:  Use version control from start to finish
 
-**[Actions](/about/in-practice/#repronims-4-core-actions)**
+**[Actions](/about/in-practice/#repronims-four-core-actions)**
 
 - Implementing version control
 

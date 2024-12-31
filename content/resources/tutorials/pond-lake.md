@@ -10,7 +10,7 @@ weight: 5
 - 1b Study Planning: Consider using pre-existing data for planning or analysis
 - 2c Metadata management: Annotate your data using standard formats
 
-**[Actions](/about/in-practice/#repronims-4-core-actions)**
+**[Actions](/about/in-practice/#repronims-four-core-actions)**
 
 - Use of Standards
 - Annotation and provenance

@@ -6,18 +6,18 @@ weight: 90
 
 ## How does ReproNim help support reproducible neuroimaging?
 
-[ReproNim](https://www.repronim.org/)’s goal is to improve the reproducibility of neuroimaging science, while making the process of capturing and precisely describing all essential/necessary experimental details both easier and more efficient for investigators.
+ReproNim's goal is to improve the reproducibility of neuroimaging science while making the process of capturing and precisely describing all essential study details both easier and more efficient.
 ReproNim focuses on practices and tools that support researchers and software engineers in integrating reproducible principles and actions into their own neuroimaging workflow.
-We call this operational framework for reproducible analysis the ReproSystem.
 
 ![image](/images/reprosystem.png)
 
-As outlined in the accompanying figure, the ReproSystem framework takes the full experimental cycle of neuroimaging data acquisition, analyses, and publication into account.
-This system explicitly includes both data (any of various types, such as scanner acquisition, data converted to BIDS, behavioral data, output of prior analysis) entering into an analysis, and the metadata+provenance (i.e. software versions and computer operating system versions used, processing script, subject demographics, results description, etc.) of the analysis. 
-The metadata maintains a link to its associated data permitting flexibility regarding how each of these types of information sources can be used.
-To the familiar components of data and analysis environments, we also add to the framework a means to store and retrieve machine-readable description of metadata associated with the tools in both a local/private store (which we refer to as a ReproPond) and a shared/public repository (ReproLake).
+As outlined this figure, ReproNim's system takes the full cycle of neuroimaging data acquisition, analyses, and publication into account.
+The system explicitly includes both data entering into an analysis (data of various types including scanner acquisitions, data converted to BIDS, behavioral data, and outputs of prior analyses), and the metadata and provenance of the analysis (software versions and computer operating system versions used, processing scripts, subject demographics, results descriptions, etc.).
+The metadata maintains a link to its associated data, permitting flexibility in how each of these information sources can be used.
+To the familiar components of data and analysis environments we also add a means to store and retrieve machine-readable descriptions of metadata associated with the tools in both a local/private store (which we refer to as a _ReproPond_) and a shared/public repository (_ReproLake_).
 
 To get started, see:
 
 * [Getting started with ReproNim](/resources/getting-started/)
-* The ReproGuide to [tools and use cases](/resources/tools/)
+* [ReproNim's core tools](/resources/tools/)
+* [ReproNim's tutorials](/resources/tutorials/)

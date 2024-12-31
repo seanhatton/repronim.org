@@ -4,9 +4,9 @@ type: docs
 weight: 30
 ---
 
-Our efforts are substantially informed and enhanced through the breadth and depth of scientific expertise of our collaborative liaisons, including both [Collaborating Projects](/about/collaborators/#collaborating-projects) and Service Projects.
+Our efforts are substantially informed and enhanced through the breadth and depth of scientific expertise of our collaborators in both [Collaborating Projects](#collaborating-projects) and [Service Projects](#service-projects).
 
-[Contact us](mailto:info@repronim.org) if you are interested in becoming a ReproNim Collaborating or Service Project
+[Contact us](mailto:info@repronim.org) if you are interested in becoming a ReproNim Collaborating or Service Project.
 
 <link rel="stylesheet" href="/css/logos.css">
 <div class="container logos">
@@ -44,7 +44,7 @@ Our efforts are substantially informed and enhanced through the breadth and dept
 
 We are collaborating with numerous groups around the country and abroad to synergistically develop ReproNim tools in concert with (and as informed by) rapidly advancing technologies in a variety of areas including image analysis, workflow processing, data sourcing and hosting, and associated API developments.
 
-The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, and testbeds for the cutting-edge technology developed in Technology, Research and Development projects.
+The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, and testbeds for the cutting-edge technology developed in P41 Technology, Research and Development projects.
 
 - CP1: [Segmenting Brain Structures for Neurological Disorders](https://reporter.nih.gov/search/kT7X-zyN302C6XNNo4g5xQ/project-details/10295766)
     - [Bruce Fischl](https://www.nmr.mgh.harvard.edu/user/5499) (PI)
@@ -56,13 +56,13 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     - [Alan Evans](https://mcin.ca/about-mcin/alans-cv/) (PI)
     - Institution: McGill University
 - CP4: [COINSTAC: Worldwide Analysis of Valence System Brain Circuits](https://coinstac.org/)
-    - [Vince Calhoun](https://www.ece.gatech.edu/faculty-staff-directory/vince-calhoun), [Jessica Turner](https://trendscenter.org/jessica-turner/), [Theodorus Van Erp](https://www.faculty.uci.edu/profile.cfm?faculty_id=5812) (PIs)
+    - Vince Calhoun, [Jessica Turner](https://trendscenter.org/jessica-turner/), [Theodorus Van Erp](https://www.faculty.uci.edu/profile.cfm?faculty_id=5812) (PIs)
     - Institutions: Georgia State University/UC Irvine
 - CP5: [OpenNeuro: An Open Archive for Analysis and Sharing of Brain Initiative Data](https://openneuro.org/)
     - [Russell Poldrack](https://profiles.stanford.edu/russell-poldrack) (PI)
     - Institution: Stanford University
 - CP6: [Brainlife: Lowering the Barrier of Entry to Network Neuroscience](https://brainlife.io/about/)
-    - [Franco Pestilli](https://cns.utexas.edu/directory/item/66-other/4455-pestilli-franco?Itemid=349) (PI)
+    - Franco Pestilli (PI)
     - Institution: University of Texas at Austin
 - CP7: [DataLad: Versatile Platform for Digital Logistics](https://www.datalad.org/)
     - [Michael Hanke](https://www.psychoinformatics.de/lab-members.html) (PI)
@@ -87,12 +87,12 @@ The P41 Center provides their technology to Service Projects (SPs) that serve as
     - [Susan Bookheimer](https://www.semel.ucla.edu/autism/team/susan-bookheimer-phd) (PI)
     - Institution: University of California at Los Angeles
 - SP2: [Environment, Epigenetics, Neurodevelopment & Health of Extremely Preterm Children](https://elgan.fpg.unc.edu/)
-    - [Michael O’Shea](https://www.med.unc.edu/childrensresearch/directory/michael-oshea-md-mph/) and [Rebecca Fry](https://sph.unc.edu/adv_profile/rebecca-fry-phd/) (PIs)
+    - [Michael O'Shea](https://www.med.unc.edu/childrensresearch/directory/michael-oshea-md-mph/) and [Rebecca Fry](https://sph.unc.edu/adv_profile/rebecca-fry-phd/) (PIs)
     - Institution:University of North Carolina at Chapel Hill
 - SP3: [Neuroscience Gateway to Enable Dissemination of Computational and Data Processing Tools and Software](https://www.nsgportal.org/overview.html)
     - [Amitava Majumdar](https://www.sdsc.edu/~majumdar/) and [Kenneth Yoshimoto](https://www.sdsc.edu/research/researcher_spotlight/yoshimoto_kenneth.html) and [Subhashini Sivagnanam](https://users.sdsc.edu/~sivagnan/) (PIs)
     - Institution: University of California at San Diego
-- SP4: [CRCNS: NeuroBridge: Connecting Big Data for Reproducible Clinical Neuroscience](https://neurobridges.org/about.html)
+- SP4: [CRCNS: NeuroBridge: Connecting Big Data for Reproducible Clinical Neuroscience](https://neurobridges.org/)
     - [Lei Wang](https://medicine.osu.edu/find-faculty/clinical/psychiatry-and-behavioral-health/lei-wang-phd) (PI)
     - Institution: Ohio State University
 - SP5: [EAGER: Community Building and Workflows for Data Sharing with Publicly Accessible and Consumable Metadata](https://www.linknovate.com/grant/eager-community-building-and-workflows-for-data-sharing-with-publicly-accessible-and-consumable-metadata-317869/)

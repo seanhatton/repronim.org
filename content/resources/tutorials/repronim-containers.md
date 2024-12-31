@@ -16,7 +16,7 @@ weight: 5
 - 3e: **Annotate** your code and workflows using standard, reproducible procedures
 - 3f: Use **containers** where reasonable
 
-**[Actions](/about/in-practice/#repronims-4-core-actions)**
+**[Actions](/about/in-practice/#repronims-four-core-actions)**
 
 - Standards
 - Annotation

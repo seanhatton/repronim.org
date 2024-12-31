@@ -1,6 +1,6 @@
 ---
 title: Advanced metadata management - Sharing and searching metadata through a ReproPond and the ReproLake
-linkTitle: ReproPond and ReproLake
+linkTitle: Search across studies
 type: docs
 weight: 5
 ---

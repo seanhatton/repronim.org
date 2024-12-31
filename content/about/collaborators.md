@@ -44,7 +44,7 @@ Our efforts are substantially informed and enhanced through the breadth and dept
 
 We are collaborating with numerous groups around the country and abroad to synergistically develop ReproNim tools in concert with (and as informed by) rapidly advancing technologies in a variety of areas including image analysis, workflow processing, data sourcing and hosting, and associated API developments.
 
-The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, and testbeds for the cutting-edge technology developed in P41 Technology, Research and Development projects.
+The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, and testbeds for the cutting-edge technology developed in P41 Technology and Research Development projects.
 
 - CP1: [Segmenting Brain Structures for Neurological Disorders](https://reporter.nih.gov/search/kT7X-zyN302C6XNNo4g5xQ/project-details/10295766)
     - [Bruce Fischl](https://www.nmr.mgh.harvard.edu/user/5499) (PI)

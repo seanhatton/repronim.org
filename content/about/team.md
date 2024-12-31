@@ -1,11 +1,11 @@
 ---
-title: Meet the ReproNim Team!
+title: Meet the ReproNim Team
 linkTitle: ReproNim Team
 type: docs
 weight: 10
 ---
 
-## ReproNim Leadership
+## ReproNim leadership
 
 - [David Kennedy](https://profiles.umassmed.edu/display/130002) ReproNim PI - ReproNim: A Center for Reproducible Neuroimaging Computation
     - Professor of Psychiatry and Radiology, UMass Chan Medical School, Worcester, MA
@@ -15,7 +15,7 @@ weight: 10
 - [Maryann Martone](https://profiles.ucsd.edu/maryann.martone) Project 1 Co-Lead - A FAIR Data and Metadata Foundation for Reproducible Research (DISCOVER)
     - Professor Emerita of Neuroscience, UC San Diego Health Sciences, San Diego, CA
         - Principal Investigator, [FAIR Data Informatics Lab](https://www.fdilab.org/team) at UCSD
-    - Chair, Governing Board, [INCF](https://www.incf.org/team/prof-maryann-martone)
+    - Former Chair, Governing Board, INCF
 - [Jeffrey Grethe](https://profiles.ucsd.edu/jeffrey.grethe) Project 1 Co-Lead - A FAIR Data and Metadata Foundation for Reproducible Research (DISCOVER)
     - Associate Director, Neurosciences, UC San Diego Health Sciences, San Diego, CA
         - Principal Investigator, [FAIR Data Informatics Lab](https://www.fdilab.org/team) at UCSD
@@ -37,43 +37,43 @@ weight: 10
 ## Full team
 
 - University of Massachusetts Chan Medical School, Worcester, MA
-    - David Kennedy Principal Investigator
-        - Julie Bates Administrative Core
-        - Christian Haselgrove Senior Software Engineer
-        - Steven Hodge Data Analyst, Statistician
+    - David Kennedy, Principal Investigator
+        - Julie Bates, Administrative Core
+        - Christian Haselgrove, Senior Software Engineer
+        - Steven Hodge, Data Analyst and Statistician
 
 - Massachusetts Institute of Technology, Cambridge, MA
-    - Satra Ghosh Project Lead
-        - Yibei Chen Postdoctoral Researcher
-        - Tek Raj Chhetri Postdoctoral Researcher
-        - Dorota Jarecka Research Scientist
+    - Satra Ghosh, Project Lead
+        - Yibei Chen, Postdoctoral Researcher
+        - Tek Raj Chhetri, Postdoctoral Researcher
+        - Dorota Jarecka, Research Scientist
 
 - Dartmouth College, Hanover, NH
-    - Yaroslav Halchenko Project Lead
-        - Austin Macdonald Scientific Software Developer
-        - Vadim Melnick Scientific Software Developer, Consultant
-        - Isaac To Scientific Software Developer
+    - Yaroslav Halchenko, Project Lead
+        - Austin Macdonald, Scientific Software Developer
+        - Vadim Melnick, Scientific Software Developer, Consultant
+        - Isaac To, Scientific Software Developer
 
 - McGill University, Montreal, Canada
-    - Jean-Baptise Poline Project Lead
-        - Alyssa Dai Developer
-        - Arman Jahanpour Developer
-        - Brent McPherson Postdoctoral Researcher
-        - Sebastian Urchs Senior Scientific Software Developer
+    - Jean-Baptise Poline, Project Lead
+        - Alyssa Dai, Developer
+        - Arman Jahanpour, Developer
+        - Brent McPherson, Postdoctoral Researcher
+        - Sebastian Urchs, Senior Scientific Software Developer
 
 - University of California at Irvine, Irvine, CA
-    - David Keator Senior Investigator
+    - David Keator, Senior Investigator
 
 - University of California at San Diego, San Diego, CA
-    - Maryann Martone and Jeff Grethe Project Leads
-        - Sean Hatton Research Data Analyst
-        - Fahim Imam Assistant Project Scientist
+    - Maryann Martone and Jeff Grethe, Project Leads
+        - Sean Hatton, Research Data Analyst
+        - Fahim Imam, Assistant Project Scientist
 
 - Preuss Enterprises, Inc.
-    - Nina Preuss Investigator
+    - Nina Preuss, Investigator
 
 ## Directory
 
-ReproNim Alumni are indicated by asterisks.
+ReproNim alumni are indicated by asterisks.
 
 {{< people "repronim-team" >}}

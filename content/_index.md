@@ -20,13 +20,13 @@ To deliver effective tools, training, and principles to the neuroimaging communi
         link="/resources/getting-started/" 
         title="Getting Started" 
         image="/images/sec-started2.webp" 
-        subtitle="Getting Started with ReproNim" 
+        subtitle="Getting started with ReproNim" 
     >}}
     {{< rn-button 
         link="/resources/tools/" 
         title="Tools" 
         image="/images/tools.webp" 
-        subtitle="ReproNim Tools" 
+        subtitle="ReproNim tools" 
     >}}
     {{< rn-button 
         link="/fellowship/" 
@@ -38,6 +38,6 @@ To deliver effective tools, training, and principles to the neuroimaging communi
         link="/about/why/" 
         title="Why" 
         image="/images/sec-why2.webp" 
-        subtitle="Why Reproducible Neuroimaging" 
+        subtitle="Why reproducible neuroimaging" 
     >}}
 {{< /rn-buttons >}}

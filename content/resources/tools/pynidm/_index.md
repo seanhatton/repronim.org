@@ -41,6 +41,7 @@ PyNIDM is the first tool to allow working with NIDM without needing to understan
 ## Links
 
 - Home page: https://pynidm.readthedocs.io/
+- Tutorial:  [Creating a BIDS data dictionary and adding semantics for FAIR](https://repronim.netlify.app/resources/tutorials/data-dictionary/)
 - Installation: https://pynidm.readthedocs.io/en/latest/#installation
 - Full documentation: https://pynidm.readthedocs.io/
 - How to get help: https://github.com/incf-nidash/PyNIDM/issues

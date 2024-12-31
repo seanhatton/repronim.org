@@ -8,7 +8,7 @@ weight: 5
 **[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**
 - Principle 2c:  Data and Metadata management: Annotate data using standard, reproducible procedures
 
-**[Actions](/about/in-practice/#repronims-4-core-actions)**
+**[Actions](/about/in-practice/#repronims-four-core-actions)**
 - Standards
 - Annotation  
 

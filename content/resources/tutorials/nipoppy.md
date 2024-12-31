@@ -7,7 +7,7 @@ weight: 5
 
 **[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**
 
-**[Actions](/about/in-practice/#repronims-4-core-actions)**
+**[Actions](/about/in-practice/#repronims-four-core-actions)**
 
 **Standards**
 

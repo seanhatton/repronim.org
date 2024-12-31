@@ -23,7 +23,7 @@ references to them (by NUMBER.LETTER) on other pages.
 <!-- 1: Study planning -->
 1. Study planning
     <!-- 1a: Implement good science -->
-    1. Implement good science basics (power analysis, statistical consults, etc).
+    1. Implement good science basics (power analysis, statistical consults, etc.).
     <!-- 1b: Use pre-existing data -->
     2. Use pre-existing data for planning and/or analysis.
     <!-- 1c: Create a DSMP -->

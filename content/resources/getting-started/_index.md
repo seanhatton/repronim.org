@@ -8,14 +8,14 @@ weight: 2
 ReproNim offers best practices, tools and training to implement reproducible neuroimaging in your lab.  Here is a brief overview of our website:
 
 * **New to reproducible neuroimaging?**
-  * [Why reproducible neuroimaging](https://repronim.netlify.app/about/why/)
+  * [Why reproducible neuroimaging](/about/why/)
   * [What is reproducible neuroimaging?](/about/why/#what-is-reproducible-neuroimaging)
   * [ReproNim's principles and supporting actions](/about/in-practice/) for reproducible neuroimaging 
 * **Wondering what ReproNim can do for you?**
   * Meet our [exemplary user personas and the issues they face in running neuroimaging studies](/resources/getting-started/#meet-our-user-personas)
   * View our introduction to the [ReproNim approach](/about/repronim-approach/) and some step-by-step tutorials on how to use ReproNim tools to improve your ability to perform robust and shareable neuroimaging studies
 * **Tools and how-to guide:**
-  * Our [Resource](https://repronim.netlify.app/resources/) section provides a listing of [tools](/resources/tools/) and [tutorials](/resources/tutorials/) on how to use them to support principles of reproducible neuroimaging 
+  * Our [Resource](/resources/) section provides a listing of [tools](/resources/tools/) and [tutorials](/resources/tutorials/) on how to use them to support principles of reproducible neuroimaging 
 * **Training:**
   * [On-line training course](https://www.repronim.org/teach.html) on a range of basic and more advanced topics related to reproducible neuroimaging
   * [ReproNim Fellows Program](/fellowship/):  Become a ReproNim fellow through our train the trainer program
@@ -153,13 +153,13 @@ ReproNim is not an end to end platform, but has several tools that can take her 
 
 **Use cases that might be of interest to Evelyn:**
 
-* Planning and data management:  Learn how a data collection and annotation framework for behavioral data to be collected can be set up using [ReproSchema and shared across multiple sites](https://repronim.netlify.app/resources/tutorials/reproschema/).
+* Planning and data management:  Learn how a data collection and annotation framework for behavioral data to be collected can be set up using [ReproSchema and shared across multiple sites](/resources/tutorials/reproschema/).
   * Principles:  planning, data management
   * Actions:  standards, annotations
 * Basic software management for distributed data: [Curating and processing a single study to generate standardized, analysis-ready data to participate in distributed projects using Nipoppy](/resources/tutorials/nipoppy/)
   * Principles:  Software management
   * Standards:  Standards, annotation
-* Advanced data management:  [Adding standards and semantics to data dictionaries to promote data harmonization and findability](https://repronim.netlify.app/resources/tutorials/data-dictionary/)
+* Advanced data management:  [Adding standards and semantics to data dictionaries to promote data harmonization and findability](/resources/tutorials/data-dictionary/)
   * Principles:  data management, FAIR
   * Actions:  Standards, Annotation
 * Advanced metadata management: [Searching and sharing metadata through ReproPond and ReproLake](/resources/tutorials/pond-lake/)

@@ -4,9 +4,9 @@ type: docs
 weight: 30
 ---
 
-Our efforts are substantially informed and enhanced through the breadth and depth of scientific expertise of our collaborators in both [Collaborating Projects](#collaborating-projects) and [Service Projects](#service-projects).
+Our efforts are substantially informed and enhanced through the breadth and depth of scientific expertise of our collaborators in both [Collaborative Projects](#collaborating-projects) and [Service Projects](#service-projects).
 
-[Contact us](mailto:info@repronim.org) if you are interested in becoming a ReproNim Collaborating or Service Project.
+[Contact us](mailto:info@repronim.org) if you are interested in becoming a ReproNim Collaborative or Service Project.
 
 <link rel="stylesheet" href="/css/logos.css">
 <div class="container logos">
@@ -40,7 +40,7 @@ Our efforts are substantially informed and enhanced through the breadth and dept
     </div>
 </div>
 
-## Collaborating Projects
+## Collaborative Projects
 
 We are collaborating with numerous groups around the country and abroad to synergistically develop ReproNim tools in concert with (and as informed by) rapidly advancing technologies in a variety of areas including image analysis, workflow processing, data sourcing and hosting, and associated API developments.
 

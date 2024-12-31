@@ -9,7 +9,7 @@ We actively seek and support community engagement and feedback in the technical 
 - Read the [ReproNim blog](https://reprodev.wordpress.com/category/article/).
 - Sign up for our [mailing list](https://www.nitrc.org/mailman/listinfo/repronim-announcement).
 - Explore, use, and contribute to our [training resources](/resources/training/).
-- Become a [Collaborator or Service Project](/about/collaborators/).
+- Become a [Collaborative or Service Project](/about/collaborators/).
 - Become a [ReproNim/INCF Fellow](/fellowship/).
 - Follow our [webinar series](/about/webinars/).
 - Drop in on our virtual office hours on the first Thursday of each month.  Find details in our [news](/about/news/).

@@ -40,7 +40,7 @@ Here we will learn how to set up a **local** FAIR metadata store, which is known
 ## Before you start
 
 * Raw data files need to be organized as per the **BIDS format** (see [Converting DICOM to BIDS](http://resources/tutorials/dicom-to-bids/) tutorial)
-* A **data dictionary** that can be used for both BIDS and NIDM compliant representations for ReproPonds and Lake is available (see Implementing data management basics:  Creating a BIDS Data Dictionary)
+* A **data dictionary** that can be used for both BIDS and NIDM compliant representations for ReproPonds and Lake is available (see [Implementing data management basics:  Creating a BIDS Data Dictionary and Adding Semantics for FAIR](/resources/tutorials/data-dictionary/)
   * The ReproPond is built from the **nidm.ttl** file containing semantically-enhanced subject-level data
 * The **Neurobagel tools** need to be installed.  To run the Neurobagel Docker, the Docker service needs to be installed on the host machine (refer [https://docs.docker.com/desktop/install/linux/](https://docs.docker.com/desktop/install/linux/)).  Also ensure that there is a docker group setup and the current user is a member of the docker and root groups (as per [https://docs.docker.com/engine/install/linux-postinstall/](https://docs.docker.com/engine/install/linux-postinstall/)):
 

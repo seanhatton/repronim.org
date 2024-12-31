@@ -158,7 +158,7 @@ ReproNim is not an end to end platform, but has several tools that can take her 
 * Basic software management for distributed data: [Curating and processing a single study to generate standardized, analysis-ready data to participate in distributed projects using Nipoppy](/resources/tutorials/nipoppy/)
   * Principles:  Software management
   * Standards:  Standards, annotation
-* Advanced data management:  Adding standards and semantics to data dictionaries to promote data harmonization and findability
+* Advanced data management:  [Adding standards and semantics to data dictionaries to promote data harmonization and findability](https://repronim.netlify.app/resources/tutorials/data-dictionary/)
   * Principles:  data management, FAIR
   * Foundations:  Standards, Annotation
 * Advanced metadata management: [Searching and sharing metadata through ReproPond and ReproLake](/resources/tutorials/pond-lake/)

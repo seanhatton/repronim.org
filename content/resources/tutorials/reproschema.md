@@ -1,6 +1,6 @@
 ---
 title: Set Up a Data Collection and Annotation Framework Using ReproSchema for Multi-Site Behavioral Studies
-linkTitle: ReproSchema
+linkTitle: Planning a distributed project using ReproSchema
 type: docs
 weight: 5 
 ---

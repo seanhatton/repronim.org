@@ -1,8 +1,8 @@
 ---
-title: Estimating Cost
-linkTitle: Estimating Cost
+title: Estimating Costs
+linkTitle: Estimating costs
 type: docs
-weight: 15
+weight: 5
 ---
 
 ## How much will it cost?

@@ -11,7 +11,7 @@ Tutorials are organized into basic and more advanced approaches. Each tutorial i
 **Principle 1:  Study Planning**
 
 * Creating a [neuroimaging data management and sharing plan](/resources/tutorials/data-management-and-sharing/)
-* Guidance on [estimating costs and required resources](/resources/estimating-cost/) for implementing reproducible practices 
+* Guidance on [estimating costs and required resources](/resources/tutorials/estimating-costs/) for implementing reproducible practices 
 * Set up a data collection and annotation framework for a multisite study using [ReproSchema](/resources/tutorials/reproschema/).
 
 **Principle 2: Data and metadata management**

@@ -110,4 +110,4 @@ The NIH expects that a budget will be provided to cover the costs of implementin
 NDA publishes [a general guide](https://nda.nih.gov/nda/data-contribution#cost) on efforts required to prepare data for submission.
 Estimating the exact costs of implementing ReproNim recommendations is difficult because they depend on your current capacities, processes and expertise. 
 Changing your current workflow to incorporate BIDS, for example, may require significant effort up front, but once the switch has been made, will likely lower costs overall.
-We have prepared [some basic questions](/resources/estimating-cost/) to answer that will help determine what resources and effort may be needed.
+We have prepared [some basic questions](/resources/tutorials/estimating-costs/) to answer that will help determine what resources and effort may be needed.

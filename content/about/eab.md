@@ -15,7 +15,6 @@ weight: 20
     - Christina L. Williams Professor of Neuroscience
     - Department of Neuroscience and Behavior
     - Barnard College, New York NY
-    - BJ's previous lab website: FabLab at Yale
     - [Member, American Academy of Arts & Sciences](https://www.amacad.org/person/bj-casey)
 
 - [Damien Fair, PhD](https://midb.umn.edu/staff/damien-fair)

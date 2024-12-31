@@ -38,6 +38,7 @@ ReproSchema applies reproducible neuroimaging principles to assessments, allowin
 - Tutorials:
   - https://www.repronim.org/reproschema/user-guide/create-new-protocol/
   - https://www.repronim.org/reproschema/tutorials/using-reproschema/
+  - [Set up a data collection and annotation framework for multi-site behavioral studies using ReproSchema](/resources/tutorials/reproschema/)
 - Installation: https://pypi.org/project/reproschema/
 - Full documentation: https://www.repronim.org/reproschema/
 - How to get help: https://github.com/ReproNim/reproschema/issues

@@ -1,6 +1,6 @@
 ---
 title: Creating a BIDS Data Dictionary and Adding Semantics to for FAIR
-linkTitle: Data dictionary
+linkTitle: Creating a data dictionary
 type: docs
 weight: 5 
 ---

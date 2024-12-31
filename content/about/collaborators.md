@@ -4,7 +4,7 @@ type: docs
 weight: 30
 ---
 
-Our efforts are substantially informed and enhanced through the breadth and depth of scientific expertise of our collaborators in both [Collaborative Projects](#collaborating-projects) and [Service Projects](#service-projects).
+Our efforts are substantially informed and enhanced through the breadth and depth of scientific expertise of our collaborators in both [Collaborative Projects](#collaborative-projects) and [Service Projects](#service-projects).
 
 [Contact us](mailto:info@repronim.org) if you are interested in becoming a ReproNim Collaborative or Service Project.
 

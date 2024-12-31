@@ -23,11 +23,17 @@ Managing neuroimaging pipelines often involves handling complex datasets and mul
 
 ## Exercise
 
-In this tutorial, you will learn how to use [`nipoppy`](https://nipoppy.readthedocs.io/en/latest/) to address these challenges by:
+In this tutorial, you will learn how to use [`nipoppy`](https://nipoppy.readthedocs.io/en/latest/) to manage a simple workflow.  In this example, we
+start with data that has already been converted into the BIDS representation. If your data is not in BIDS, the instructions at 
+[Nipoppy](https://nipoppy.readthedocs.io/en/stable/index.html) addresses this more complex task. The workflow in this example is simply a 
+preexisting *MRIQC* container available at DockerHub. Containerization of more complex workflows are addressed in the *Containerization Tutorial*. 
+The example facilitates the deployment of the indicated container across all the content of the indicated dataset (subjects, sessions, etc.) 
+and makes the derived content available to the local metadata store (aka ReproPond) for query with *NeuroBagel*. The key points of this exercise are:
 
 1. **Initializing a project:** Setting up a project directory and configuring necessary files for managing data and pipelines execution on the BIDS dataset [ds004101](https://openneuro.org/datasets/ds004101/versions/1.0.1/download) from OpenNeuro.  
 2. **Running the pipeline:** Executing the MRIQC 23.1.0 pipeline our example dataset.  
 3. **Tracking progress:** Monitoring the pipeline's status and ensuring all steps are completed successfully.
+4. **Make results available:** Provide the status and results to a *NeuroBagel* node.
 
 ## Step-by-step guide
 

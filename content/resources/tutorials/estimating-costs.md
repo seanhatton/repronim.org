@@ -1,6 +1,6 @@
 ---
 title: Estimating Costs
-linkTitle: Estimating costs
+linkTitle: Estimating Costs
 type: docs
 weight: 5
 ---

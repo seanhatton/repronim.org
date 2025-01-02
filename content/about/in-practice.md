@@ -21,9 +21,9 @@ references to them (by NUMBER.LETTER) on other pages.
 <!-- proposed abbreviated principles are in comments (like this one) -->
 
 <!-- 1: Study planning -->
-1. Study planning
+1. **Study planning**
     <!-- 1a: Implement good science -->
-    1. Implement good science basics (power analysis, statistical consults, etc.).
+    1. Implement good science basics ([power analysis, statistical consults, etc.](https://www.repronim.org/module-stats/)).
     <!-- 1b: Use pre-existing data -->
     2. Use pre-existing data for planning and/or analysis.
     <!-- 1c: Create a DSMP -->
@@ -34,7 +34,7 @@ references to them (by NUMBER.LETTER) on other pages.
     5. [Pre-register](https://www.cos.io/initiatives/prereg) your study.
 
 <!-- 2: Data and metadata management -->
-2.  Data and metadata management
+2.  **Data and metadata management**
     <!-- 2a: Use standard data formats -->
     1. Use standard data formats and extend them to meet your needs.
     <!-- 2b: Use data version control -->
@@ -43,7 +43,7 @@ references to them (by NUMBER.LETTER) on other pages.
     3. Annotate data using standard, reproducible procedures.
 
 <!-- 3: Software management -->
-3.  Software management
+3.  **Software management**
     <!-- 3a: Use released open source software -->
     1. Use released versions of open source software.
     <!-- 3b: Use software version control -->
@@ -58,7 +58,7 @@ references to them (by NUMBER.LETTER) on other pages.
     6. Use containers where reasonable.
 
 <!-- 4: Publishing everything -->
-4.  Publishing everything (publishing re-executable publications)
+4.  **Publishing everything** (publishing re-executable publications)
     <!-- 4a: Share research plans -->
     1. Share plans (pre-registration).
     <!-- 4b: Share software -->
@@ -72,15 +72,15 @@ references to them (by NUMBER.LETTER) on other pages.
 
 As indicated by the blue highlights in the figure below, four core actions are key to implementing the above principles.
 
-1. Use of standards.
+1. **Use of standards**
 
-   Using standard data formats and extending them to meet specific research needs is important for data and metadata management (Principle 2) in reproducible neuroimaging.
+    Using standard data formats and extending them to meet specific research needs is important for data and metadata management (Principle 2) in reproducible neuroimaging.
 
-2. Annotation and provenance.
+3. **Annotation and provenance**
 
    Annotating data using standard, reproducible procedures ensures clarity and transparency in data management (Principle 2). _Provenance_ refers to the origin and history of data and processes, enabling researchers to track how data was generated, modified, and analyzed (Principles 2, 3, and 4). This is essential for understanding the context of data and ensuring reproducibility.
 
-3. Implementation of version control.
+4. **Implementation of version control**
 
    Version control is crucial for both data and software management. It allows researchers to track changes over time, revert to previous versions if necessary, and collaborate effectively.
 
@@ -90,7 +90,7 @@ As indicated by the blue highlights in the figure below, four core actions are k
 
    And even publications can be versioned (Principle 4).
 
-4. Use of containers.
+5. **Use of containers**
 
    Containers provide a portable and self-contained environment for running software, ensuring that the analysis can be executed consistently across different computing environments (Principle 3). Containers encapsulate all of the software dependencies needed to run an analysis, making it easier to share software (Principle 4) and reproduce results.
 

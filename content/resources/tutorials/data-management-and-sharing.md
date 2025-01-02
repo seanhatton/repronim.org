@@ -4,7 +4,7 @@ linkTitle: Creating a Data Management and Sharing Plan
 type: docs
 weight: 5
 ---
-[Reproducible neuroimaging principles](https://repronim.netlify.app/about/in-practice/)
+[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)
 
 1c. Study planning: Create an NIH-compliant data management and sharing plan
 

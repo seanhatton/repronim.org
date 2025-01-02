@@ -1,6 +1,6 @@
 ---
 title: Streamlining Neuroimaging Processing with Nipoppy
-linkTitle: Higher order process management
+linkTitle: Higher Order Process Management
 type: docs
 weight: 5 
 ---

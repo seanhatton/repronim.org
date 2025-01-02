@@ -1,5 +1,5 @@
 ---
-title: Advanced containerization using DataLad
+title: Advanced Containerization Using DataLad
 type: docs
 weight: 5
 ---

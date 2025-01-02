@@ -75,7 +75,6 @@ Tutorials that might be interesting to Sarah include:
 * For study planning, [Creating a Data Management and Sharing Plan](/resources/tutorials/data-management-and-sharing/).
 * For data management, [Converting DICOM to BIDS](/resources/tutorials/dicom-to-bids/) and [Creating a Data Dictionary](/resources/tutorials/data-dictionary/).
 * For software management, [Basic Software Versioning Using Git](/resources/tutorials/git/).
-* For publishing, [Publish Everything](/resources/tutorials/publish-everything/).
 
 ### Richard
 

@@ -1,5 +1,5 @@
 ---
-title: ReproNim tips for creating an NIH Data Management and Sharing Plan (DMSP)
+title: Creating an NIH Data Management and Sharing Plan (DMSP)
 linkTitle: Creating a Data Management and Sharing Plan
 type: docs
 weight: 5

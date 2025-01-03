@@ -1,5 +1,5 @@
 ---
-title: Converting DICOM data to BIDS
+title: Converting DICOM Data to BIDS
 linkTitle: Converting DICOM to BIDS
 type: docs
 weight: 5 

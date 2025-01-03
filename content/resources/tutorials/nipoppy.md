@@ -7,6 +7,8 @@ weight: 5
 
 **[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**
 
+3.  Software management
+
 **[Actions](/about/in-practice/#repronims-four-core-actions)**
 
 **Standards**

@@ -5,25 +5,13 @@ type: docs
 weight: 5
 ---
 
-**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**
+**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**: 1b: Use pre-exising data, 2c: Annotate data.
 
-- 1b Study Planning: Consider using pre-existing data for planning or analysis
-- 2c Metadata management: Annotate your data using standard formats
+**[Actions](/about/in-practice/#repronims-four-core-actions)**: Standards, Annotation and provenance.
 
-**[Actions](/about/in-practice/#repronims-four-core-actions)**
+**Standards**: [BIDS](/resources/tools/bids/index.html), [NIDM](/resources/tools/nidm/index.html).
 
-- Use of Standards
-- Annotation and provenance
-
-**Standards**
-
-- BIDS
-
-**Tools**
-
-- PyNIDM
-- Neurobagel
-- OpenNeuro
+**Tools**: [Neurobagel](https://neurobagel.org/), [PyNIDM](/resources/tools/pynidm/index.html).
 
 ## Challenge
 

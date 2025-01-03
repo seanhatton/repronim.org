@@ -1,22 +1,17 @@
 ---
-title: Set Up a Data Collection and Annotation Framework for Multi-Site Behavioral Studies Using ReproSchema 
+title: Set Up a Data Collection and Annotation Framework for Multi-Site Behavioral Studies
 linkTitle: Planning a Distributed Project Using ReproSchema
 type: docs
 weight: 5 
 ---
 
-**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**
-- Principle 2c:  Data and Metadata management: Annotate data using standard, reproducible procedures
+**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**: 2c: Annotate data.
 
-**[Actions](/about/in-practice/#repronims-four-core-actions)**
-- Standards
-- Annotation  
+**[Actions](/about/in-practice/#repronims-four-core-actions)** Standards, Annotation and provenance.
 
-**Standards**
-- BIDS  
+**Standards**: [BIDS](/resources/tools/bids/index.html).
 
-**Tools**
-- ReproSchema
+**Tools**: [ReproSchema](/resources/tools/reproschema/index.html).
 
 ## Challenge
 

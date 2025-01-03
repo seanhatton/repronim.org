@@ -1,27 +1,17 @@
 ---
-title: Converting DICOM data to BIDS
+title: Converting DICOM Data to BIDS
 linkTitle: Converting DICOM to BIDS
 type: docs
 weight: 5 
 ---
 
-**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**
+**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**: 2. Data and metadata management.
 
-- 2a. Data and Metadata management: Use standard data formats and extend them for your needs
+**[Actions](/about/in-practice/#repronims-four-core-actions)**: Standards, Annotation.
 
-**[Actions](/about/in-practice/#repronims-four-core-actions)**
+**Standards**: [BIDS](/resources/tools/bids/index.html).
 
-- Standards
-- Annotation
-
-**Standards**
-
-- BIDS
-
-**Tools**
-
-- HeuDiConv
-- ReproIn
+**Tools** [HeuDiConv](/resources/tools/heudiconv/index.html), [ReproIn](/resources/tools/reproin/index.html).
 
 ## Challenge
 

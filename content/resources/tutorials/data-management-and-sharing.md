@@ -1,12 +1,11 @@
 ---
-title: ReproNim tips for creating an NIH Data Management and Sharing Plan (DMSP)
+title: Creating an NIH Data Management and Sharing Plan (DMSP)
 linkTitle: Creating a Data Management and Sharing Plan
 type: docs
 weight: 5
 ---
-[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)
 
-1c. Study planning: Create an NIH-compliant data management and sharing plan
+**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**: 1c. Create a DSMP.
 
 The [NIH DMSP](https://grants.nih.gov/grants-process/write-application/forms-directory/data-management-and-sharing-plan-format-page) currently comprises 6 elements covering: 1\)  the type of data and metadata that will be collected and preserved; 2\)  software tools and code required to use the data;  3\) standards used for collecting and organizing data; 4\)  long term data preservation and access;  4\) distribution and reuse considerations; 5\) privacy concerns;  6\)  oversight.
 

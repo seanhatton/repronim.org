@@ -4,34 +4,13 @@ type: docs
 weight: 5
 ---
 
-**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**
+**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**: 2a: Use standard data formats, 2b: Use data version control, 2c: Annotate data, 3: Software management.
 
-- 2a: Use **standard** data formats and extend them to meet your needs.
-- 2b: Use **version control** from start to finish
-- 2c: **Annotate** data using standard, reproducible procedures
-- 3a: Use released versions of open source software tools.
-- 3b: Use **version control** from start to finish
-- 3c: Automate the installation of your code and its dependencies
-- 3d: Automate the execution of your data analysis
-- 3e: **Annotate** your code and workflows using standard, reproducible procedures
-- 3f: Use **containers** where reasonable
+**[Actions](/about/in-practice/#repronims-four-core-actions)** Standards, Annotation and provenance, Version control, Containers.
 
-**[Actions](/about/in-practice/#repronims-four-core-actions)**
+**Standards**: [BIDS](/resources/tools/bids/index.html).
 
-- Standards
-- Annotation
-- Containers
-- Version Control
-
-**Standards**
-
-- BIDS
-
-**Tools**
-
-- ReproNim Containers
-- Singularity
-- DataLad
+**Tools**: [DataLad](/resources/tools/datalad/index.html), [Singularity/Apptainer](https://apptainer.org/).
 
 ## Challenge
 

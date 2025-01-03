@@ -14,7 +14,7 @@ Reproducible neuroimaging is therefore not only a concern to those outside your 
 
 First, what do we mean when we say that scientific results are reproducible?  _Reproducibility_ is a broad term and is often used casually to mean the replication of the findings of a study at some level.  Here, we use the term _scientific reproducibility_ in general to mean _re-executability_, the ability to obtain the exact same results when the same data is analyzed using the exact same analysis methods.  Re-executability focuses on methodological reproducibility and should be seen as simply the first step in establishing the validity of a given set of results. A _result_, a claim made about the meaning of a study, is fully reproducible when it can be re-executed and generalized independently.  Some of what we are referring to as generalization is referred to as _replication_, defined as repeating an entire study with new data to see if the original results can be replicated.  But as you can see in the graphic below, there are multiple types of replication in the age of open data and tool sharing.  A true biological inference should hold true regardless of the methods used to observe a biological process or the specific sample of the population being studied.
 
-![image](/images/spectrum.png)
+![A diagram illustrating the spectrum of reproducibility.](/images/spectrum.png)
 
 ### Reproducible neuroimaging
 

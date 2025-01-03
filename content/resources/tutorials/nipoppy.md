@@ -118,7 +118,7 @@ nipoppy status nipoppy_example
 
 For now, the dataset only has BIDS data.
 
-![](/images/nipoppy-1.png)
+![A screenshot of nipoppy status output.](/images/nipoppy-1.png)
 
 ### Step 2: Modifying the global configuration file
 
@@ -242,7 +242,7 @@ participant_id  bids_participant_id     session_id  pipeline_name   pipeline_ver
 
 Running `nipoppy status` again will show that one participant has completed processing for the first session:
 
-![](/images/nipoppy-2.png)
+![A screenshot of nipoppy status output.](/images/nipoppy-2.png)
 
 The imaging bagel file can also be uploaded to the [Neurobagel digest dashboard](https://digest.neurobagel.org/), which will produce interactive visualizations of pipeline processing statuses.
 

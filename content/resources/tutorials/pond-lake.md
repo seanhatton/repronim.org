@@ -89,7 +89,7 @@ docker compose --profile full_stack up -d
 
 Running the docker services for the first time, there should be a network interface, volume and four container services running.
 
-![](/images/pond-lake-1.png)
+![A screenshot of docker running.](/images/pond-lake-1.png)
 
 Check that your docker containers have launched correctly by running:
 
@@ -99,7 +99,7 @@ docker ps
 
 There should be four docker services running.
 
-![](/images/pond-lake-2.png)
+![A screenshot of the output of docker ps.](/images/pond-lake-2.png)
 
 To stop the service enter:
 
@@ -135,11 +135,11 @@ Multiple local nodes (ReproPond) and public nodes (ReproLake).
 
 In a web browser access your own query tool at http://localhost:3000
 
-![](/images/pond-lake-3.png)
+![The Neurobagel query GUI.](/images/pond-lake-3.png)
 
 Select between your local, federated nodes and the ReproLake node.
 
-![](/images/pond-lake-4.png)
+![The Neurobagel GUI being used to select a data source.](/images/pond-lake-4.png)
 
 Select other attributes for your query (e.g. age, diagnosis) and click on the Submit Query button.
 

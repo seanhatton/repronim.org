@@ -94,4 +94,4 @@ As indicated by the blue highlights in the figure below, four core actions are k
 
    Containers provide a portable and self-contained environment for running software, ensuring that the analysis can be executed consistently across different computing environments (Principle 3). Containers encapsulate all of the software dependencies needed to run an analysis, making it easier to share software (Principle 4) and reproduce results.
 
-![image](/images/principles-of-neuroimaging.jpg)
+![A diagram showing how ReproNim's principles and core actions work together to reproducible neuroimaging.](/images/principles-of-neuroimaging.jpg)

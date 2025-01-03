@@ -59,7 +59,7 @@ ReproSchema is built on a foundation of principles and features that make it a p
 
 This is an example of a typical assessment presented in the reproschema format:
 
-![image](/images/reproschema_1.png)
+![A diagram of a hypothetical assessment and how it would appear in ReproSchema.](/images/reproschema_1.png)
 
 Essential components in ReproSchema: 
 
@@ -69,7 +69,7 @@ Essential components in ReproSchema:
 * A user interface (UI, [https://github.com/ReproNim/reproschema-ui](https://github.com/ReproNim/reproschema-ui)) designed to optimize data collection.  
 * A cookiecutter (i.e., template, [https://github.com/ReproNim/reproschema-protocol-cookiecutter](https://github.com/ReproNim/reproschema-protocol-cookiecutter)) that enables the creation of customized research protocols using the library and the UI. 
 
-![image](/images/reproschema_2.png)
+![A diagram of the connections between the parts of ReproSchema.](/images/reproschema_2.png)
 
 ### Step 2: Set Up ReproSchema for Data Collection
 

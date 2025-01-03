@@ -9,7 +9,7 @@ weight: 90
 ReproNim's goal is to improve the reproducibility of neuroimaging science while making the process of capturing and precisely describing all essential study details both easier and more efficient.
 ReproNim focuses on practices and tools that support researchers and software engineers in integrating reproducible principles and actions into their own neuroimaging workflow.
 
-![image](/images/reprosystem.png)
+![A diagram showing the flow of data through an imaging study.](/images/reprosystem.png)
 
 As outlined this figure, ReproNim's system takes the full cycle of neuroimaging data acquisition, analyses, and publication into account.
 The system explicitly includes both data entering into an analysis (data of various types including scanner acquisitions, data converted to BIDS, behavioral data, and outputs of prior analyses), and the metadata and provenance of the analysis (software versions and computer operating system versions used, processing scripts, subject demographics, results descriptions, etc.).

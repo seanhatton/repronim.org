@@ -31,7 +31,7 @@ weight: 20
 
 - [Daniel S. Katz, PhD](https://danielskatz.org/)
     - Chief Scientist, National Center for Supercomputing Applications (NCSA)
-    - Research Associate Professor, Siebel School of Computer and Data Science
+    - Research Associate Professor, Siebel School of Computing and Data Science
     - Research Associate Professor, School of Information Sciences
     - University of Illinois, Urbana, Illinois
 

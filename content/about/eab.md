@@ -14,7 +14,7 @@ weight: 20
 - [BJ Casey, PhD](https://barnard.edu/profiles/bj-casey)
     - Christina L. Williams Professor of Neuroscience
     - Department of Neuroscience and Behavior
-    - Barnard College, New York NY
+    - Barnard College, New York, NY
     - [Member, American Academy of Arts & Sciences](https://www.amacad.org/person/bj-casey)
 
 - [Damien Fair, PhD](https://midb.umn.edu/staff/damien-fair)
@@ -31,9 +31,9 @@ weight: 20
 
 - [Daniel S. Katz, PhD](https://danielskatz.org/)
     - Chief Scientist, National Center for Supercomputing Applications (NCSA)
-    - Research Associate Professor, Siebel School of Computer and Data Science
+    - Research Associate Professor, Siebel School of Computing and Data Science
     - Research Associate Professor, School of Information Sciences
-    - University of Illinois, Urbana, Illinois
+    - University of Illinois Urbana-Champaign, Urbana, IL
 
 - [Jean King, PhD](https://www.wpi.edu/people/faculty/jaking)
     - Dean of Arts & Sciences

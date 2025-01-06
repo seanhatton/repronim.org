@@ -14,11 +14,11 @@ weight: 10
     - Founding Director, Center for Reproducible Neuroimaging Computation ([ReproNim](https://www.umassmed.edu/news/news-archives/2022/02/david-kennedy-awarded-$6-million-repronim-brain-imaging-grant/))
 - [Maryann Martone](https://profiles.ucsd.edu/maryann.martone) Project 1 Co-Lead - A FAIR Data and Metadata Foundation for Reproducible Research (DISCOVER)
     - Professor Emerita of Neuroscience, UC San Diego Health Sciences, San Diego, CA
-        - Principal Investigator, [FAIR Data Informatics Lab](https://www.fdilab.org/team) at UCSD
+        - Founding Co-Director, [FAIR Data Informatics Lab](https://www.fdilab.org/team) at UCSD
     - Former Chair, Governing Board, INCF
 - [Jeffrey Grethe](https://profiles.ucsd.edu/jeffrey.grethe) Project 1 Co-Lead - A FAIR Data and Metadata Foundation for Reproducible Research (DISCOVER)
-    - Associate Director, Neurosciences, UC San Diego Health Sciences, San Diego, CA
-        - Principal Investigator, [FAIR Data Informatics Lab](https://www.fdilab.org/team) at UCSD
+    - Associate Director, Center for Research in Biological Systems, Neurosciences, UC San Diego Health Sciences, San Diego, CA
+        - Founding Co-Director, [FAIR Data Informatics Lab](https://www.fdilab.org/team) at UCSD
 - [Satra Ghosh](https://mcgovern.mit.edu/profile/satrajit-ghosh/) Project 2 Lead - Improving Research Efficiency through Better Descriptors (DESCRIBE)
     - Principal Research Scientist, [McGovern Institute for Brain Research](https://satra.cogitatum.org/), M.I.T., Cambridge, MA
         - Director, [Senseable Intelligence Group](https://sensein.group/), M.I.T./Harvard Medical School

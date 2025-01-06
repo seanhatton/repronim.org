@@ -21,6 +21,10 @@ This section describes core tools and standards produced by ReproNim.  For a mor
 - [The Brain Imaging Data Structure (BIDS)](bids/index.html): A standard for organizing neuroimaging data and metadata on disk.
 - [The Neuroimaging Data Model (NIDM)](nidm/index.html): A Semantic Web extension for neuroimaging concepts.
 
+## Infrastructure
+
+- [ReproLake](reprolake/index.html): A public triplestore of neuroimaging metadata.
+
 ## Best Practices
 
 - [ReproIn](reproin/index.html): Scripts and configuration files for DICOM to BIDS conversion.

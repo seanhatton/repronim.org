@@ -42,3 +42,5 @@ Conversion from DICOM to more usable formats is complicated and requires managin
   - https://neurostars.org/tag/heudiconv
 
 ## Representative publications
+
+- Halchenko YO, et all HeuDiConv - flexible DICOM conversion into structured directory layouts. J Open Source Softw. 2024;9(99):5839. doi: 10.21105/joss.05839. Epub 2024 Jul 3. PMID: 39323511; [PMCID: PMC11423922](https://pmc.ncbi.nlm.nih.gov/articles/PMC11423922/).

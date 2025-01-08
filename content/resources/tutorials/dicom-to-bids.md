@@ -7,7 +7,7 @@ weight: 5
 
 **[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**: 2. Data and metadata management.
 
-**[Actions](/about/in-practice/#repronims-four-core-actions)**: Standards, Annotation.
+**[Actions](/about/in-practice/#repronims-four-core-actions)**: Standards, Annotation and provenance.
 
 **Standards**: [BIDS](/resources/tools/bids/index.html).
 
@@ -34,12 +34,12 @@ Before diving into the conversion process, it's important to familiarize yoursel
 
 ## Step by step guide
 
-### Step 1: Installing the Necessary Tools
+### Step 1: Install the necessary tools
 
 * **HeuDiConv:** Installation instructions can be found on the HeuDiConv GitHub page. You may want to verify the installation instructions on this website are up to date.
 * **dcm2niix:** HeuDiConv utilizes dcm2niix to convert DICOM files to the NIfTI format, required by BIDS. You'll need to install dcm2niix,  separately. You can find installation instructions on the [dcm2niix](https://github.com/rordenlab/dcm2niix) website.
 
-### Step 2: Creating a Heuristic File
+### Step 2: Create a heuristic file
 
 Heuristics are the heart of HeuDiConv's flexibility. They provide the instructions for mapping your specific DICOM data into the desired BIDS structure. You have two options:
 
@@ -81,7 +81,7 @@ Example:  Instead of calling your structural imaging protocol “mp\_rage”, ca
 
 Implementing these naming conventions means that you do not have to use a custom heuristic file, as HeuDiConv recognizes the ReproIn conventions.
 
-### Step 3: Running the Conversion
+### Step 3: Run the conversion
 
 Once you have your heuristic file ready, use the following command to initiate the conversion:
 
@@ -94,9 +94,11 @@ heudiconv \-d DICOM\_DIR\_TEMPLATE \-o BIDS\_OUTDIR \-f HEURISTIC\_FILE \-c dcm2
 * **\-b:** Enables BIDS compatibility mode.
 * **\--minmeta:** Minimizes the amount of metadata written to the output files. You can adjust this based on your requirements.
 
-### Step 4: Validation and Next Steps
+### Step 4: Validate
 
 After the conversion completes, carefully validate your BIDS output using the BIDS Validator tool. The BIDS Validator helps identify any deviations from the BIDS specification, ensuring your data is properly formatted for future analysis and sharing. You can find the BIDS Validator online. You may want to verify that the website is up to date.
+
+## Next steps
 
 Remember, HeuDiConv offers significant flexibility. Exploring its documentation and seeking help from the community can further enhance your understanding and utilization of this tool.
 

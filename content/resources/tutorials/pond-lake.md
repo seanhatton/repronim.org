@@ -133,7 +133,7 @@ Select other attributes for your query (e.g. age, diagnosis) and click on the Su
 
 Select the desired studies and click to Download Participant-Level Results and Dataset-Level Results.
 
-### Step 4 Download new data.
+### Step 4: Download new data
 
 Create a working directory for your project and place the Participant-Level and Dataset-Level Results TSV files inside.
 

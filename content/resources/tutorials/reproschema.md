@@ -34,7 +34,7 @@ In this tutorial, you will learn how to use ReproSchema to:
 
 By the end of the tutorial, you will be equipped to set up a reusable and interoperable system for managing behavioral data that aligns with best practices for multi-site research. You will also gain practical knowledge on streamlining cross-site data harmonization and aggregation, enabling immediate analyses and future reuse.
 
-# Before You Start
+## Before you start
 
 Knowledge Assumed:
 
@@ -46,9 +46,9 @@ Recommended Preparation:
 * GitHub Basics: If you’re new to GitHub, review the [GitHub Getting Started Guide](https://docs.github.com/en/get-started) to learn about cloning repositories and accessing project files.  
 * Bash Basics: For a refresher on bash commands, consult resources like the [GNU Bash Manual](https://www.gnu.org/software/bash/manual/) or beginner-friendly guides such as [Bash Command Cheat Sheets](https://github.com/RehanSaeed/Bash-Cheat-Sheet).
 
-## Step-by-Step Guide
+## Step by step guide
 
-### Step 1: Know the Foundations
+### Step 1: Know the foundations
 
 ReproSchema is built on a foundation of principles and features that make it a powerful tool for managing behavioral data in multi-site projects. Understanding these foundational aspects will help you appreciate how it simplifies data collection and ensures harmonization across diverse research settings.
 
@@ -66,7 +66,7 @@ Essential components in ReproSchema:
 
 ![A diagram of the connections between the parts of ReproSchema.](/images/reproschema_2.png)
 
-### Step 2: Set Up ReproSchema for Data Collection
+### Step 2: Set up ReproSchema for data collection
 
 Effective setup of ReproSchema begins with careful planning, hands-on configuration, and deployment strategies tailored to your research needs. This section will guide you through each step to create a functional and robust data collection framework.
 
@@ -77,7 +77,7 @@ Effective setup of ReproSchema begins with careful planning, hands-on configurat
 5. **Convert from Existing Platforms:** If you have your questionnaire from REDCap and want to convert to ReproSchema, we have a conversion tool here: [https://github.com/ReproNim/reproschema-py](https://github.com/ReproNim/reproschema-py)   
 6. **Deploying ReproSchema**: This repository ([https://github.com/ReproNim/reproschema-backend](https://github.com/ReproNim/reproschema-backend)) details how to run ReproSchema locally. 
 
-### Step 3: Use Cases
+## Use cases
 
 ReproSchema has been effectively employed in various research contexts, demonstrating its versatility and value for multi-site projects. Here are some practical and inspiring examples:
 
@@ -87,7 +87,7 @@ ReproSchema has been effectively employed in various research contexts, demonstr
 4. **Bridge2AI Project**: The [Bridge2AI project](https://github.com/sensein/b2ai-redcap2rs) uses ReproSchema to annotate and manage behavioral data across different teams.  
 5. **eCOBIDAS Checklist**: The [Best Practices in Data Analysis and Sharing Checklist (eCOBIDAS)](https://github.com/ohbm/eCOBIDAS) employs ReproSchema to provide researchers with a standardized checklist for ensuring reproducibility and transparency in neuroscience studies. 
 
-### Next Steps
+## Next steps
 
 If you are a researcher embarking on a multi-site project, this tutorial provides the tools and knowledge to set up and manage your data using ReproSchema confidently. From creating standardized schemas to deploying workflows that ensure consistency, you’re now equipped to tackle the complexities of behavioral data collection and analysis efficiently.
 

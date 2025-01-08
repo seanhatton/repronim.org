@@ -36,7 +36,7 @@ Before I show you specific steps, I think it is useful to learn more about the c
 
 ## Step by step guide
 
-### Step 1: Install the Necessary Tools
+### Step 1: Install the necessary tools
 
 If you are using Linux or OSX, you will likely already have `git` installed, you can open your terminal and try typing `git –help`. If you need to install on your own, you can follow the instructions from the [website](https://git-scm.com/downloads) (if you are a windows user you might want to install `bash shell` that comes with `git`, you can follow [the instructions](https://carpentries.github.io/workshop-template/install_instructions/#shell)).
 
@@ -47,7 +47,7 @@ git config --global user.name "Your Name"
 git config --global user.email youremail@example.com
 ```
 
-### Step 2: Creating the repository and adding new file
+### Step 2: Create the repository and add a new file
 
 I recommend watching [the ReproNim/ABCD course lesson, starting from minute 35](https://www.youtube.com/watch?v=SyKmry47SsY&t=2139s&ab_channel=ABCD-ReproNimCourse), if you want to have a bit more guidance (you can start from watching minutes 35-46).
 
@@ -93,7 +93,7 @@ Changes to be committed:
 	new file:   fsl\_bet.sh
 ```
 
-### Step 3: Creating a snapshot of the file
+### Step 3: Create a snapshot of the file
 
 You can see, that `git` recognized a new file added to the repository, and reports that there are “changes to be committed”. By running `git commit` command you create a snapshot of the current state of your file in `git`, and that will allow you to track progress and revert to this point (or snapshot) if needed anytime in the future.
 
@@ -114,7 +114,7 @@ nothing to commit, working tree clean
 
 So you have confirmation that all changes have been committed (or saved as a snapshot) and the working tree is clean, which means that there are no files that are not tracked by `git`.	
 
-### Step 4: Changing the file content and creating another snapshot
+### Step 4: Change the file content and create another snapshot
 
 You have a working script, but of course you will want to experiment and change various things. Once you modify the file and run `git status` you will see:
 
@@ -190,7 +190,7 @@ git diff 744d47eb
 
 **This has been a very brief introduction and we only cover how to start the repository and track the changes of your files. If you want to learn more about branching and collaborations, please check the materials from the “Next Step” section.**
 
-## Next Steps
+## Next steps
 
 The introduction from the previous section was very brief. If you want to have more explanation or learn about additional features, I recommend more extended tutorials that are available online:
 

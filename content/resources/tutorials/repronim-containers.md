@@ -35,7 +35,7 @@ materials would be *reachable* within that dataset.
 
 Note: This exercise is based on the [ReproNim/containers README](https://github.com/ReproNim/containers/), which should be referenced for more information.
 
-### Before you start
+## Before you start
 
 Required knowledge:
 
@@ -52,7 +52,7 @@ your usecase:
 
 ## Step by step guide
 
-### Step 1: Installing the Necessary Tools
+### Step 1: Install the necessary tools
 
 The following tools should be installed:
 
@@ -65,7 +65,7 @@ Additionally, the `datalad-container` extension should also be installed.
 pip install datalad-container
 ```
 
-### Step 2: Start a Datalad dataset
+### Step 2: Start a DataLad dataset
 
 Following YODA, our dataset for the results is **the** dataset that will contain everything needed to produce those results.
 
@@ -99,7 +99,7 @@ Now let's take a look at what we have.
  |--/code/containers # repronim/containers, this is where our non-custom code lives
 ```
 
-### Step 4: Freezing Container Image Versions
+### Step 4: Freeze container image versions
 
 `freeze_versions` is an optional step that will record and "freeze" the
 version of the container used. Even if the `///repronim/containers` dataset is
@@ -136,7 +136,7 @@ specified in the `.gitmodules`. By freezing into the top-level dataset
 instead, authors do not need to host a modified version of
 `///reporonim/containers`.
 
-### Step 5: Running the Containers
+### Step 5: Run the containers
 
 When we run the bids-mriqc container, it will need a working directory
 for intermediate files. These are not helpful to commit, so we will
@@ -194,7 +194,7 @@ singularity container. You can even now [datalad uninstall] sourcedata and even 
 sub-datasets to save space - they will be retrievable at those exact versions later
 on if you need to extend or redo your analysis.
 
-### Notes
+## Notes
 
 - aforementioned example requires DataLad >= 0.11.5 and datalad-containers >= 0.4.0;
 - for more elaborate example with use of [reproman] to parallelize execution on

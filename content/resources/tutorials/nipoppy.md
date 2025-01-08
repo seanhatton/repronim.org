@@ -33,19 +33,20 @@ and makes the derived content available to the local metadata store (aka ReproPo
 3. **Tracking progress:** Monitoring the pipeline's status and ensuring all steps are completed successfully.
 4. **Make results available:** Provide the status and results to a *NeuroBagel* node.
 
-## Step-by-step guide
+## Before you start
 
-### Step 0: Prerequisites
+You should be comfortable working at the command line.
 
-We will utilize the dataset **ds004101** from [OpenNeuro](https://openneuro.org/), which includes structural and functional MRI data for 9 subjects (2 sessions), as our working example. The dataset can be downloaded by following instructions [here](https://openneuro.org/datasets/ds004101/versions/1.0.1/download).
-
-**Dataset:** BIDS dataset [ds004101](https://openneuro.org/datasets/ds004101/versions/1.0.1/download)  
-**Software:**
+Install the following software:
 
 - Python environment with Nipoppy. Instructions can be found [here](https://nipoppy.readthedocs.io/en/latest/installation.html)  
 - [Apptainer](https://apptainer.org/)
 
-### Step 1: Initializing the Nipoppy dataset
+We will utilize the dataset **ds004101** from [OpenNeuro](https://openneuro.org/), which includes structural and functional MRI data for 9 subjects (2 sessions), as our working example. The dataset can be downloaded by following instructions [here](https://openneuro.org/datasets/ds004101/versions/1.0.1/download).
+
+## Step by step guide
+
+### Step 1: Initialize the Nipoppy dataset
 
 Run the following command to create a Nipoppy dataset and populate it with the BIDS data:
 
@@ -116,7 +117,7 @@ For now, the dataset only has BIDS data.
 
 ![A screenshot of nipoppy status output.](/images/nipoppy-1.png)
 
-### Step 2: Modifying the global configuration file
+### Step 2: Modify the global configuration file
 
 The `nipoppy init` command created the configuration file at `nipoppy_example/global_config.json`. This file needs to be updated with information specific to the dataset and your computing environment. By default, the beginning of the global config file looks like this:
 
@@ -176,7 +177,7 @@ Before running the pipeline, download the MRIQC container in the appropriate dir
 apptainer build <path_to_container_store>/mriqc_23.1.0.sif docker://nipreps/mriqc:23.1.0
 ```
 
-### Step 4: Running MRIQC on a single participant and session
+### Step 4: Run MRIQC on a single participant and session
 
 Use `nipoppy run` to run MRIQC on a single participant and session. This will take around 15 minutes.
 
@@ -202,7 +203,7 @@ nipoppy_example/derivatives/mriqc/23.1.0/output/
 
 Log files can be found in `nipoppy_example/logs/run/mriqc-23.1.0`.
 
-### Step 5: Tracking pipeline processing status
+### Step 5: Track the pipeline processing status
 
 Run `nipoppy track` to determine the MRIQC processing status for each subject and session:
 
@@ -244,7 +245,7 @@ The imaging bagel file can also be uploaded to the [Neurobagel digest dashboard]
 
 Finally, this file can be used directly as input to the [Neurobagel CLI](https://neurobagel.org/user_guide/cli/) when generating participant-level metadata about processing pipeline results.
 
-### Step 6 (optional): Running MRIQC on the rest of the dataset
+### Step 6 (optional): Run MRIQC on the rest of the dataset
 
 Use `nipoppy run` without the participant and session flags to process the rest of the dataset (in a loop). This will skip the participant-session that has previously been run successfully.
 

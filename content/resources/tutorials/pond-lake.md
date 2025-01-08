@@ -11,7 +11,7 @@ weight: 5
 
 **Standards**: [BIDS](/resources/tools/bids/index.html), [NIDM](/resources/tools/nidm/index.html).
 
-**Tools**: [Neurobagel](https://neurobagel.org/), [PyNIDM](/resources/tools/pynidm/index.html).
+**Tools**: [Neurobagel](https://neurobagel.org/), [PyNIDM](/resources/tools/pynidm/index.html), [ReproLake](/resources/tools/reprolake/).
 
 ## Challenge
 

@@ -7,7 +7,7 @@ weight: 5
 
 **[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**: 2. Data and metadata management.
 
-**[Actions](/about/in-practice/#repronims-four-core-actions)**: Standards, Annotation.
+**[Actions](/about/in-practice/#repronims-four-core-actions)**: Standards, Annotation and provenance.
 
 **Standards**: [BIDS](/resources/tools/bids/index.html).
 

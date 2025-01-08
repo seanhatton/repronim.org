@@ -9,7 +9,7 @@ weight: 5
 
 **Standards**: [BIDS](/resources/tools/bids/index.html).
 
-**Tools**: [Nipoppy](/resources/tools/nipoppy/index.html).
+**Tools**: [Nipoppy](/resources/tools/nipoppy/index.html), [ReproLake](/resources/tools/reprolake/).
 
 ## Challenge
 

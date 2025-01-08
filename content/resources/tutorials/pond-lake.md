@@ -42,7 +42,7 @@ sudo usermod -aG root $USER
 
 Mount your NIDM file (nidm.ttl) containing the study data using Neurobagel to create a local ReproPond.
 
-Install the Neurobagel Docker.  Please refer to https://neurobagel.org/getting_started/ for full details.
+Install the Neurobagel Docker.  Please refer to https://neurobagel.org/user_guide/getting_started/ for full details.
 
 Clone the Neurobagel recipes:
 
@@ -95,11 +95,11 @@ To stop the service enter:
 docker compose --profile full_stack down
 ```
 
-For full details of profiles and environmental variables at https://neurobagel.org/config/. For additional information for maintaining a node refer to https://neurobagel.org/maintaining/.
+For full details of profiles and environmental variables at https://neurobagel.org/user_guide/config/. For additional information for maintaining a node refer to https://neurobagel.org/user_guide/maintaining/.
 
 ### Step 2: Add local data and metadata to the local node
 
-Refer to [https://neurobagel.org/config/](https://neurobagel.org/config/) Uploading data to the graph store.
+Refer to [https://neurobagel.org/user_guide/config/](https://neurobagel.org/user_guide/config/#uploading-data-to-the-graph-store).
 
 The neurobagel/recipes repo contains a helper script scripts/add_data_to_graph.sh for automatically uploading all JSONLD and/or TTL files (i.e., graph-ready data) in a directory to a specific graph database. Below is an example of uploading files from a neurobagel_examples directory and clearing the existing data:
 

@@ -76,11 +76,11 @@ As indicated by the blue highlights in the figure below, four core actions are k
 
     Using standard data formats and extending them to meet specific research needs is important for data and metadata management (Principle 2) in reproducible neuroimaging.
 
-3. **Annotation and provenance**
+2. **Annotation and provenance**
 
    Annotating data using standard, reproducible procedures ensures clarity and transparency in data management (Principle 2). _Provenance_ refers to the origin and history of data and processes, enabling researchers to track how data was generated, modified, and analyzed (Principles 2, 3, and 4). This is essential for understanding the context of data and ensuring reproducibility.
 
-4. **Implementation of version control**
+3. **Implementation of version control**
 
    Version control is crucial for both data and software management. It allows researchers to track changes over time, revert to previous versions if necessary, and collaborate effectively.
 
@@ -90,7 +90,7 @@ As indicated by the blue highlights in the figure below, four core actions are k
 
    And even publications can be versioned (Principle 4).
 
-5. **Use of containers**
+4. **Use of containers**
 
    Containers provide a portable and self-contained environment for running software, ensuring that the analysis can be executed consistently across different computing environments (Principle 3). Containers encapsulate all of the software dependencies needed to run an analysis, making it easier to share software (Principle 4) and reproduce results.
 

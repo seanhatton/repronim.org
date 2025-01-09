@@ -6,6 +6,11 @@ weight: 10
 
 This section describes core tools and standards produced by ReproNim.  For a more comprehensive catalog of resources related to reproducible neuroimaging, please see the [ReproInventory project](https://github.com/ReproNim/ReproInventory).
 
+## Core Standards
+
+- [The Brain Imaging Data Structure (BIDS)](bids/index.html): A standard for organizing neuroimaging data and metadata on disk.
+- [The Neuroimaging Data Model (NIDM)](nidm/index.html): A Semantic Web extension for neuroimaging concepts.
+
 ## Core Tools
 
 - [DataLad](datalad/index.html): Software for data versioning and distribution.
@@ -15,11 +20,6 @@ This section describes core tools and standards produced by ReproNim.  For a mor
 - [Nipoppy](nipoppy/index.html): A command line tool to manage a complete neuroimaging processing workflow.
 - [PyNIDM](pynidm/index.html): A command line tool for working with NIDM data.
 - [ReproSchema](reproschema/index.html): A tool for defining, sharing, and reusing structured research protocols, enabling versioning and interoperability across studies.
-
-## Core Standards
-
-- [The Brain Imaging Data Structure (BIDS)](bids/index.html): A standard for organizing neuroimaging data and metadata on disk.
-- [The Neuroimaging Data Model (NIDM)](nidm/index.html): A Semantic Web extension for neuroimaging concepts.
 
 ## Infrastructure
 

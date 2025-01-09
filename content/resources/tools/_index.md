@@ -27,4 +27,4 @@ This section describes core tools and standards produced by ReproNim.  For a mor
 
 ## Best Practices
 
-- [ReproIn](reproin/index.html): Scripts and configuration files for DICOM to BIDS conversion.
+- [ReproIn](reproin/index.html): Convention and helpers for naming and organization of MRI sequences for turnkey DICOM to BIDS conversion.

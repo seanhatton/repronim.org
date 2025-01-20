@@ -34,7 +34,12 @@ Once you've made changes, you need to request that they be merged into the main 
 
 ### 3. Wait for Review
 
-Project maintainers will review your changes and may request modifications. Keep an eye on the **Pull Requests** tab for any comments or requested changes.
+Project maintainers will review your changes and may request modifications.
+Keep an eye on the Pull Requests tab for any comments or requested changes.
+Netlify automatically creates a deploy preview for each pull request, allowing you to see how your changes will appear on the live site before they are merged.
+A link to the preview will be available in the PR conversation, so you can verify everything looks as expected.
+Every time you add commits to the Pull Request, Netlify will automatically update the preview, be sure to use the new link each time.
+
 
 ### 4. Merge or Close
 

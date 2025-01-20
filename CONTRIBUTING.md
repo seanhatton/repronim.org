@@ -4,7 +4,7 @@ Thank you for your interest in contributing to the `repronim.org` project!
 
 This guide outlines how to contribute to ReproNim.org using GitHub’s web interface. The website is built with Hugo and deployed with Netlify whenever changes are merged.
 
-1. Changes are made via [GitHub Pull Requests](https://docs.github.com/en/github/collaborating-with-pull-requests/getting-started/about-pull-requests).
+1. Changes are made via [GitHub Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests).
 2. Once merged, your changes are automatically deployed to the live site via Netlify.
 
 ## Contributing Without the Command Line

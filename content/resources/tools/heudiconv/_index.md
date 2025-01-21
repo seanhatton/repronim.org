@@ -18,7 +18,8 @@ Conversion from DICOM to more usable formats is complicated and requires managin
 
 ## Citation information
 
-[RRID:SCR_017427](https://scicrunch.org/resolver/RRID:SCR_017427)
+- Halchenko et al., (2024). HeuDiConv — flexible DICOM conversion into structured directory layouts. Journal of Open Source Software, 9(99), 5839, [https://doi.org/10.21105/joss.05839](https://doi.org/10.21105/joss.05839)
+- [RRID:SCR_017427](https://scicrunch.org/resolver/RRID:SCR_017427)
 
 ## Requisite knowledge to use
 

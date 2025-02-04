@@ -35,7 +35,7 @@ weight: 10
     - Chair, CTSI, [INCF](https://www.incf.org/team/prof-jean-baptiste-poline)
 
 ### Organizational Chart
-![image](../../static/images/ReproNimOrgChart_V3.png)
+![image](/images/ReproNimOrgChart_V3.png)
 
 ## Full team
 

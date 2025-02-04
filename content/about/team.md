@@ -34,6 +34,9 @@ weight: 10
         - Principal Investigator, NeuroDataScience - [ORIGAMI Research Group](https://neurodatascience.github.io/), Montreal Neurologic Institute
     - Chair, CTSI, [INCF](https://www.incf.org/team/prof-jean-baptiste-poline)
 
+### Organizational Chart
+![image](/images/ReproNimOrgChart_V3.png)
+
 ## Full team
 
 - University of Massachusetts Chan Medical School, Worcester, MA

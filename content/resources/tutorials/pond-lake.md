@@ -40,11 +40,11 @@ sudo usermod -aG root $USER
 
 ### Step 1: Set up your local ReproPond using Neurobagel
 
-Mount your NIDM file (nidm.ttl) containing the study data using Neurobagel to create a local ReproPond.
+Here we are going to mount your NIDM file (nidm.ttl) containing the study data using Neurobagel to create a local ReproPond.
 
-Install the Neurobagel Docker.  Please refer to https://neurobagel.org/user_guide/getting_started/ for full details.
+First we install the Neurobagel Docker.  Please refer to https://neurobagel.org/user_guide/getting_started/ for full details.
 
-Clone the Neurobagel recipes:
+Start by cloning the Neurobagel recipes:
 
 ```
 git clone https://github.com/neurobagel/recipes.git

@@ -22,42 +22,42 @@ Who would you like to hear from?
 
 <link rel="stylesheet" href="/css/personas.css">
 <div class="persona">
-    <a href="#sarah">
+    <a href="#earlymid-career-researcher">
         <img src="/images/sarah.jpg" alt="Sarah">
     </a>
     <p>
-        Hi, I'm Sarah.  I'm an early- to mid-career researcher.  I'm  interested in applying best practices to my day-to-day research workflow.  <a href="#sarah">Read more.</a>
+        Hi, I'm Sarah.  I'm an early- to mid-career researcher.  I'm  interested in applying best practices to my day-to-day research workflow.  <a href="#earlymid-career-researcher">Read more.</a>
     </p>
 </div>
 
 <div class="persona">
-    <a href="#richard">
+    <a href="#software-engineer">
         <img src="/images/richard.jpg" alt="Richard">
     </a>
     <p>
-        Hi, I'm Richard.  I'm a research software engineer.  I want to incorporate more standards into the technical operations of my lab and learn more about how to effectively share workflows with my clients.  <a href="#richard">Read more.</a>
+        Hi, I'm Richard.  I'm a research software engineer.  I want to incorporate more standards into the technical operations of my lab and learn more about how to effectively share workflows with my clients.  <a href="#software-engineer">Read more.</a>
     </p>
 </div>
 
 <div class="persona">
-    <a href="#john">
+    <a href="#computational-neuroscientistteacher">
         <img src="/images/john.jpg" alt="John">
     </a>
     <p>
-        Hi, I'm John.  I'm a university-based computational neuroscientist and teacher.  I would like to see what resources are available for my teaching about rigor and reproducibility. <a href="#john">Read more.</a>
+        Hi, I'm John.  I'm a university-based computational neuroscientist and teacher.  I would like to see what resources are available for my teaching about rigor and reproducibility. <a href="#computational-neuroscientistteacher">Read more.</a>
     </p>
 </div>
 
 <div class="persona">
-    <a href="#evelyn">
+    <a href="#multi-center-project-director">
         <img src="/images/evelyn.jpg" alt="Evelyn">
     </a>
     <p>
-      Hi, I'm Evelyn.  I'm the director of a multi-center distributed project.  My interest is in harmonizing the research being performed at several sites. <a href="#evelyn">Read more.</a>
+      Hi, I'm Evelyn.  I'm the director of a multi-center distributed project.  My interest is in harmonizing the research being performed at several sites. <a href="#multi-center-project-director">Read more.</a>
     </p>
 </div>
 
-### Sarah
+### Early/mid career researcher
 
 <img src="/images/sarah.jpg" alt="Sarah" style="width: 250px; height: auto;">
 
@@ -77,7 +77,7 @@ Tutorials that might be interesting to Sarah include:
 * For data management, [Converting DICOM to BIDS](/resources/tutorials/dicom-to-bids/) and [Creating a Data Dictionary](/resources/tutorials/data-dictionary/).
 * For software management, [Basic Software Versioning Using Git](/resources/tutorials/git/).
 
-### Richard
+### Software engineer
 
 <img src="/images/richard.jpg" alt="Richard" style="width: 250px; height: auto;">
 
@@ -96,7 +96,7 @@ Tutorials that might be interesting to Richard include:
 * For data management, [Creating a Data Dictionary](/resources/tutorials/data-dictionary/).
 * For software management, [Advanced Containerization Using DataLad](/resources/tutorials/repronim-containers/).
 
-### John
+### Computational neuroscientist/teacher
 
 <img src="/images/john.jpg" alt="John" style="width: 250px; height: auto;">
 
@@ -118,7 +118,7 @@ For more in depth training, ReproNim has created a [modular online course](/reso
 
 John might also be interested in the [ReproNim/INCF Fellows Program](/fellowship/), a one year train-the-trainer program in reproducible neuroimaging.
 
-### Evelyn
+### Multi-center project director
 
 <img src="/images/evelyn.jpg" alt="Evelyn" style="width: 250px; height: auto;">
 

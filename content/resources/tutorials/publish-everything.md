@@ -5,23 +5,18 @@ type: docs
 weight: 5
 ---
 
-### ReproNim principles
+**[Reproducible neuroimaging principles](/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**:
 
-4\. Publishing everything: publishing re-executable publications
+4. Publishing everything: publishing re-executable publications
 
-4.a Plans should be shared (pre-registration)
-4.b Software should be shared
-4.c Data should be shared
-4.d All research objects should be FAIR
+4a Plans should be shared (pre-registration)
+4b Software should be shared
+4c Data should be shared
+4d All research objects should be FAIR
 
-### Actions
+**[Actions](/about/in-practice/#repronims-four-core-actions)**: Use Standards, Provide Annotation and Provenance
 
-Use Standards
-Provide Annotation and Provenance
-
-### Standards
-
-BIDS
+**Standards**: [BIDS](/resources/tools/bids/index.html)
 
 ## Challenge
 

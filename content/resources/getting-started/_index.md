@@ -7,14 +7,19 @@ ReproNim's philosophy is to incorporate reproducible practices into the typical 
 
 ReproNim offers best practices, tools, and training to implement reproducible neuroimaging in your lab.
 
-Our website provides a number of resources:
+Our website provides a number of resources to get you started with ReproNim, depending on your familiarity with reproducible neuroimaging and ReproNim:
 
-* An introduction to reproducible neuroimaging: We provide an [overview of reproducible neuroimaging](/about/why/), including exactly what we mean by the term and why it's important.  We follow it by showing [how to apply reproducible neuroimaging in practice](/about/in-practice/) and introduce principles of reproducible neuroimaging and actions for their application.
-* An overview of the [ReproNim approach](/about/repronim-approach/), describing how ReproNim supports reproducible neuroimaging.
-* An overview of how ReproNim applies to you: Meet our [exemplary user personas](/resources/getting-started/#user-personas) below and read about the issues they face in running neuroimaging studies.  Then browse our [tools](/resources/tools/) to find one that serves your needs and follow one our our [tutorials](/resources/tutorials/), showing how to use the tools to support reproducible neuroimaging.
-* Training resources: We provide an [online training course](https://www.repronim.org/teach.html) on a range of basic and more advanced topics related to reproducible neuroimaging.  And learn about the [ReproNim/INCF Fellowship](/fellowship/), our innovative and successful train-the-trainer program.
+<ins>Introductory materials</ins>
+* [An introduction to reproducible neuroimaging](/about/why/)
+* [Principles and actions of reproducible neuroimaging](https://repronim.netlify.app/about/in-practice/)
+* [The ReproNim approach to reproducible neuroimaging](https://repronim.netlify.app/about/repronim-approach/) 
 
-## User personas
+<ins>Choosing and using ReproNim tools</ins>
+* [Exemplary user types and use cases](/resources/getting-started/#user-personas)
+* [ReproNim tool catalog](/resources/tools/) 
+* [Training resources](https://www.repronim.org/teach.html)
+
+## User types and use cases
 
 To introduce you to ReproNim, we have created a set of exemplary personas that cover some typical interests and needs and have given each a face (through the magic of AI) and a set of skills and interests. We then produced a set of basic use cases that showcase how adopting the principles of neuroimaging and ReproNim tools can help them in their goals.
 

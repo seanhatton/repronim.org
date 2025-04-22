@@ -15,7 +15,7 @@ Our website provides a number of resources to get you started with ReproNim, dep
 * [The ReproNim approach to reproducible neuroimaging](https://repronim.netlify.app/about/repronim-approach/) 
 
 <ins>Choosing and using ReproNim tools</ins>
-* [Exemplary user types and use cases](/resources/getting-started/#User-types-and-use-cases)
+* [Exemplary user types and use cases](/resources/getting-started/#user-types-and-use-cases)
 * [ReproNim tool catalog](/resources/tools/) 
 * [Training resources](https://www.repronim.org/teach.html)
 

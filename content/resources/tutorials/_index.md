@@ -10,7 +10,7 @@ The tutorials are designed in a modular fashion, showing how individual steps to
 
 Tutorials cover basic and more advanced approaches as noted below. Each tutorial is organized in a similar fashion,  providing a list of tools, necessary skills and system requirements, and step-by-step instructions to implement and use the tools.
 
-For an alternative approach to finding the right tutorial for you, meet our [user personas](/resources/getting-started/#user-personas) and discover what tutorials interest them.
+For an alternative approach to finding the right tutorial for you, see our [user types and use cases](/resources/getting-started/#user-types-and-use-cases).
 
 ## Principle 1: Study planning
 

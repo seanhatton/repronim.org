@@ -11,12 +11,12 @@ Our website provides a number of resources to get you started with ReproNim, dep
 
 <ins>Introductory materials</ins>
 * [An introduction to reproducible neuroimaging](/about/why/)
-* [Principles and actions of reproducible neuroimaging](https://repronim.netlify.app/about/in-practice/)
-* [The ReproNim approach to reproducible neuroimaging](https://repronim.netlify.app/about/repronim-approach/) 
+* [Principles and actions of reproducible neuroimaging](/about/in-practice/)
+* [The ReproNim approach to reproducible neuroimaging](/about/repronim-approach/)
 
 <ins>Choosing and using ReproNim tools</ins>
 * [Exemplary user types and use cases](/resources/getting-started/#user-types-and-use-cases)
-* [ReproNim tool catalog](/resources/tools/) 
+* [ReproNim tool catalog](/resources/tools/)
 * [Training resources](https://www.repronim.org/teach.html)
 
 ## User types and use cases

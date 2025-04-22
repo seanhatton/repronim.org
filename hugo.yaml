@@ -18,6 +18,9 @@ markup:
 
 menu:
   main:
+    - name: Home
+      pageRef: "/"
+      weight: 1
     - name: Help
       pageRef: /help/
       weight: 10

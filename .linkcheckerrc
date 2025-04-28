@@ -21,6 +21,7 @@ ignore =
   ^https://doi\.org/10\.1101/2023\.08\.01\.551505
   ^https://doi\.org/10\.1101/2023\.08\.16\.552472
   ^https://doi\.org/10\.1109/tmi\.2018\.2831261
+  ^https://doi\.org/10\.1146/annurev-neuro-100119-110036
   ^https://doi\.org/10\.1148/radiol\.210385
   ^https://doi\.org/10\.1159/000530358
   ^https://doi\.org/10\.1162/imag_a_00074

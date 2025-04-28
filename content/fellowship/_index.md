@@ -13,7 +13,9 @@ The Fellowship is project-based, focusing on networking and mentorship in suppor
 
 Fellows are expected to develop a mechanism for training others, to share their interest and expertise in reproducibility at their respective home institutions or local scientific communities, and to participate in four one-hour teleconferences to bring Fellows and faculty together.  We also seek Fellows' feedback on and contributions to ReproNim teaching materials, which provides opportunities for Fellows (and their students) to help refine these materials.
 
-Applicants at any career stage are encouraged to apply.  We are also committed to creating an equitable environment where diversity is welcomed and respected.
+We are looking for committed, motivated candidates with specific objectives and interest in creating reproducibility training for their home institution or environment, as well as access to their target audiences.
+
+Applicants at any career stage are encouraged to apply.  We are also committed to creating a welcoming environment where everyone is respected.
 
 We typically award five to ten fellowships per Fellowship year, with the total number of Fellows contingent upon the availability of funds.
 

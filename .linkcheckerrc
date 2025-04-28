@@ -25,6 +25,7 @@ ignore =
   ^https://doi\.org/10\.1159/000530358
   ^https://doi\.org/10\.1162/imag_a_00074
   ^https://doi\.org/10\.1162/imag_a_00103
+  ^https://doi\.org/10\.12688/f1000research\.25306\.2
   ^https://doi\.org/10\.12688/mniopenres\.12772\.2
   ^https://doi\.org/10\.3233/jpd-191775
   ^https://elixiruknode\.org/

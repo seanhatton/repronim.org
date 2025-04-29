@@ -1,7 +1,5 @@
 ---
 title: "ReproIn"
-date: 2024-12-10T10:17:02-05:00
-weight: 110
 ---
 
 ReproIn is a set of best practices for using HeuDiConv and DataLad to prepare raw imaging data for analysis.  ReproIn suggests ways to annotate data using a scanner console and provides usable scripts and configuration files for data preparation.

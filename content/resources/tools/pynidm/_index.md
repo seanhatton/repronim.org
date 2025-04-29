@@ -1,7 +1,5 @@
 ---
 title: "PyNIDM"
-date: 2024-12-13T10:00:22-05:00
-weight: 45
 ---
 
 *Neuroimaging Data Model written in Python*

@@ -1,6 +1,5 @@
 ---
 title: ReproLake
-weight: 100
 ---
 
 The ReproLake is a publicly available triplestore that contains information on publicly available neuroimaging datasets. The data within the ReproLake conforms to the NIDM standard and can be queried by the Neurobagel user interface or via a SPARQL API. Researchers using PyNIDM can also generate a local triplestore (i.e. a ReproPond) from their data which can be queried through PyNIDM and can also be added to Neurobagel as a local private node.

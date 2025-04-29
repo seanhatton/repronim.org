@@ -1,7 +1,5 @@
 ---
 title: "Neurodocker"
-date: 2024-10-28T15:17:51-04:00
-weight: 40
 ---
 
 Neurodocker is a command line program for generating Dockerfiles and Singularity recipes for neuroimaging software.

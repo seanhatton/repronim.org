@@ -212,5 +212,5 @@ on if you need to extend or redo your analysis.
   and [ds000003-qc][https://github.com/ReproNim/ds000003-qc].
 
 [reproman]: http://reproman.repronim.org
-[datalad rerun]: http://docs.datalad.org/projects/container/en/latest/generated/man/datalad-rerun.html
-[datalad uninstall]: http://docs.datalad.org/projects/container/en/latest/generated/man/datalad-uninstall.html
+[datalad rerun]: http://docs.datalad.org/en/stable/generated/man/datalad-rerun.html
+[datalad uninstall]: http://docs.datalad.org/en/stable/generated/man/datalad-uninstall.html

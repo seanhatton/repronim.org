@@ -30,7 +30,7 @@ weight: 10
     - Adjunct Associate Professor of Computer Science, Dartmouth College, Hanover, NH
 - [Jean-Baptise Poline](https://www.mcgill.ca/neuro/jean-baptiste-poline-phd) Training Core Lead
     - Associate Professor of Neurology and Neurosurgery, Montreal Neurologic Institute, McGill University, Montreal, Canada
-        - Primary Investigator, [Ludmer Centre](http://ludmercentre.ca/dr-jean-baptiste-poline/) for Neuroinformatics & Mental Health, Montreal Neurologic Institute
+        - Primary Investigator, [Ludmer Centre](https://www.mcgill.ca/ludmercentre/our-people/principal-investigators/jb-poline) for Neuroinformatics & Mental Health, Montreal Neurologic Institute
         - Principal Investigator, NeuroDataScience - [ORIGAMI Research Group](https://neurodatascience.github.io/), Montreal Neurologic Institute
     - Chair, CTSI, [INCF](https://www.incf.org/team/prof-jean-baptiste-poline)
 

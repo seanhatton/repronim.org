@@ -13,6 +13,10 @@ jobs:
           # If your Hugo theme is a submodule, this ensures it gets pulled
           submodules: true
 
+      - name: Install linkchecker
+        run: |
+          pip install linkchecker
+
       - name: Read hugo version
         id: hugo-version
         run: |
@@ -26,17 +30,15 @@ jobs:
           hugo-version: '${{ steps.hugo-version.outputs.HUGO_VERSION }}'
 
       - name: Build site
-        run: hugo
-
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.3.6'
-      - name: Create Gemfile and install dependencies
         run: |
-          echo "source 'https://rubygems.org'" > Gemfile
-          echo "gem 'html-proofer', '5.0.9'" >> Gemfile
-          bundle install
+          hugo
+          # linkchecker will skip if we do not remove robots tags
+          sed -i '/<meta name="robots"/d' public/**/*.html
+          cd public
+          # Simple server not hugo so autoreload does not confuse linkchecker
+          python3 -m http.server 1313 &
+          sleep 1
 
-      - name: Run html-proofer
-        run: htmlproofer ./public --disable-external --no-enforce-https
+      - name: Check links
+        run: |
+          linkchecker --check-extern -f .linkcheckerrc http://localhost:1313 --no-status --no-warnings

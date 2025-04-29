@@ -222,15 +222,6 @@ resources:
   - title: "Reproducible Data Management with DataLad"
     type: "Talk"
     audience: "Researchers, Infrastructure managers"
-    links:
-      - "https://onedrive.live.com/?authkey=%21AFsNiGzveqZ750s&id=86184EF59C004002%21416672&cid=86184EF59C004002&parId=root&parQt=sharedby&o=OneUp"
-    fellow: "Julian Kosciessa"
-
-  - title: "Reproducible Data Management with DataLad"
-    type: "Talk"
-    audience: "Researchers, Infrastructure managers"
-    links:
-      - "https://onedrive.live.com/?authkey=%21AANsp4ZosaSOK2o&id=86184EF59C004002%21416988&cid=86184EF59C004002&parId=root&parQt=sharedby&o=OneUp"
     fellow: "Julian Kosciessa"
 
   - title: "Reproducible Neuroimaging - open source guide"

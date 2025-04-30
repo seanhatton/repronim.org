@@ -63,7 +63,7 @@ The video is divided into three main parts, allowing you to choose based on your
 - Explanation on how to use containers with Demo: minutes 10–30.
 - How to use Neurodocker and create an image (this is also a topic of the guide below, but you can watch it as an additional material either before or later): minutes 30-44
 
-In this tutorial we will be using Docker software, be sure to instal Docker before starting.
+In this tutorial we will be using Docker software, be sure to install Docker before starting.
 If you are using Linux system you can install only a lightway [Docker Engine](https://docs.docker.com/engine/), for other platforms you should install [Docker Desktop](https://docs.docker.com/desktop/).
 
 ## Step by step guide

@@ -7,13 +7,7 @@ toc: false
     h2, p { text-align: center; }
 </style>
 
-## Vision
-
-All neuroimaging is reproducible neuroimaging
-
-## Mission
-
-To deliver effective tools, training, and principles to the neuroimaging community to support the entire neuroimaging workflow for rigorous, reproducible, and FAIR neuroimaging.
+A national biotechnology development center dedicated to developing tools and services to increase efficiency, rigor, reproducibility, transparency and FAIRness in neuroimaging.
 
 {{< rn-buttons >}}
     {{< rn-button 

@@ -9,7 +9,7 @@ Our project and core teams are based at six sites: UMass Chan Medical School, MI
 
 ## What we do
 
-ReproNim's mission is to deliver effective tools, training, and principles to the neuroimaging community to support the entire neuroimaging workflow for rigorous, reproducible, and FAIR neuroimaging.
+ReproNim's mission is to deliver effective tools, training, and principles to the neuroimaging community to support the entire neuroimaging workflow for rigorous, reproducible, and [FAIR](https://www.nature.com/articles/sdata201618) neuroimaging.
 
 ## What we offer
 

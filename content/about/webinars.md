@@ -74,7 +74,7 @@ ReproNim faculty member [Jeffrey Grethe](https://www.linkedin.com/in/jgrethe) (U
 [Video Presentation](https://youtu.be/inKkwjSe4hY) and [Slides](https://drive.google.com/drive/folders/1CS8G1kFg2cdzFb7CYqgJXRcGsptBCya5) are now available.
 
 ### Friday, November 3, 2023
-We welcome Anisha Keshavan, Senior Data Scientist from Octave Bioscience, for a discussion of 'Reproducible Data Science Practices at Octave.'
+We welcome [Anisha Keshavan](https://www.bighatbio.com/profiles/anisha-keshavan), Senior Data Scientist from Octave Bioscience, for a discussion of 'Reproducible Data Science Practices at Octave.'
 
 [Video Presentation](https://youtu.be/DG6mUZ5XlS4) is now available
 
@@ -89,6 +89,7 @@ We welcome Anisha Keshavan, Senior Data Scientist from Octave Bioscience, for a 
 [Arno Klein](https://matter.childmind.org/) is our special guest speaker, joining us from the Child Mind Institute to share some of his intriguing and innovative technological developments aimed at better understanding of and treatment for childhood mental health disorders: [MindLogger platform](https://mindlogger.org/) for configurable data collection and interventions in research and clinical practice
 
 [Video Presentation](https://youtu.be/zCbaCpoyUNo) are now available.
+[Slides](https://drive.google.com/drive/folders/1fj0bmlBPw78bMd2vKacggq-_sDO4J9jS) are now available.
 
 ### Friday, May 5, 2023
 We're excited to have [Angie Laird](https://nbclab.github.io/team/laird-angela), from the Neuroinformatics and Brain Connectivity group at Florida International University as our featured guest speaker. Angie shares her wisdom and very experienced perspective with a presentation on "Large, Open Datasets for Neuroimaging Research: Considerations for Reproducible and Responsible Data Use."
@@ -142,7 +143,7 @@ Special guest speaker [Ted Satterthwaite](https://www.pennlinc.io//team/Ted-Satt
 [Video Presentation](https://www.youtube.com/watch?v=6hgiH7BYKPs) is now available.
 
 ### Friday, May 6, 2022 at 2pm EDT
-We welcome guest speaker Eugenio Iglesias from MGH, for a presentation on Synth*: Domain Randomization for out-of-the-box Brain Analysis with Enhanced Reproducibility.
+We welcome guest speaker [Eugenio Iglesias](https://lemon.martinos.org/pi/) from MGH/HMS and the Martinos Center for Biomedical Imaging, for a presentation on Synth*: Domain Randomization for out-of-the-box Brain Analysis with Enhanced Reproducibility.
 
 [Video Presentation](https://www.youtube.com/watch?v=ET3Cw1Z-KUw) is now available.
 
@@ -192,7 +193,7 @@ ReproNim collaborators [Michael O'Shea](https://www.med.unc.edu/childrensresearc
 [Video](https://youtu.be/gSI_Do8OIqg) is now available, as are both [Mike O'Shea's Slides](https://drive.google.com/drive/folders/1e-3kNU6vEGm7DKeyDjf3vIKg34C7xoJf) and [David Kennedy's Slides](https://docs.google.com/presentation/d/1NdzNF88y5ZvlXZ5UVY_WSHHxi5pzC32dLNJ0IZRX1So/edit#slide=id.ge348a8c958_0_159)
 
 ### Friday, June 4, 2021 at 2pm EDT
-Guest speaker Kristina Rapuano joins us from Yale, with a presentation on “Large-scale restriction spectrum imaging and applications to pediatric obesity.”
+Guest speaker [Kristina Rapuano](https://www.betterup.com/blog/author/dr-kristina-rapuano-phd) joins us from Yale, with a presentation on “Large-scale restriction spectrum imaging and applications to pediatric obesity.” 
 
 [Video](https://youtu.be/vC6nJWciAbI) and
 [Slides](https://drive.google.com/drive/folders/1WAXNZiylHsFncLSRRYDQ3HK7EIe7-yLb) are now available.
@@ -263,7 +264,7 @@ Both the [Video Presentation](https://youtu.be/ix3lC6HGo-Q) and
 [Slides](https://docs.google.com/presentation/d/1NvjpsrbDHz_9WivvYICTh2U8Xak8TFk5nyWLiCdrHAU/edit?usp=sharing) are now available
 
 ### Friday, May 1, 2020 at 2pm EDT
-Guest speaker Franco Pestilli (Associate Professor, University of Indiana), discusses "[brainlife.io](https://brainlife.io/) A free cloud platform for secure, reproducible neuroscience data management, analysis and visualization."
+Guest speaker [Franco Pestilli](https://pestillilab.github.io/team/) (Associate Professor, University of Indiana), discusses "[brainlife.io](https://brainlife.io/) A free cloud platform for secure, reproducible neuroscience data management, analysis and visualization."
 
 [Video Presentation](https://www.youtube.com/watch?v=5wW5Q0adRzE&feature=youtu.be) is now available
 

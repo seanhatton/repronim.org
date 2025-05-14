@@ -49,7 +49,7 @@ params:
     displayTitle: ReproNim
     displayLogo: true
     logo:
-      path: images/logo-square-256.png
+      path: images/square-512T2.png
       width: 50
 
   footer:

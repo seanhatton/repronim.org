@@ -39,7 +39,7 @@ You should be comfortable working at the command line.
 
 Install the following software:
 
-- Python environment with Nipoppy. Instructions can be found [here](https://nipoppy.readthedocs.io/en/latest/installation.html)  
+- Python environment with Nipoppy. Instructions can be found [here](https://nipoppy.readthedocs.io/en/latest/overview/installation.html)
 - [Apptainer](https://apptainer.org/)
 
 We will utilize the dataset **ds004101** from [OpenNeuro](https://openneuro.org/), which includes structural and functional MRI data for 9 subjects (2 sessions), as our working example. The dataset can be downloaded by following instructions [here](https://openneuro.org/datasets/ds004101/versions/1.0.1/download).

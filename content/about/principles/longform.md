@@ -1,3 +1,10 @@
+---
+title: "Planning"
+type: docs
+weight: 80
+---
+
+
 # ReproNIM Principle 1: Study planning
 
 Study planning represents a foundational step in ensuring reproducible neuroimaging research.  Many problems that lead to reproducibility issues can be avoided by proper planning 

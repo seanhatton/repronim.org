@@ -5,11 +5,11 @@ type: docs
 weight: 80
 ---
 
-Study planning represents a foundational step in ensuring reproducible neuroimaging research.  Many problems that lead to reproducibility issues can be avoided by proper planning 
+Study planning represents a foundational step in ensuring reproducible neuroimaging research. Many problems that lead to reproducibility issues can be avoided by proper planning. 
 
 1. **Implement good science basics, e.g, power analysis, statistical consults**  
    If your study is underpowered or your study design is flawed, you will have trouble publishing your work and, more to the point, your work will likely not be reproducible ([Scuzs and Ioannidis, 2020](https://www.sciencedirect.com/science/article/pii/S1053811920306509#bib24)).   
-   * ***ReproNim resources*****:**   
+   * ***ReproNim resources***:   
      * [Repronim training module in statistics for neuroimaging](https://www.repronim.org/module-stats/):  covers all aspects of statistics for neuroimaging, including sampling, power analysis and more
 
    * ***Other resources:***    
@@ -22,10 +22,10 @@ Study planning represents a foundational step in ensuring reproducible neuroimag
 
    * ***ReproNim resources*****:**   
      ReproNim has tools and approaches to make it easier to find and reuse your own data or publicly available data  
-     * [ReproLake](https://repronim.netlify.app/resources/tools/reprolake/): a searchable data store for public neuroimaging data, built on the NIDM and BIDS standards   
+     * [ReproLake](/resources/tools/reprolake/): a searchable data store for public neuroimaging data, built on the NIDM and BIDS standards   
      * RepoPond:  A local searchable metadata store for your neuroimaging data, built with the same standards as the ReproLake.  
-     * [Neurobage](https://repronim.netlify.app/resources/tools/neurobagel/)l: A system for distributed data sharing and discovery built on common annotations across the workflow  
-     * Tutorial: [Sharing and Searching Metadata Using a ReproPond and the ReproLake](https://repronim.netlify.app/resources/tutorials/pond-lake/)
+     * [Neurobagel](/resources/tools/neurobagel/): A system for distributed data sharing and discovery built on common annotations across the workflow  
+     * Tutorial: [Sharing and Searching Metadata Using a ReproPond and the ReproLake](/resources/tutorials/pond-lake/)
 
    * ***Other resources:***    
      * OpenNeuro (and other repositories)
@@ -34,8 +34,8 @@ Study planning represents a foundational step in ensuring reproducible neuroimag
    A key component of study planning is carefully considering data management needs from the start. By anticipating the volume and types of data that will be generated, researchers can allocate appropriate resources for storage, processing, and sharing. The NIH's requirement for a Data Management and Sharing Plan (DMSP) in all proposals helps formalize this planning process. The DMSP requires researchers to specify crucial details like which data standards will be implemented and where data will ultimately be shared. By addressing these requirements during the planning phase, researchers can integrate data sharing preparations into their workflow from the beginning, rather than treating it as an burdensome afterthought at the study's conclusion.  
      
    * ***ReproNim resources:***  
-     * [How ReproNim can help you create an NIH-compliant DMSP](https://repronim.netlify.app/resources/tutorials/data-management-and-sharing/)  
-     * [Planning ahead for multi-site data collection using ReproSchema](https://repronim.netlify.app/resources/tutorials/reproschema/)
+     * [How ReproNim can help you create an NIH-compliant DMSP](/resources/tutorials/data-management-and-sharing/)  
+     * [Planning ahead for multi-site data collection using ReproSchema](/resources/tutorials/reproschema/)
 
    * ***Other resources:***  
      * [NIH DMSP website](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan#after)  

@@ -8,7 +8,7 @@ weight: 5
 
 [**Actions**](https://repronim.netlify.app/about/in-practice/#repronims-four-core-actions)**:  Use of containers**
 
-**Tools:** [Docker](https://docs.docker.com/), [Neurodocker](https://www.repronim.org/neurodocker/)
+**Tools:** [Docker](https://docs.docker.com/), [Neurodocker](/resources/tools/neurodocker/)
 
 ## Challenge
 

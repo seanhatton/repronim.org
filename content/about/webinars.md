@@ -11,11 +11,49 @@ Browse our complete collections of ReproNim webinar [videos](https://www.youtube
 
 ## Upcoming webinars
 
+### July and August 2025 ~ SUMMER HIATUS ~
+
+ReproNim 'First Fridays' Webinars resume on Friday, September 5, 2025
+
+Happy Summer Holidays to All!
+
+
+
+## Webinar presentations to date
+
+[Stephanie Noble](https://cos.northeastern.edu/people/stephanie-noble/) (Northeastern University, and Director, [NeuroPRISM Lab](https://neuroprismlab.github.io/) joins us with a special guest presentation on "Towards more reliable and valid human brain mapping research" based on her highly interdisciplinary consideration of precision measurement and individually centered brain-behavior data in combination with best practices for machine learning and big data analysis. 	
+
+[Video Presentation](https://youtu.be/GD37flpGlhE) is now available. 
+
+### Friday, May 2, 2025 at 2pm EDT
+
+We welcome [Guray Erus](https://www.med.upenn.edu/cbica/aibil/gerus.html) (UPenn/Perelman Sch. Med), Director of Research at the [Center for Biomedical Image Computing & Analytics](https://www.med.upenn.edu/cbica/faculty.html) for an introduction to the [NiChart platform](https://neuroimagingchart.com) in his presentation:“NiChart: Neuroimaging Chart of AI-based Imaging Biomarkers.”
+
+[Video Presentation](https://youtu.be/TIuh7NEd2tM) is now available.
+
+### Friday, April 4, 2025 at 2pm EDT
+
+ReproNim/INCF Fellowship Alum [Chris Rorden](https://github.com/neurolabusc) is our featured speaker this month, with a presentation on [NiiVue Visualization](https://reporter.nih.gov/search/dNfNq05F10WBBWtJH_hp0A/project-details/10724895), a highly innovative web-based tool for community driven data visualization for all stages of neuroimaging. 
+
+[Video Presentation](https://youtu.be/EElbiLkF0Yk) and [Slides](https://drive.google.com/drive/folders/1whQjhHIvvxfxYk-Pjjdpum2wpV-vKhCG) are now available
+
+### Friday, March 7, 2025 at 2pm EST
+
+Our own [David Kennedy](https://profiles.umassmed.edu/display/130002), [PI, ReproNim](https://www.umassmed.edu/news/news-archives/2022/02/david-kennedy-awarded-$6-million-repronim-brain-imaging-grant),provides an update on “The State of the ReproNim 3.0 – The Way of the Future.”
+
+[Video Presentation](https://youtu.be/7EvcrEQdCV80) and [Slides](https://docs.google.com/presentation/d/1iSDI-T65wa7GOy_txFwNpExu46xLslpbZDiGca1d9Jg/edit#slide=id.g2e3b9d04b56_0_20) are now available.
+
+
+### Friday, February 7, 2025 at 2pm EST
+
+Special guest speaker [Melissa Kline Struhl](https://eccl.mit.edu/team-profiles/melissa-kline-struhl),(Research Scientist, MIT) joins us from the [Early Childhood Cognition Lab](https://eccl.mit.edu), where she serves as the Executive Director for the Lookit Team, and Director of [Children Helping Science](https://childrenhelpingscience.com).
+
+[Video Presentation](https://youtu.be/dnMW_xipxJo) is now available.
+
+
 ### Friday, January 3, 2025
 
 No Webinar ~ Happy New Year!
-
-## Webinar presentations to date
 
 ### Friday, December 6, 2024 at 2pm EST
 Our featured speaker this month is ReproNim/INCF Fellowship alum [Johanna Bayer](https://nl.linkedin.com/in/johanna-bayer) who joins us from the [Predictive Clinical Neuroscience Group](https://predictiveclinicalneuroscience.com/),(Donders Institute and RadboudUMC, Netherlands). Johanna discusses normative modeling of neuroimaging data using the Predictive Clinical Neuroscience toolkit ([pcntoolkit](https://pcntoolkit.readthedocs.io/en/latest/)), in her presentation: "Normative modelling using the pcntoolkit – the what when and why.”

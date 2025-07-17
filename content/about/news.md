@@ -25,10 +25,6 @@ function load_news() {
             news_div.innerHTML = "";
             var n_items = 0;
             for(var i = 0;i < posts.length;i++) {
-                // 103 is News
-                if(!posts[i].categories.includes(103)) {
-                    continue;
-                }
                 var a = document.createElement("a");
                 a.href = posts[i].link;
                 a.target = "_blank";
@@ -50,7 +46,7 @@ function load_news() {
         }
     }
 
-    req.open("GET", "https://public-api.wordpress.com/wp/v2/sites/reprodev.wordpress.com/posts", true);
+    req.open("GET", "https://public-api.wordpress.com/wp/v2/sites/reprodev.wordpress.com/posts?categories=103&per_page=10", true);
     req.send();
 
     return;

@@ -20,7 +20,7 @@ Study planning represents a foundational step in ensuring reproducible neuroimag
 2. **Use pre-existing data for planning and/or analysis**  
    Leveraging pre-existing data, whether your own or data available from public repositories,  can help validate methodological approaches before collecting new data and potentially increase your sample size
 
-   * ***ReproNim resources*****:**   
+   * ***ReproNim resources***:
      ReproNim has tools and approaches to make it easier to find and reuse your own data or publicly available data  
      * [ReproLake](/resources/tools/reprolake/): a searchable data store for public neuroimaging data, built on the NIDM and BIDS standards   
      * RepoPond:  A local searchable metadata store for your neuroimaging data, built with the same standards as the ReproLake.  

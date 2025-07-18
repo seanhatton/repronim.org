@@ -69,6 +69,12 @@ If you are deploying Neurobagel for the local computer use: NB_API_QUERY_URL=htt
 NB_API_QUERY_URL=localhost:8080
 ```
 
+Edit the LOCAL_GRAPH_DATA section of the .env file (near line 28) to list the folder location of the graph data. This is the location to place your nidm.ttl files.
+
+```
+LOCAL_GRAPH_DATA=/home/user/Desktop/project_data
+```
+
 In the terminal window still in the recipes directory launch the docker by entering:
 
 ```
@@ -97,27 +103,7 @@ docker compose --profile full_stack down
 
 For full details of profiles and environmental variables at https://neurobagel.org/user_guide/config/. For additional information for maintaining a node refer to https://neurobagel.org/user_guide/maintaining/.
 
-### Step 2: Add local data and metadata to the local node
-
-Refer to [https://neurobagel.org/user_guide/config/](https://neurobagel.org/user_guide/config/#uploading-data-to-the-graph-store).
-
-The neurobagel/recipes repo contains a helper script scripts/add_data_to_graph.sh for automatically uploading all JSONLD and/or TTL files (i.e., graph-ready data) in a directory to a specific graph database. Below is an example of uploading files from a neurobagel_examples directory and clearing the existing data:
-
-```
-./add_data_to_graph.sh PATH/TO/neurobagel_examples/ localhost:7200 repositories/my_db DBUSER DBPASSWORD --clear-data
-```
-
-e.g.
-
-```
-./add_data_to_graph.sh uploads/ localhost:7200 repositories/my_db DBUSER DBPASSWORD --clear-data
-```
-
-If security is not an issue, keep the username and password the same (i.e. DBUSER and DBPASSWORD). Do not change the repository name, leave as repositories/my_db.
-
-The --clear-data flag removes any existing data in the database (if the database is empty, the flag has no effect). You can choose to omit the flag or explicitly specify --no-clear-data (default behavior) to skip this step.
-
-### Step 3: Use Neurobagel for cross-study queries
+### Step 2: Use Neurobagel for cross-study queries
 
 Multiple local nodes (ReproPond) and public nodes (ReproLake).
 
@@ -133,7 +119,7 @@ Select other attributes for your query (e.g. age, diagnosis) and click on the Su
 
 Select the desired studies and click to Download Participant-Level Results and Dataset-Level Results.
 
-### Step 4: Download new data
+### Step 3: Download new data
 
 Create a working directory for your project and place the Participant-Level and Dataset-Level Results TSV files inside.
 

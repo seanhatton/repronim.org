@@ -4,7 +4,7 @@ type: docs
 weight: 5
 ---
 
-[**Reproducible neuroimaging principles**](https://repronim.netlify.app/about/in-practice/#repronims-principles-of-reproducible-neuroimaging)**: 3f: Software management: Use containers when reasonable**
+[**Reproducible neuroimaging principles**](/about/principles/#repronims-four-core-principles)**: 3f: Software management: Use containers when reasonable**
 
 [**Actions**](https://repronim.netlify.app/about/in-practice/#repronims-four-core-actions)**:  Use of containers**
 

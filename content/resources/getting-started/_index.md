@@ -99,7 +99,6 @@ ReproNim can help Richard learn how standards such as BIDS and NIDM can help wit
 Tutorials that might be interesting to Richard include:
 
 * For data management, [Creating a Data Dictionary](/resources/tutorials/data-dictionary/).
-* For software management, [Creating Software Containers using Neurodocker](/resources/tutorials/neurodocker/)
 * For software management, [Advanced Containerization Using DataLad](/resources/tutorials/repronim-containers/).
 
 ### Computational neuroscientist/teacher
@@ -123,6 +122,10 @@ The [tutorials](/resources/tutorials/) provided here give opportunities for hand
 For more in depth training, ReproNim has created a [modular online course](/resources/training/) that covers basic and advanced topics in reproducible neuroimaging.  Each module contains tutorials and hands on exercises.
 
 John might also be interested in the [ReproNim/INCF Fellows Program](/fellowship/), a one year train-the-trainer program in reproducible neuroimaging.
+
+Tutorials that might be interesting to John include:
+
+* For software management, [Creating Software Containers using Neurodocker](/resources/tutorials/neurodocker/)
 
 ### Multi-center project director
 

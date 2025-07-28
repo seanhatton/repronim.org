@@ -243,7 +243,7 @@ Guest speaker [Ross Markello](https://rossmarkello.com/) joins us from McGill, w
 [Slides](https://drive.google.com/drive/folders/1WAXNZiylHsFncLSRRYDQ3HK7EIe7-yLb) are now available.
 
 ### Friday, April 2, 2021 at 2pm EDT
-ReproNim collaborator [Anna Manelis](https://www.psychiatry.pitt.edu/about-us/our-people/faculty/anna-manelis-phd) and ReproNim investigator Yaroslav Halchenko consider "The interplay between depression and obesity: using the ReproNim technologies to study public health problems."
+ReproNim collaborator [Anna Manelis](https://www.linkedin.com/in/anna-manelis-12184412) and ReproNim investigator Yaroslav Halchenko consider "The interplay between depression and obesity: using the ReproNim technologies to study public health problems."
 
 [Video Presentation](https://youtu.be/KpgF18p3Woo) and
 [Slides](https://drive.google.com/drive/folders/1g8GJiMs_V545c-_Halq6c4BSam0ZiHN0) are now available.

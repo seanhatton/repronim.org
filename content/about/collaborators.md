@@ -108,7 +108,7 @@ The P41 Center provides their technology to Service Projects (SPs) that serve as
     - [Ron Kikinis](https://nac.spl.harvard.edu/people/ron-kikinis) (PI)
     - Institution: Harvard Medical School
 - SP9: [Anticipatory Processing in Psychiatric Disorder](https://reporter.nih.gov/search/69atkcxvKk2-B5v0oH5ZQg/project-details/10336474)
-    - [Anna Manelis](https://www.psychiatry.pitt.edu/about-us/our-people/faculty/anna-manelis-phd) (PI)
+    - [Anna Manelis](https://www.linkedin.com/in/anna-manelis-12184412) (PI)
     - Institution: University of Pittsburgh
 - SP10: [Developing Multimodal Imaging of Neurocognitive Dynamics (Dev-MIND)](https://diconlab.org/projects/)
     - [Tony Wilson](https://www.boystownhospital.org/research/faculty/tony-wilson) (PI)

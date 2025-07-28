@@ -6,7 +6,7 @@ weight: 40
 ---
 
 <div id="news">
-See <a href="https://reprodev.wordpress.com/category/news/">our news site</a>.
+See <a href="https://repronim.wordpress.com/category/news/">our news site</a>.
 </div>
 
 <script defer>
@@ -35,18 +35,15 @@ function load_news() {
                 div.appendChild(document.createTextNode(" (" + date.toLocaleDateString() + ")"));
                 news_div.appendChild(div);
                 n_items++;
-                // limit list length
-//                if(n_items == 5) {
-//                    break;
-//                }
             }
         var p = document.createElement("p");
-        p.innerHTML = '<a href="https://reprodev.wordpress.com/category/news/" target="_blank">See all news</a>.';
+        p.innerHTML = '<a href="https://repronim.wordpress.com/category/news/" target="_blank">See all news</a>.';
         news_div.appendChild(p);
         }
     }
 
-    req.open("GET", "https://public-api.wordpress.com/wp/v2/sites/reprodev.wordpress.com/posts?categories=103&per_page=10", true);
+    // limit list length with paginated request with category filter
+    req.open("GET", "https://public-api.wordpress.com/wp/v2/sites/repronim.wordpress.com/posts?categories=103&per_page=10", true);
     req.send();
 
     return;

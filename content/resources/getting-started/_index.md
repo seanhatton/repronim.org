@@ -123,6 +123,10 @@ For more in depth training, ReproNim has created a [modular online course](/reso
 
 John might also be interested in the [ReproNim/INCF Fellows Program](/fellowship/), a one year train-the-trainer program in reproducible neuroimaging.
 
+Tutorials that might be interesting to John include:
+
+* For software management, [Creating Software Containers using Neurodocker](/resources/tutorials/neurodocker/)
+
 ### Multi-center project director
 
 <img src="/images/evelyn.jpg" alt="Evelyn" style="width: 250px; height: auto;">

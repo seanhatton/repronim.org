@@ -4,9 +4,6 @@ title: "ReproNim Principle 2: Data and Metadata Management"
 type: docs
 weight: 80
 ---
-
-# ReproNim Principle 2: Data and metadata management
-
 Data and metadata management is essential for scientific reproducibility as they provide the foundation for understanding, validating, and building upon research findings. Through comprehensive documentation of experimental conditions, data collection methods, and analysis workflows, researchers can capture the critical context needed to understand and replicate their work ([Borghi and Van Gulick, 2018](https://riojournal.com/articles.php?id=26439)). Management includes preserving both raw and processed data in accessible formats, maintaining clear version control, and implementing standardized metadata schemas. When data is properly managed with detailed documentation, researchers can access, understand, and work with the exact same dataset, well beyond the initial time frame in which the data were produced
 
 1. **Use standard data formats and extend them to meet your needs**

@@ -7,7 +7,7 @@ weight: 5
 
 **[Reproducible neuroimaging principles](/about/principles/#repronims-four-core-principles)**: 2c: Annotate data.
 
-**[Actions](/about/principles/#repronims-four-core-actions)** Standards, Annotation and provenance.
+**[Actions](/about/principles/#repronims-four-core-actions)**: Standards, Annotation and provenance.
 
 **Standards**: [BIDS](/resources/tools/bids/index.html).
 
@@ -15,82 +15,405 @@ weight: 5
 
 ## Challenge
 
-Managing multi-site behavioral research projects presents significant challenges, including:
+Managing multi-site behavioral research projects presents significant challenges that can compromise data quality and research outcomes:
 
-* Ensuring consistency across diverse data inputs.  
-* Harmonizing data collected from multiple sites with varying methodologies.  
-* Preparing data for seamless sharing, analysis, and long-term reuse.  
-* ReproSchema addresses these challenges by providing a standardized framework and toolkit for organizing and annotating behavioral data. It integrates easily with existing tools, making data management and sharing both efficient and practical.
+* **Version Control Chaos**: When questionnaires change mid-study, tracking which version each participant completed becomes nearly impossible without proper systems.
+* **Cross-Site Inconsistencies**: Different research sites may interpret or implement the same assessment differently, leading to incomparable data.
+* **Data Harmonization Nightmares**: Combining data from multiple sources often requires months of manual cleanup and reconciliation.
+* **Reproducibility Barriers**: Without proper documentation and standardization, recreating a study or validating findings becomes extremely difficult.
 
-Researchers often face difficulties integrating diverse data sources while maintaining reusability and collaboration standards. Projects requiring common data standards, such as shared demographic, clinical, or behavioral measures, are particularly vulnerable to these issues. Without a robust framework like ReproSchema, inconsistencies can compromise the reliability of cross-site analyses and long-term data usability.
+ReproSchema addresses these challenges by providing a standardized, version-controlled framework for organizing and annotating behavioral data. It integrates seamlessly with existing tools while ensuring data remains consistent, traceable, and ready for both immediate analysis and long-term reuse.
 
 ## Exercise
 
 In this tutorial, you will learn how to use ReproSchema to:
 
-* Understand its capabilities as a powerful tool for simplifying multi-site behavioral data collection.  
-* Design a tailored data collection framework to standardize and harmonize inputs.  
-* Master strategies for effectively disseminating data while ensuring consistency and interoperability.
+* **Understand ReproSchema's Architecture**: Master the five core components and how they work together to standardize data collection.
+* **Design a Custom Data Collection Framework**: Create schemas tailored to your specific research needs while maintaining compatibility with common standards.
+* **Implement Version Control**: Track every change to your assessments, ensuring complete reproducibility of your data collection methods.
+* **Deploy Your Protocol**: Set up a working data collection system that can be used across multiple sites and devices.
 
-By the end of the tutorial, you will be equipped to set up a reusable and interoperable system for managing behavioral data that aligns with best practices for multi-site research. You will also gain practical knowledge on streamlining cross-site data harmonization and aggregation, enabling immediate analyses and future reuse.
+By the end of this tutorial, you will have created a functioning ReproSchema protocol, tested it locally, and understand how to deploy it for real-world data collection. You'll also gain practical strategies for managing complex multi-site studies and ensuring long-term data usability.
 
 ## Before you start
 
-Knowledge Assumed:
+**Knowledge Assumed:**
 
-* Basic GitHub Usage: Familiarity with navigating GitHub repositories, cloning projects, and reading documentation.  
-* Basic Bash Commands: Understanding how to use bash to run scripts and manage files in a terminal.
+* **Basic GitHub Usage**: You should be comfortable navigating GitHub repositories, cloning projects, and understanding version control basics.
+* **Command Line Fundamentals**: Ability to run bash commands, navigate directories, and execute Python scripts.
+* **JSON Familiarity (Helpful)**: Basic understanding of JSON structure will help, though we'll provide examples for all code.
 
-Recommended Preparation:
+**Required Software:**
 
-* GitHub Basics: If you’re new to GitHub, review the [GitHub Getting Started Guide](https://docs.github.com/en/get-started) to learn about cloning repositories and accessing project files.  
-* Bash Basics: For a refresher on bash commands, consult resources like the [GNU Bash Manual](https://www.gnu.org/software/bash/manual/) or beginner-friendly guides such as [Bash Command Cheat Sheets](https://github.com/RehanSaeed/Bash-Cheat-Sheet).
+* **Git**: For version control and accessing repositories
+* **Python 3.7+**: For running ReproSchema tools
+* **Node.js and npm**: For testing the user interface locally
+* **Text Editor**: Any code editor (VS Code, Sublime Text, etc.)
+
+**Recommended Preparation:**
+
+* **GitHub Basics**: If you're new to GitHub, review the [GitHub Getting Started Guide](https://docs.github.com/en/get-started)
+* **Command Line Skills**: Refresh your bash knowledge with this [Bash Command Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
+* **JSON Syntax**: Familiarize yourself with [JSON basics](https://www.json.org/json-en.html) for editing schema files
 
 ## Step by step guide
 
-### Step 1: Know the foundations
+### Step 1: Understand ReproSchema's Architecture
 
-ReproSchema is built on a foundation of principles and features that make it a powerful tool for managing behavioral data in multi-site projects. Understanding these foundational aspects will help you appreciate how it simplifies data collection and ensures harmonization across diverse research settings.
-
-This is an example of a typical assessment presented in the reproschema format:
+ReproSchema uses a hierarchical structure to organize assessments, making complex protocols manageable and reusable:
 
 ![A diagram of a hypothetical assessment and how it would appear in ReproSchema.](/images/reproschema_1.png)
 
-Essential components in ReproSchema: 
+**The Five Core Components:**
 
-* A foundational schema (reproschema, [https://github.com/ReproNim/reproschema](https://github.com/ReproNim/reproschema)) standardizes the structure and presentation of assessments, defining relationships between data elements and their metadata. It requires each data element, like survey responses or experimental measurements, to be linked with contextual information, including the collection method, timing, and conditions.  
-* A library ([https://github.com/ReproNim/reproschema-library](https://github.com/ReproNim/reproschema-library)) of standardized, reusable assessments, each formatted in JSON-LD according to criteria defined by the schema.  
-* A Python package ([https://github.com/ReproNim/reproschema-py](https://github.com/ReproNim/reproschema-py)) that supports schema creation and validation, including tools for converting schemas to compatible formats like those used in REDCap and the Fast Healthcare Interoperability Resources (FHIR) standard.  
-* A user interface (UI, [https://github.com/ReproNim/reproschema-ui](https://github.com/ReproNim/reproschema-ui)) designed to optimize data collection.  
-* A cookiecutter (i.e., template, [https://github.com/ReproNim/reproschema-protocol-cookiecutter](https://github.com/ReproNim/reproschema-protocol-cookiecutter)) that enables the creation of customized research protocols using the library and the UI. 
+1. **Foundational Schema** ([reproschema](https://github.com/ReproNim/reproschema))
+   - Defines the structure: Protocol → Activity → Item
+   - Each element links to metadata (version, timing, conditions)
+   - Uses JSON-LD format for semantic clarity
+
+2. **Assessment Library** ([reproschema-library](https://github.com/ReproNim/reproschema-library))
+   - Pre-built standardized assessments (PHQ-9, GAD-7, WHODAS, etc.)
+   - Version-controlled and validated
+   - Ready to use without modification
+
+3. **Python Toolkit** ([reproschema-py](https://github.com/ReproNim/reproschema-py))
+   - Create and validate schemas
+   - Convert between formats (REDCap ↔ ReproSchema)
+   - Command-line tools for automation
+
+4. **User Interface** ([reproschema-ui](https://github.com/ReproNim/reproschema-ui))
+   - Web-based data collection platform
+   - Supports multimedia, branching logic, and scoring
+   - Works on desktop and mobile devices
+
+5. **Protocol Template** ([reproschema-protocol-cookiecutter](https://github.com/ReproNim/reproschema-protocol-cookiecutter))
+   - Quick-start template for new projects
+   - Proper folder structure and examples
+   - Built-in best practices
 
 ![A diagram of the connections between the parts of ReproSchema.](/images/reproschema_2.png)
 
-### Step 2: Set up ReproSchema for data collection
+### Step 2: Explore a Demo Protocol
 
-Effective setup of ReproSchema begins with careful planning, hands-on configuration, and deployment strategies tailored to your research needs. This section will guide you through each step to create a functional and robust data collection framework.
+Before creating your own protocol, explore what's possible:
 
-1. **Planning the Data Collection Framework**: Identify the data types your project requires. This includes shared data fields (e.g., demographics, clinical measures) that all sites will collect and site-specific data that may vary. Collaborate with your team to standardize common elements while allowing flexibility for unique site needs. Use ReproSchema’s templates to create schemas that align with these goals, ensuring they are structured for consistency and scalability.  
-2. **Demo Protocol:** Check this demo-protocol ([https://github.com/ReproNim/demo-protocol](https://github.com/ReproNim/demo-protocol)) to have a sense of what type of questions ReproSchema supports and how they look in use  
-3. **Create Your Project**: Use this cookiecutter to create your project: [https://github.com/ReproNim/reproschema-protocol-cookiecutter](https://github.com/ReproNim/reproschema-protocol-cookiecutter)   
-4. **Library of Assessments:** You don’t have to create your assessments from scratch; we have collected widely used assessments and converted them into ready-to-use reproschema format in this library: [https://github.com/ReproNim/reproschema-library](https://github.com/ReproNim/reproschema-library). You can also contribute to this library by   
-5. **Convert from Existing Platforms:** If you have your questionnaire from REDCap and want to convert to ReproSchema, we have a conversion tool here: [https://github.com/ReproNim/reproschema-py](https://github.com/ReproNim/reproschema-py)   
-6. **Deploying ReproSchema**: This repository ([https://github.com/ReproNim/reproschema-backend](https://github.com/ReproNim/reproschema-backend)) details how to run ReproSchema locally. 
+1. **Visit the Demo**: [https://www.repronim.org/reproschema-ui/#/?url=https://raw.githubusercontent.com/ReproNim/demo-protocol/main/DemoProtocol/DemoProtocol_schema](https://www.repronim.org/reproschema-ui/#/?url=https://raw.githubusercontent.com/ReproNim/demo-protocol/main/DemoProtocol/DemoProtocol_schema)
+
+2. **Try Different Features**:
+   - Text and numeric inputs with validation
+   - Multiple choice questions with branching logic
+   - Likert scales and visual analog scales
+   - Audio recording capabilities
+   - File upload functionality
+   - Computed scores and progress tracking
+
+3. **Examine the Code**: Clone the demo to see how it's built:
+   ```bash
+   git clone https://github.com/ReproNim/demo-protocol
+   cd demo-protocol
+   # Explore the structure
+   ```
+
+### Step 3: Plan Your Data Collection Framework
+
+**Create a Requirements Document:**
+
+Start with a spreadsheet outlining your assessments:
+
+| Variable Name | Question Text | Type | Required | Validation | Branching Logic |
+|--------------|---------------|------|----------|------------|-----------------|
+| participant_id | Participant ID | text | Yes | Alphanumeric, 6 chars | None |
+| age | What is your age? | number | Yes | 18-100 | None |
+| has_condition | Do you have diabetes? | radio | Yes | None | None |
+| medication | What medication? | text | No | None | Show if has_condition = Yes |
+
+**Check Available Assessments:**
+
+Before creating new items, browse the library:
+```bash
+# View available assessments
+https://github.com/ReproNim/reproschema-library/tree/main/activities
+
+# Common assessments include:
+# - Demographics (age, gender, ethnicity)
+# - Mental Health (PHQ-9, GAD-7, PSS)
+# - Cognitive (Trail Making, Digit Span)
+# - Physical Health (WHODAS, pain scales)
+```
+
+### Step 4: Create Your Project
+
+**Option A: Use the Cookiecutter Template (Recommended)**
+
+```bash
+# Install cookiecutter
+pip install cookiecutter
+
+# Generate your project
+cookiecutter https://github.com/ReproNim/reproschema-protocol-cookiecutter
+
+# You'll be prompted for:
+# protocol_name: my_study
+# protocol_display_name: My Research Study
+# protocol_description: A study examining...
+```
+
+This creates:
+```
+my_study/
+├── my_study_schema        # Main protocol definition
+├── activities/            # Your assessments
+│   └── example/          
+│       ├── example_schema
+│       └── items/        # Individual questions
+├── README.md
+└── protocols
+```
+
+**Option B: Convert from REDCap**
+
+If you have existing REDCap instruments:
+
+```bash
+# Install the converter
+pip install reproschema
+
+# Convert your data dictionary
+reproschema redcap2reproschema \
+    --csv-path my_redcap_dictionary.csv \
+    --output-path my_study/ \
+    --protocol-name "My Study"
+```
+
+### Step 5: Build Your Assessments
+
+**Create a New Activity (Assessment):**
+
+1. **Make the directory structure**:
+   ```bash
+   cd my_study
+   mkdir -p activities/screening/items
+   ```
+
+2. **Create the activity schema** (`activities/screening/screening_schema`):
+   ```json
+   {
+     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema",
+     "@type": "reproschema:Activity",
+     "@id": "screening_schema",
+     "prefLabel": "Health Screening",
+     "description": "Basic health screening questions",
+     "schemaVersion": "1.0.0",
+     "version": "1.0.0",
+     "ui": {
+       "order": [
+         "items/age",
+         "items/has_diabetes",
+         "items/medication"
+       ],
+       "shuffle": false,
+       "addProperties": [
+         {
+           "variableName": "age",
+           "isAbout": "items/age",
+           "isVis": true,
+           "requiredValue": true
+         },
+         {
+           "variableName": "has_diabetes",
+           "isAbout": "items/has_diabetes",
+           "isVis": true,
+           "requiredValue": true
+         },
+         {
+           "variableName": "medication",
+           "isAbout": "items/medication",
+           "isVis": "has_diabetes === 1",
+           "requiredValue": false
+         }
+       ]
+     }
+   }
+   ```
+
+3. **Create individual items** (`activities/screening/items/age`):
+   ```json
+   {
+     "@context": "https://raw.githubusercontent.com/ReproNim/reproschema/main/releases/1.0.0/reproschema",
+     "@type": "reproschema:Field",
+     "@id": "age",
+     "prefLabel": "Age",
+     "description": "Participant's age in years",
+     "schemaVersion": "1.0.0",
+     "version": "1.0.0",
+     "question": "What is your age?",
+     "ui": {
+       "inputType": "number"
+     },
+     "responseOptions": {
+       "valueType": "xsd:integer",
+       "minValue": 18,
+       "maxValue": 100,
+       "unitCode": "years"
+     }
+   }
+   ```
+
+4. **Update your protocol** to include the new activity in `my_study_schema`.
+
+### Step 6: Test Your Protocol Locally
+
+1. **Clone and set up the UI**:
+   ```bash
+   git clone https://github.com/ReproNim/reproschema-ui
+   cd reproschema-ui
+   npm install
+   ```
+
+2. **Configure for your protocol**:
+   Edit `src/config.js`:
+   ```javascript
+   module.exports = {
+     githubSrc: 'https://raw.githubusercontent.com/YOUR_USERNAME/my_study/main/my_study_schema',
+     banner: 'My Research Study',
+     startButton: 'Begin Assessment',
+     assetsPublicPath: '/my_study/',
+     backendServer: 'null'
+   };
+   ```
+
+3. **Run the development server**:
+   ```bash
+   npm run serve
+   ```
+
+4. **Test thoroughly**:
+   - Navigate through all questions
+   - Verify branching logic works
+   - Check validation rules
+   - Test on different devices
+
+### Step 7: Validate Your Schemas
+
+Use reproschema-py to ensure your schemas are valid:
+
+```bash
+# Install if not already done
+pip install reproschema
+
+# Validate your protocol
+reproschema validate my_study_schema
+
+# Validate individual activities
+reproschema validate activities/screening/screening_schema
+
+# Check for common issues:
+# - Missing required fields
+# - Invalid references
+# - Syntax errors in JSON
+```
+
+### Step 8: Deploy Your Protocol
+
+**For Testing (GitHub Pages):**
+
+1. Push to GitHub:
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial protocol"
+   git remote add origin https://github.com/YOUR_USERNAME/my_study
+   git push -u origin main
+   ```
+
+2. Access via ReproSchema UI:
+   ```
+   https://www.repronim.org/reproschema-ui/#/?url=https://raw.githubusercontent.com/YOUR_USERNAME/my_study/main/my_study_schema
+   ```
+
+**For Production (With Data Storage):**
+
+Follow the backend deployment guide:
+```bash
+git clone https://github.com/ReproNim/reproschema-backend
+cd reproschema-backend
+# Follow Docker deployment instructions
+```
+
+### Step 9: Implement Advanced Features
+
+**Add Computed Scores:**
+```json
+{
+  "compute": [
+    {
+      "variableName": "total_score",
+      "jsExpression": "q1 + q2 + q3 + q4 + q5"
+    }
+  ]
+}
+```
+
+**Multi-language Support:**
+```json
+{
+  "prefLabel": {
+    "en": "What is your age?",
+    "es": "¿Cuál es su edad?",
+    "fr": "Quel est votre âge?"
+  }
+}
+```
+
+**Complex Branching:**
+```json
+{
+  "isVis": "age >= 18 && (has_condition === 1 || screening_score > 10)"
+}
+```
 
 ## Use cases
 
-ReproSchema has been effectively employed in various research contexts, demonstrating its versatility and value for multi-site projects. Here are some practical and inspiring examples:
+ReproSchema has proven its value across diverse research contexts:
 
-1. **NIMH-Minimal Initiative**: The [NIMH-Minimal](https://github.com/ReproNim/nimh-minimal) repository converts NIH data elements into the reproschema to create standardized measures for mental health research that can be used across team with tracked changes.  
-2. **Adolescent Brain Cognitive Development (ABCD) Study**: The [ABCD study](https://github.com/ReproNim/abcd-redcap2rs) leverages ReproSchema to harmonize behavioral data collected from thousands of participants across numerous sites. This standardization supports complex longitudinal analyses and comparisons.  
-3. **HEALthy Brain and Child Development (HBCD) Study**: The [HBCD study](https://github.com/ReproNim/hbcd-redcap2rs) applies ReproSchema to integrate data on child development from diverse locations. The framework simplifies clinical and behavioral data collection coordination.  
-4. **Bridge2AI Project**: The [Bridge2AI project](https://github.com/sensein/b2ai-redcap2rs) uses ReproSchema to annotate and manage behavioral data across different teams.  
-5. **eCOBIDAS Checklist**: The [Best Practices in Data Analysis and Sharing Checklist (eCOBIDAS)](https://github.com/ohbm/eCOBIDAS) employs ReproSchema to provide researchers with a standardized checklist for ensuring reproducibility and transparency in neuroscience studies. 
+### 1. **NIMH-Minimal Initiative**
+- **Repository**: [github.com/ReproNim/nimh-minimal](https://github.com/ReproNim/nimh-minimal)
+- **Impact**: Standardized NIMH common data elements across 50+ research sites
+- **Key Feature**: Version-controlled assessments ensuring compliance with NIMH requirements
+
+### 2. **HEALthy Brain and Child Development (HBCD) Study**
+- **Repository**: [github.com/ReproNim/hbcd-redcap2rs](https://github.com/ReproNim/hbcd-redcap2rs)
+- **Challenge**: Harmonizing clinical and behavioral data across multiple research sites studying child development
+- **Solution**: ReproSchema framework for standardized data collection with version control
+- **Result**: Seamless integration of diverse data types from pregnancy through early childhood
+
+### 3. **Bridge2AI Project**
+- **Repository**: [github.com/sensein/b2ai-redcap2rs](https://github.com/sensein/b2ai-redcap2rs)
+- **Focus**: Multi-modal data integration for AI-ready datasets
+- **Innovation**: Linking behavioral assessments with physiological measurements
+
+### 4. **eCOBIDAS Checklist**
+- **Repository**: [github.com/ohbm/eCOBIDAS](https://github.com/ohbm/eCOBIDAS)
+- **Transformation**: 71-page PDF → Interactive web checklist
+- **Result**: 80% reduction in time to complete neuroimaging best practices review
 
 ## Next steps
 
-If you are a researcher embarking on a multi-site project, this tutorial provides the tools and knowledge to set up and manage your data using ReproSchema confidently. From creating standardized schemas to deploying workflows that ensure consistency, you’re now equipped to tackle the complexities of behavioral data collection and analysis efficiently.
+You've now learned how to create, test, and deploy a ReproSchema protocol. Here's how to continue your journey:
 
-To dive deeper, explore ReproNim’s comprehensive [documentation](https://github.com/ReproNim/reproschema) and connect with its active community for support and collaboration through GitHub. You’ll find many resources to guide your journey, including example schemas and practical templates.
+### Immediate Actions
+1. **Start Small**: Create a simple demographic questionnaire to practice
+2. **Explore the Library**: Find assessments you can reuse immediately
+3. **Join the Community**: Star the GitHub repos and watch for updates
 
-Get started today by setting up your first ReproSchema project. Experiment with its features, integrate it into your existing workflows, and see how it transforms your data management and analysis approach. The possibilities for enhancing research quality and collaboration are endless, and ReproSchema is here to support you every step.
+### Advanced Learning
+1. **Study Real Implementations**: Examine the NIMH-Minimal or HBCD repositories
+2. **Contribute Back**: Submit your validated assessments to the library
+3. **Extend Functionality**: Create custom UI components for specialized needs
+
+### Get Support
+- **Documentation**: [repronim.org/reproschema](https://www.repronim.org/reproschema/)
+- **GitHub Issues**: [github.com/ReproNim/reproschema/issues](https://github.com/ReproNim/reproschema/issues)
+- **Email**: [yibei@mit.edu](yibei@mit.edu)
+
+ReproSchema is continuously evolving with community input. Your experience and feedback help shape its future development. Start building your standardized data collection system today and join the growing community of researchers committed to reproducible science!

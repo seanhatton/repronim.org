@@ -176,6 +176,138 @@ DEPLOY_PRIME_URL = "https://repronim.org"
   force = true
 
 [[redirects]]
+  from = "/5Steps/*"
+  to = "https://legacy.repronim.org/5Steps/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2019_training_logistics.html"
+  to = "https://legacy.repronim.org/2019_training_logistics.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/5steps.html"
+  to = "https://legacy.repronim.org/5steps.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/about_us.html"
+  to = "https://legacy.repronim.org/about_us.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/collaborators.html"
+  to = "https://legacy.repronim.org/collaborators.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/community.html"
+  to = "https://legacy.repronim.org/community.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/describe.html"
+  to = "https://legacy.repronim.org/describe.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/discover.html"
+  to = "https://legacy.repronim.org/discover.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/do.html"
+  to = "https://legacy.repronim.org/do.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/eab.html"
+  to = "https://legacy.repronim.org/eab.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/events.html"
+  to = "https://legacy.repronim.org/events.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/fellows-resources.html"
+  to = "https://legacy.repronim.org/fellows-resources.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/fellowship.html"
+  to = "https://legacy.repronim.org/fellowship.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/how-would-repronim.html"
+  to = "https://legacy.repronim.org/how-would-repronim.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/index.html"
+  to = "https://legacy.repronim.org/index.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/news_archive.html"
+  to = "https://legacy.repronim.org/news_archive.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/publications.html"
+  to = "https://legacy.repronim.org/publications.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/search.html"
+  to = "https://legacy.repronim.org/search.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/teach.html"
+  to = "https://legacy.repronim.org/teach.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/template.html"
+  to = "https://legacy.repronim.org/template.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/use_cases.html"
+  to = "https://legacy.repronim.org/use_cases.html"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/webinar-series.html"
+  to = "https://legacy.repronim.org/webinar-series.html"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/Training/*"
   to = "https://legacy.repronim.org/Training/:splat"
   status = 301

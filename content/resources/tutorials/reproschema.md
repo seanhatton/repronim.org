@@ -414,6 +414,5 @@ You've now learned how to create, test, and deploy a ReproSchema protocol. Here'
 ### Get Support
 - **Documentation**: [repronim.org/reproschema](https://www.repronim.org/reproschema/)
 - **GitHub Issues**: [github.com/ReproNim/reproschema/issues](https://github.com/ReproNim/reproschema/issues)
-- **Email**: [yibei@mit.edu](yibei@mit.edu)
 
 ReproSchema is continuously evolving with community input. Your experience and feedback help shape its future development. Start building your standardized data collection system today and join the growing community of researchers committed to reproducible science!

@@ -34,7 +34,7 @@ references to them (by NUMBER.LETTER) on other pages.
     5. [Pre-register](https://www.cos.io/initiatives/prereg) your study.
 
 <!-- 2: Data and metadata management -->
-2.  **Data and metadata management**
+2.  **[Data and metadata management](/about/principles/data_management/)**
     <!-- 2a: Use standard data formats -->
     1. Use standard data formats and extend them to meet your needs.
     <!-- 2b: Use data version control -->

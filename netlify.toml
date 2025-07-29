@@ -7,21 +7,16 @@ HUGO_VERSION = "0.132.2"
 DEPLOY_PRIME_URL = "https://repronim.org"
 
 # GitHub Pages redirects for ReproNim repositories
-[[redirects]]
-  from = "/_deprecated_module-workflows/*"
-  to = "https://legacy.repronim.org/_deprecated_module-workflows/:splat"
-  status = 301
-  force = true
+# TODO investigate
+# [[redirects]]
+#   from = "/_deprecated_module-workflows/*"
+#   to = "https://legacy.repronim.org/_deprecated_module-workflows/:splat"
+#   status = 301
+#   force = true
 
 [[redirects]]
   from = "/brainhack_ohbm18/*"
   to = "https://legacy.repronim.org/brainhack_ohbm18/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/brainverse/*"
-  to = "https://legacy.repronim.org/brainverse/:splat"
   status = 301
   force = true
 
@@ -34,7 +29,7 @@ DEPLOY_PRIME_URL = "https://repronim.org"
 [[redirects]]
   from = "/demo-protocol/*"
   to = "https://legacy.repronim.org/demo-protocol/:splat"
-  status = 301
+  status = 200
   force = true
 
 [[redirects]]
@@ -44,51 +39,45 @@ DEPLOY_PRIME_URL = "https://repronim.org"
   force = true
 
 [[redirects]]
-  from = "/eab-demo/*"
-  to = "https://legacy.repronim.org/eab-demo/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/metasearch/*"
   to = "https://legacy.repronim.org/metasearch/:splat"
-  status = 301
+  status = 200
   force = true
 
 [[redirects]]
   from = "/module-dataprocessing/*"
   to = "https://legacy.repronim.org/module-dataprocessing/:splat"
-  status = 301
+  status = 200
   force = true
 
 [[redirects]]
   from = "/module-FAIR-data/*"
   to = "https://legacy.repronim.org/module-FAIR-data/:splat"
-  status = 301
+  status = 200
   force = true
 
 [[redirects]]
   from = "/module-intro/*"
   to = "https://legacy.repronim.org/module-intro/:splat"
-  status = 301
+  status = 200
   force = true
 
 [[redirects]]
   from = "/module-reproducible-basics/*"
   to = "https://legacy.repronim.org/module-reproducible-basics/:splat"
-  status = 301
+  status = 200
   force = true
 
 [[redirects]]
   from = "/module-stats/*"
   to = "https://legacy.repronim.org/module-stats/:splat"
-  status = 301
+  status = 200
   force = true
 
 [[redirects]]
   from = "/module-template/*"
   to = "https://legacy.repronim.org/module-template/:splat"
-  status = 301
+  status = 200
   force = true
 
 [[redirects]]
@@ -100,7 +89,7 @@ DEPLOY_PRIME_URL = "https://repronim.org"
 [[redirects]]
   from = "/nimh-minimal/*"
   to = "https://legacy.repronim.org/nimh-minimal/:splat"
-  status = 301
+  status = 200
   force = true
 
 [[redirects]]
@@ -116,15 +105,15 @@ DEPLOY_PRIME_URL = "https://repronim.org"
   force = true
 
 [[redirects]]
-  from = "/reproschema/*"
-  to = "https://legacy.repronim.org/reproschema/:splat"
-  status = 200
+  from = "/ReproInventory/*"
+  to = "https://legacy.repronim.org/ReproInventory/:splat"
+  status = 301
   force = true
 
 [[redirects]]
-  from = "/reproschema-builder/*"
-  to = "https://legacy.repronim.org/reproschema-builder/:splat"
-  status = 301
+  from = "/reproschema/*"
+  to = "https://legacy.repronim.org/reproschema/:splat"
+  status = 200
   force = true
 
 [[redirects]]
@@ -140,21 +129,9 @@ DEPLOY_PRIME_URL = "https://repronim.org"
   force = true
 
 [[redirects]]
-  from = "/reproschema-library/*"
-  to = "https://legacy.repronim.org/reproschema-library/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/reproschema-ui/*"
   to = "https://legacy.repronim.org/reproschema-ui/:splat"
-  status = 301
-  force = true
-
-[[redirects]]
-  from = "/reprozip/*"
-  to = "https://legacy.repronim.org/reprozip/:splat"
-  status = 301
+  status = 200
   force = true
 
 [[redirects]]

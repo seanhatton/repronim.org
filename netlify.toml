@@ -4,10 +4,10 @@ command = "hugo --gc --minify -b ${DEPLOY_PRIME_URL}"
 
 [build.environment]
 HUGO_VERSION = "0.132.2"
-DEPLOY_PRIME_URL = "https://dev.repronim.org"
+DEPLOY_PRIME_URL = "https://repronim.org"
 
 [[redirects]]
   from = "/module-intro/*"
-  to = "https://www.repronim.org/module-intro/:splat"
+  to = "https://legacy.repronim.org/module-intro/:splat"
   status = 200
   force = true

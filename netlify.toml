@@ -9,5 +9,5 @@ DEPLOY_PRIME_URL = "https://repronim.org"
 [[redirects]]
   from = "/module-intro/*"
   to = "https://legacy.repronim.org/module-intro/:splat"
-  status = 200
+  status = 301
   force = true

@@ -76,7 +76,7 @@ DEPLOY_PRIME_URL = "https://repronim.org"
 [[redirects]]
   from = "/eab-demo/*"
   to = "https://legacy.repronim.org/eab-demo/:splat"
-  status = 200
+  status = 301
   force = true
 
 [[redirects]]

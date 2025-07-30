@@ -33,7 +33,7 @@ For a general orientation to ReproNim resources, we suggest reviewing the [Getti
 
 ## Additional Associated Tools
 
-In addition to our [Core Tools](https://repronim.netlify.app/resources/tools/), ReproNim has developed an extensive set of additional tools that serve more specialized purposes. These include:
+In addition to our [Core Tools](#core-tools), ReproNim has developed an extensive set of additional tools that serve more specialized purposes. These include:
 
 * [con/duct](https://github.com/con/duct) \- A helper to run a command, capture stdout/stderr and execution metadata  
 * [ReproMan](https://github.com/ReproNim/reproman) \- Simplify creation and management of computing environments in Neuroimaging  

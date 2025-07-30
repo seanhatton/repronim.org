@@ -45,8 +45,9 @@ In addition to our [Core Tools](#core-tools), ReproNim has developed an extensiv
 * [reprozip](https://github.com/ReproNim/reprozip) \- ReproZip is a tool that simplifies the process of creating reproducible experiments from command-line executions, a frequently-used common denominator in computational science.
 
 
-NIDM Converters: The following tools support conversion of the outputs of specific tools into the NIDM representation.
+### NIDM Converters
 
+The following tools support conversion of the outputs of specific tools into the NIDM representation.
 * FreeSurfer
   * [segstats\_jsonld](https://github.com/ReproNim/segstats_jsonld) \- Script to Export Freesurfer-based Parcellation/Segmentation Stats and Provenance as JSON-LD and NIDM
 * FSL

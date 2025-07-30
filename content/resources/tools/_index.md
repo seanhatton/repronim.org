@@ -47,11 +47,11 @@ In addition to our [Core Tools](#core-tools), ReproNim has developed an extensiv
 
 NIDM Converters: The following tools support conversion of the outputs of specific tools into the NIDM representation.
 
-* FreeSurfer  
-  * [segstats\_jsonld](https://github.com/ReproNim/segstats_jsonld) \- Script to Export Freesurfer-based Parcellation/Segmentation Stats and Provenance as JSON-LD and NIDM  
-* FSL  
-  * [fsl\_seg\_to\_nidm](https://github.com/ReproNim/fsl_seg_to_nidm) \- Converts structural segmentation outputs from FSL's FIRST and FAST tool to NIDM  
-* ANTS  
+* FreeSurfer
+  * [segstats\_jsonld](https://github.com/ReproNim/segstats_jsonld) \- Script to Export Freesurfer-based Parcellation/Segmentation Stats and Provenance as JSON-LD and NIDM
+* FSL
+  * [fsl\_seg\_to\_nidm](https://github.com/ReproNim/fsl_seg_to_nidm) \- Converts structural segmentation outputs from FSL's FIRST and FAST tool to NIDM
+* ANTS
   * [ants\_seg\_to\_nidm](https://github.com/ReproNim/ants_seg_to_nidm) \- ANTS-based structural segmentation exporter to NIDM
 
 

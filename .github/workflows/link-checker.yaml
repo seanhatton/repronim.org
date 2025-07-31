@@ -1,6 +1,9 @@
 name: Check Links
 on:
   pull_request: {}
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 14 * * 2'  # Tuesday at 9 AM Eastern (2 PM UTC)
 

@@ -39,9 +39,12 @@ By the end of this tutorial, you will have created a functioning ReproSchema pro
 
 **Knowledge Assumed:**
 
-* **Basic GitHub Usage**: You should be comfortable navigating GitHub repositories, cloning projects, and understanding version control basics.
+* **Basic GitHub Usage**: You should be comfortable navigating GitHub repositories, cloning projects, and understanding version control basics. 
+  If you're new to GitHub, review the [GitHub Getting Started Guide](https://docs.github.com/en/get-started)
 * **Command Line Fundamentals**: Ability to run bash commands, navigate directories, and execute Python scripts.
+  Refresh your bash knowledge with this [Bash Command Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
 * **JSON Familiarity (Helpful)**: Basic understanding of JSON structure will help, though we'll provide examples for all code.
+  Familiarize yourself with [JSON basics](https://www.json.org/json-en.html) for editing schema files
 
 **Required Software:**
 
@@ -49,12 +52,6 @@ By the end of this tutorial, you will have created a functioning ReproSchema pro
 * **Python 3.7+**: For running ReproSchema tools
 * **Node.js and npm**: For testing the user interface locally
 * **Text Editor**: Any code editor (VS Code, Sublime Text, etc.)
-
-**Recommended Preparation:**
-
-* **GitHub Basics**: If you're new to GitHub, review the [GitHub Getting Started Guide](https://docs.github.com/en/get-started)
-* **Command Line Skills**: Refresh your bash knowledge with this [Bash Command Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
-* **JSON Syntax**: Familiarize yourself with [JSON basics](https://www.json.org/json-en.html) for editing schema files
 
 ## Step by step guide
 

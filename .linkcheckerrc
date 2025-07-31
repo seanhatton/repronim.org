@@ -50,7 +50,6 @@ ignore =
   ^https://www\.mir\.wustl\.edu/employees/daniel-marcus/
   ^https://www\.mir\.wustl\.edu/employees/janine-bijsterbosch/
   ^https://www\.umassmed\.edu/news/news-archives/2022/02/david-kennedy-awarded-$6-million-repronim-brain-imaging-grant
-  ^https://github\.com/ReproNim/abcd-redcap2rs/*
 
 [output]
 ignoreerrors=

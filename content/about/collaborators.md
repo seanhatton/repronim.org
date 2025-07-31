@@ -53,7 +53,7 @@ The P41 Center Collaborative Projects (CPs) serve as technology drivers, users, 
     - [Daniel Marcus](https://www.mir.wustl.edu/employees/daniel-marcus/) and [David Van Essen](https://neuroscience.wustl.edu/people/david-van-essen-phd/) (PIs)
     - Institution: Washington University St. Louis
 - CP3: [Healthy Brains for Healthy Lives Initiative](https://www.mcgill.ca/hbhl/)
-    - [Alan Evans](https://mcin.ca/about-mcin/alans-cv/) (PI)
+    - [Alan Evans](https://en.wikipedia.org/wiki/Alan_Evans_(neuroscientist)) (PI)
     - Institution: McGill University
 - CP4: [COINSTAC: Worldwide Analysis of Valence System Brain Circuits](https://coinstac.org/)
     - Vince Calhoun, [Jessica Turner](https://trendscenter.org/jessica-turner/), [Theodorus Van Erp](https://www.faculty.uci.edu/profile.cfm?faculty_id=5812) (PIs)

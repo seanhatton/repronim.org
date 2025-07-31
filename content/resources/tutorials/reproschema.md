@@ -94,7 +94,7 @@ ReproSchema uses a hierarchical structure to organize assessments, making comple
 
 Before creating your own protocol, explore what's possible:
 
-1. **Visit the Demo**: [https://www.repronim.org/reproschema-ui/#/?url=https://raw.githubusercontent.com/ReproNim/demo-protocol/main/DemoProtocol/DemoProtocol_schema](https://www.repronim.org/reproschema-ui/#/?url=https://raw.githubusercontent.com/ReproNim/demo-protocol/main/DemoProtocol/DemoProtocol_schema)
+1. **Visit the Demo**: [ReproSchema UI Demo](https://repronim.org/reproschema-ui/)
 
 2. **Try Different Features**:
    - Text and numeric inputs with validation

@@ -1,5 +1,6 @@
 [checking]
 sslverify=0
+threads=1
 
 [filtering]
 ignore =

@@ -2,7 +2,7 @@
 title: Set Up a Data Collection and Annotation Framework for Multi-Site Behavioral Studies
 linkTitle: Planning a Distributed Project Using ReproSchema
 type: docs
-weight: 5 
+weight: 5
 ---
 
 **[Reproducible neuroimaging principles](/about/principles/#repronims-four-core-principles)**: 2c: Annotate data.
@@ -39,7 +39,7 @@ By the end of this tutorial, you will have created a functioning ReproSchema pro
 
 **Knowledge Assumed:**
 
-* **Basic GitHub Usage**: You should be comfortable navigating GitHub repositories, cloning projects, and understanding version control basics. 
+* **Basic GitHub Usage**: You should be comfortable navigating GitHub repositories, cloning projects, and understanding version control basics.
   If you're new to GitHub, review the [GitHub Getting Started Guide](https://docs.github.com/en/get-started)
 * **Command Line Fundamentals**: Ability to run bash commands, navigate directories, and execute Python scripts.
   Refresh your bash knowledge with this [Bash Command Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
@@ -126,17 +126,13 @@ Start with a spreadsheet outlining your assessments:
 
 **Check Available Assessments:**
 
-Before creating new items, browse the library:
-```bash
-# View available assessments
-https://github.com/ReproNim/reproschema-library/tree/main/activities
+Before creating new items, browse the [library of available assessments](https://github.com/ReproNim/reproschema-library/tree/main/activities).
 
-# Common assessments include:
-# - Demographics (age, gender, ethnicity)
-# - Mental Health (PHQ-9, GAD-7, PSS)
-# - Cognitive (Trail Making, Digit Span)
-# - Physical Health (WHODAS, pain scales)
-```
+Common assessments include:
+- Demographics (age, gender, ethnicity)
+- Mental Health (PHQ-9, GAD-7, PSS)
+- Cognitive (Trail Making, Digit Span)
+- Physical Health (WHODAS, pain scales)
 
 ### Step 4: Create Your Project
 
@@ -148,19 +144,19 @@ pip install cookiecutter
 
 # Generate your project
 cookiecutter https://github.com/ReproNim/reproschema-protocol-cookiecutter
-
-# You'll be prompted for:
-# protocol_name: my_study
-# protocol_display_name: My Research Study
-# protocol_description: A study examining...
 ```
+
+You'll be prompted for:
+* protocol_name: my_study
+* protocol_display_name: My Research Study
+* protocol_description: A study examining...
 
 This creates:
 ```
 my_study/
 ├── my_study_schema        # Main protocol definition
 ├── activities/            # Your assessments
-│   └── example/          
+│   └── example/
 │       ├── example_schema
 │       └── items/        # Individual questions
 ├── README.md
@@ -303,12 +299,12 @@ reproschema validate my_study_schema
 
 # Validate individual activities
 reproschema validate activities/screening/screening_schema
-
-# Check for common issues:
-# - Missing required fields
-# - Invalid references
-# - Syntax errors in JSON
 ```
+
+Check for common issues:
+- Missing required fields
+- Invalid references
+- Syntax errors in JSON
 
 ### Step 8: Deploy Your Protocol
 

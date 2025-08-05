@@ -6,13 +6,6 @@ command = "hugo --gc --minify -b ${DEPLOY_PRIME_URL}"
 HUGO_VERSION = "0.132.2"
 DEPLOY_PRIME_URL = "https://repronim.org"
 
-# GitHub Pages redirects for ReproNim repositories
-# TODO investigate
-# [[redirects]]
-#   from = "/_deprecated_module-workflows/*"
-#   to = "https://legacy.repronim.org/_deprecated_module-workflows/:splat"
-#   status = 301
-#   force = true
 
 [[redirects]]
   from = "/brainhack_ohbm18/*"

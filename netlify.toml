@@ -100,7 +100,7 @@ DEPLOY_PRIME_URL = "https://repronim.org"
 [[redirects]]
   from = "/ReproInventory/*"
   to = "https://legacy.repronim.org/ReproInventory/:splat"
-  status = 301
+  status = 200
   force = true
 
 [[redirects]]

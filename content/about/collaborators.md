@@ -113,3 +113,6 @@ The P41 Center provides their technology to Service Projects (SPs) that serve as
 - SP10: [Developing Multimodal Imaging of Neurocognitive Dynamics (Dev-MIND)](https://diconlab.org/projects/)
     - [Tony Wilson](https://www.boystownhospital.org/research/faculty/tony-wilson) (PI)
     - Institution: University of Nebraska Medical Center
+
+### Map of Phase2 Collaborative and Service Projects
+![image info](../../static/images/Phase2_CPSPmap.jpg)

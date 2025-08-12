@@ -10,8 +10,8 @@ For a general orientation to ReproNim resources, we suggest reviewing the [Getti
 
 ## Core Standards
 
-- [The Brain Imaging Data Structure (BIDS)](bids/index.html): A standard for organizing neuroimaging data and metadata on disk.
-- [The Neuroimaging Data Model (NIDM)](nidm/index.html): A Semantic Web extension for neuroimaging concepts.
+- The Brain Imaging Data Structure [(BIDS)](bids/index.html): A standard for organizing neuroimaging data and metadata on disk.
+- The Neuroimaging Data Model [(NIDM)](nidm/index.html): A Semantic Web extension for neuroimaging concepts.
 
 ## Core Tools
 

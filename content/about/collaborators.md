@@ -116,3 +116,5 @@ The P41 Center provides their technology to Service Projects (SPs) that serve as
 
 ### Map of Phase2 Collaborative and Service Projects
 ![image info](/images/Phase2_CPSPmap.jpg)
+
+Blue markers are Collaborative Projects; Red markers are Service Projects.

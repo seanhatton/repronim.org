@@ -115,4 +115,4 @@ The P41 Center provides their technology to Service Projects (SPs) that serve as
     - Institution: University of Nebraska Medical Center
 
 ### Map of Phase2 Collaborative and Service Projects
-![image info](../../static/images/Phase2_CPSPmap.jpg)
+![image info](/images/Phase2_CPSPmap.jpg)

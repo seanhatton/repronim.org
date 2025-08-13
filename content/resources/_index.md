@@ -9,7 +9,7 @@ If you are new to the concept of ReproNim's mission to increase reproducible pra
 
 If you are unfamiliar with ReproNim and its approach, we suggest you visit [Getting started with ReproNim](/resources/getting-started/) for a general orientation to the website and a set of user stories that illustrate how ReproNim can address data and software management issues you may encounter in your current neuroimaging workflow.
 
-***Additional resources***
+## Additional resources
 
 ReproNim is one of many [Technology and Research Development Centers](https://urldefense.com/v3/__https://www.nibib.nih.gov/programs/national-centers-biomedical-imaging-bioengineering__;!!Mih3wA!ERBVb1xNb57_zlxzgqEfR5J12OVlxnlbh_EHkhVVIsdosLmS0ZTmovChut-fRRHCfkdL8POtFvSIRdmm_fIGD2952Qo0rv96IQ$) funded by the National Institute of Biomedical Imaging and Bioengineering ([NIBIB](https://urldefense.com/v3/__https://www.nibib.nih.gov/__;!!Mih3wA!ERBVb1xNb57_zlxzgqEfR5J12OVlxnlbh_EHkhVVIsdosLmS0ZTmovChut-fRRHCfkdL8POtFvSIRdmm_fIGD2952Qqhc1CS6Q$)). Related NIBIB P41 Centers include important efforts in imaging and reproducibility:     
         	    \-[Center for Reproducible Systems for Biomedical Modeling](https://urldefense.com/v3/__https://reporter.nih.gov/project-details/11080278__;!!Mih3wA!ERBVb1xNb57_zlxzgqEfR5J12OVlxnlbh_EHkhVVIsdosLmS0ZTmovChut-fRRHCfkdL8POtFvSIRdmm_fIGD2952QoXuVPFfA$)  

@@ -4,4 +4,4 @@ skip = .git*,go.sum,i18n,*.css,.codespellrc,public
 check-hidden = true
 # lines with names in publications
 ignore-regex = (^- (name|.*\bdoi):.*|fnndsc\.childrens\.harvard\.edu)
-# ignore-words-list =
+ignore-words-list = patten,marter,mattern

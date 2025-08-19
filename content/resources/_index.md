@@ -11,9 +11,9 @@ If you are unfamiliar with ReproNim and its approach, we suggest you visit [Gett
 
 ## Additional resources
 
-ReproNim is one of many [Technology and Research Development Centers](https://urldefense.com/v3/__https://www.nibib.nih.gov/programs/national-centers-biomedical-imaging-bioengineering__;!!Mih3wA!ERBVb1xNb57_zlxzgqEfR5J12OVlxnlbh_EHkhVVIsdosLmS0ZTmovChut-fRRHCfkdL8POtFvSIRdmm_fIGD2952Qo0rv96IQ$) funded by the National Institute of Biomedical Imaging and Bioengineering ([NIBIB](https://urldefense.com/v3/__https://www.nibib.nih.gov/__;!!Mih3wA!ERBVb1xNb57_zlxzgqEfR5J12OVlxnlbh_EHkhVVIsdosLmS0ZTmovChut-fRRHCfkdL8POtFvSIRdmm_fIGD2952Qqhc1CS6Q$)). Related NIBIB P41 Centers include important efforts in imaging and reproducibility:     
-        	    \-[Center for Reproducible Systems for Biomedical Modeling](https://urldefense.com/v3/__https://reporter.nih.gov/project-details/11080278__;!!Mih3wA!ERBVb1xNb57_zlxzgqEfR5J12OVlxnlbh_EHkhVVIsdosLmS0ZTmovChut-fRRHCfkdL8POtFvSIRdmm_fIGD2952QoXuVPFfA$)  
-        	    \-[Center for Mesoscale Mapping](https://urldefense.com/v3/__https://reporter.nih.gov/project-details/10839979__;!!Mih3wA!ERBVb1xNb57_zlxzgqEfR5J12OVlxnlbh_EHkhVVIsdosLmS0ZTmovChut-fRRHCfkdL8POtFvSIRdmm_fIGD2952QrN0ZvBVA$)  
-            	\-[Advanced Technologies \- National Center for Image Guided Therapy (AT-NCIGT)](https://urldefense.com/v3/__https://reporter.nih.gov/project-details/10992165__;!!Mih3wA!ERBVb1xNb57_zlxzgqEfR5J12OVlxnlbh_EHkhVVIsdosLmS0ZTmovChut-fRRHCfkdL8POtFvSIRdmm_fIGD2952QoBeprWEA$)  
-            	\-[Center for Advanced Metabolic Imaging in Precision Medicine (CAMIPM)](https://urldefense.com/v3/__https://reporter.nih.gov/project-details/11123506__;!!Mih3wA!ERBVb1xNb57_zlxzgqEfR5J12OVlxnlbh_EHkhVVIsdosLmS0ZTmovChut-fRRHCfkdL8POtFvSIRdmm_fIGD2952Qp_nmGs8Q$)  
-            	\-[Center for Molecular Imaging Technology & Translation (CMITT)](https://urldefense.com/v3/__https://reporter.nih.gov/project-details/10909226__;!!Mih3wA!ERBVb1xNb57_zlxzgqEfR5J12OVlxnlbh_EHkhVVIsdosLmS0ZTmovChut-fRRHCfkdL8POtFvSIRdmm_fIGD2952QrmfUUdrA$) 
+ReproNim is one of many [Technology and Research Development Centers](https://www.nibib.nih.gov/programs/national-centers-biomedical-imaging-bioengineering) funded by the National Institute of Biomedical Imaging and Bioengineering ([NIBIB](https://www.nibib.nih.gov/)). Related NIBIB P41 Centers include important efforts in imaging and reproducibility:
+- [Center for Reproducible Systems for Biomedical Modeling](https://reporter.nih.gov/project-details/11080278)
+- [Center for Mesoscale Mapping](https://reporter.nih.gov/project-details/10839979)
+- [Advanced Technologies - National Center for Image Guided Therapy (AT-NCIGT)](https://reporter.nih.gov/project-details/10992165)
+- [Center for Advanced Metabolic Imaging in Precision Medicine (CAMIPM)](https://reporter.nih.gov/project-details/11123506)
+- [Center for Molecular Imaging Technology & Translation (CMITT)](https://reporter.nih.gov/project-details/10909226)

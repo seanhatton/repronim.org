@@ -12,7 +12,7 @@ Software management is crucial for reproducibility in neuroimaging because it en
     * Have undergone **systematic testing and validation**, making them more stable and reliable than development branches. In neuroimaging, where analysis errors can lead to incorrect scientific conclusions, this stability is essential.  
     * Have specific version numbers that can be precisely **cited in methods sections**, enabling other researchers to replicate your exact analysis environment. Using unversioned development code means your analysis might be running on an ephemeral state of the software that others cannot reproduce.  
     * Include **detailed release notes** documenting changes, known issues, and compatibility information. This documentation helps researchers understand potential impacts on their analysis pipelines and interpret results appropriately.
-    * Define **software dependencies** more clearly defined for released versions, reducing the likelihood of incompatibility issues that can silently alter results or cause processing failures.  
+    * Define **software dependencies** more clearly for released versions, reducing the likelihood of incompatibility issues that can silently alter results or cause processing failures.  
     * Supports the **sustainability of open-source projects** by following their intended usage patterns and allowing developers to maintain organized development cycles with clear boundaries between experimental and production-ready features.  
     
 2. **Use version control from start to finish**  

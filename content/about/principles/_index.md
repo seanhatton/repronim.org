@@ -58,7 +58,7 @@ references to them (by NUMBER.LETTER) on other pages.
     6. Use containers where reasonable.
 
 <!-- 4: Publishing everything -->
-4.  **Publishing everything** (publishing re-executable publications)
+4.  **[Publishing everything](/about/principles/publish_everything/)** (publishing re-executable publications)
     <!-- 4a: Share research plans -->
     1. Share plans (pre-registration).
     <!-- 4b: Share software -->

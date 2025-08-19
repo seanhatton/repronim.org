@@ -84,7 +84,7 @@ Software management is crucial for reproducibility in neuroimaging because it en
     
 
         * **Other resources**:  
-          * [Docker](https://www.docker.com/):  popular platform for building, deploying, and managing applications within standardized units called "containers  
-          * [Singularity](https://docs.sylabs.io/guides/3.5/user-guide/introduction.html): popular platform for building, deploying, and managing applications within standardized units called "containers  
+          * [Docker](https://www.docker.com/):  popular platform for building, deploying, and managing applications within standardized units called "containers"  
+          * [Singularity](https://docs.sylabs.io/guides/3.5/user-guide/introduction.html): popular platform for building, deploying, and managing applications within standardized units called "containers"  
           * [BIDS Apps](https://bids-apps.neuroimaging.io/): leverages containers to standardize neuroimaging workflows across the research community.
 

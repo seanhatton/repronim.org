@@ -43,7 +43,7 @@ references to them (by NUMBER.LETTER) on other pages.
     3. Annotate data using standard, reproducible procedures.
 
 <!-- 3: Software management -->
-3.  **Software management**
+3.  **[Software management](/about/principles/software_management/)**
     <!-- 3a: Use released open source software -->
     1. Use released versions of open source software.
     <!-- 3b: Use software version control -->

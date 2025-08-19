@@ -38,9 +38,10 @@ Forthcoming:
 
 _[Actions](/about/principles/#repronims-four-core-actions): Annotation and provenance Version control, Use of containers_
 
-- [Basic Software Versioning Using Git](/resources/tutorials/git/): Use Git to manage workflow and pipeline versions (*basic*).
-- [Streamlining Neuroimaging Processing with Nipoppy](/resources/tutorials/nipoppy/): Curate and process a single study to generate standardized, analysis-ready data for distributed projects (*basic+*).
-- [Advanced Containerization Using DataLad](/resources/tutorials/repronim-containers/): Use containers within DataLad for software, data, and metadata management. (*advanced*).
+- [Basic Software Versioning Using Git](/resources/tutorials/git/): Use Git to manage workflow and pipeline versions (*version control: basic*).
+- [Using Neurodocker to containerize computational workflows](/resources/tutorials/neurodocker/): Use Neurodocker to automatically generate custom Dockerfiles and Singularity recipes for neuroimaging applications. (*containers: basic*)
+- [Advanced Containerization Using DataLad](/resources/tutorials/repronim-containers/): Use containers within DataLad for software, data, and metadata management. (*containers: advanced*).
+- [Streamlining Neuroimaging Processing with Nipoppy](/resources/tutorials/nipoppy/): Curate and process a single study to generate standardized, analysis-ready data for distributed projects (*annotation: basic+*).
 
 ## Principle 4: Publishing everything
 

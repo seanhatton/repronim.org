@@ -24,7 +24,7 @@ function load_highlights() {
         if(req.status == 200) {
             var posts = eval("(" + req.responseText + ")");
             highlights_div.innerHTML = "";
-            ul = document.createElement("ul");
+            var ul = document.createElement("ul");
             highlights_div.appendChild(ul);
             var n_items = 0;
             for(var i = 0;i < posts.length;i++) {

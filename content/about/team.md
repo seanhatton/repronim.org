@@ -28,7 +28,7 @@ weight: 10
     - Research Associate Professor of Psychological and Brain Sciences, Dartmouth College, Hanover, NH
         - Founding Director, [Center for Open Neuroscience](https://centerforopenneuroscience.org/whoweare), Psychological and Brain Sciences, Dartmouth College, Hanover, NH
     - Adjunct Associate Professor of Computer Science, Dartmouth College, Hanover, NH
-- [Jean-Baptise Poline](https://www.mcgill.ca/neuro/jean-baptiste-poline-phd) Training Core Lead
+- [Jean-Baptiste Poline](https://www.mcgill.ca/neuro/jean-baptiste-poline-phd) Training Core Lead
     - Associate Professor of Neurology and Neurosurgery, Montreal Neurologic Institute, McGill University, Montreal, Canada
         - Primary Investigator, [Ludmer Centre](https://www.mcgill.ca/ludmercentre/our-people/principal-investigators/jb-poline) for Neuroinformatics & Mental Health, Montreal Neurologic Institute
         - Principal Investigator, NeuroDataScience - [ORIGAMI Research Group](https://neurodatascience.github.io/), Montreal Neurologic Institute
@@ -58,7 +58,7 @@ weight: 10
         - Isaac To, Scientific Software Developer
 
 - McGill University, Montreal, Canada
-    - Jean-Baptise Poline, Project Lead
+    - Jean-Baptiste Poline, Project Lead
         - Alyssa Dai, Developer
         - Arman Jahanpour, Developer
         - Brent McPherson, Postdoctoral Researcher

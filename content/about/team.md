@@ -25,9 +25,9 @@ weight: 10
     - Assistant Professor of Otolaryngology, Harvard Medical School, Boston, MA
         - Faculty, Speech and Hearing Biosciences and Technology, Harvard Division of Medical Sciences
 - [Yaroslav Halchenko](https://pbs.dartmouth.edu/people/yaroslav-o-halchenko-0) Project 3 Lead - Efficient and Reproducible Execution from Data Collection to Processing (DO)
-    - Research Associate Professor of Psychological and Brain Sciences, Dartmouth College, Hanover, NH
+    - Research Professor of Psychological and Brain Sciences, Dartmouth College, Hanover, NH
         - Founding Director, [Center for Open Neuroscience](https://centerforopenneuroscience.org/whoweare), Psychological and Brain Sciences, Dartmouth College, Hanover, NH
-    - Adjunct Associate Professor of Computer Science, Dartmouth College, Hanover, NH
+    - Adjunct Research Professor of Computer Science, Dartmouth College, Hanover, NH
 - [Jean-Baptiste Poline](https://www.mcgill.ca/neuro/jean-baptiste-poline-phd) Training Core Lead
     - Associate Professor of Neurology and Neurosurgery, Montreal Neurologic Institute, McGill University, Montreal, Canada
         - Primary Investigator, [Ludmer Centre](https://www.mcgill.ca/ludmercentre/our-people/principal-investigators/jb-poline) for Neuroinformatics & Mental Health, Montreal Neurologic Institute

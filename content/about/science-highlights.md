@@ -22,7 +22,7 @@ function load_highlights() {
             return;
         }
         if(req.status == 200) {
-            var posts = eval("(" + req.responseText + ")");
+            var posts = JSON.parse(req.responseText);
             highlights_div.innerHTML = "";
             var ul = document.createElement("ul");
             highlights_div.appendChild(ul);

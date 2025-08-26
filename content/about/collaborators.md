@@ -143,7 +143,7 @@ Blue markers are Collaborative Projects; Red markers are Service Projects.
 - CP6: [The XNAT Imaging Informatics Platform](https://reporter.nih.gov/search/nSJCqD2ArUG8bdAEYeeUBA/project-details/10002330)
     - [Daniel Marcus](https://www.mir.wustl.edu/employees/daniel-marcus/) (PI)
     - Institution: Washington University St. Louis
-- CP7:[DataGit: converging catalogues, warehouses, and deployment logistics into a federated 'data distribution'](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1429999)
+- CP7: [DataGit: converging catalogues, warehouses, and deployment logistics into a federated 'data distribution'](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1429999)
     - [Yaroslav Halchenko](https://faculty-directory.dartmouth.edu/yaroslav-o-halchenko) (PI)
     - Institution: Dartmouth
 - CP8: [Longitudinal Discovery Of Brain Developmental Trajectories](https://reporter.nih.gov/search/KFS4BqIpG0yxkBgSO1nb7g/project-details/9303454)

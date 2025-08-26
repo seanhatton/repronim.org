@@ -61,7 +61,7 @@ As indicated in the “Software and data availability” section of that publica
 
 All resources were released with the permissive Apache License, Version 2.0.
 
-From these linked resources, one can identify the used data exactly; access a identical containerized version of the processing workflow, operating system, and environment; and access the complete results from the original analysis, thus supporting the potential to re-execute the original work, and, more importantly, providing the opportunity to extend that work to other (or additional) data or variations of the workflow design.
+From these linked resources, one can identify the used data exactly; access an identical containerized version of the processing workflow, operating system, and environment; and access the complete results from the original analysis, thus supporting the potential to re-execute the original work, and, more importantly, providing the opportunity to extend that work to other (or additional) data or variations of the workflow design.
 
 Do YOU know of other re-executable publications?
 [Let us know,](mailto:info@repronim.org) we’d love to collect more examples\!

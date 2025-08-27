@@ -36,8 +36,8 @@ Before diving into the conversion process, it's important to familiarize yoursel
 
 ### Step 1: Install the necessary tools
 
-* **HeuDiConv:** Installation instructions can be found on the HeuDiConv GitHub page. You may want to verify the installation instructions on this website are up to date.
-* **dcm2niix:** HeuDiConv utilizes dcm2niix to convert DICOM files to the NIfTI format, required by BIDS. You'll need to install dcm2niix,  separately. You can find installation instructions on the [dcm2niix](https://github.com/rordenlab/dcm2niix) website.
+* **HeuDiConv:** Installation instructions can be found on the [HeuDiConv GitHub page](https://github.com/nipy/heudiconv). You may want to verify the installation instructions on this website are up to date.
+* **dcm2niix:** HeuDiConv utilizes dcm2niix to convert DICOM files to the NIfTI format, required by BIDS. You'll need to install dcm2niix,  separately. You can find installation instructions on the [dcm2niix website](https://github.com/rordenlab/dcm2niix).
 
 ### Step 2: Create a heuristic file
 

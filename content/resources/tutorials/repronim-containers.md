@@ -29,7 +29,7 @@ We will:
 
 - create a new dataset which would contain results and everything needed
     to obtain them
-- install/add subdatasets (code, other datasets, containers), and 
+- install/add subdatasets (code, other datasets, containers)
 - perform the analysis using **only** materials available within the reach of this dataset.
 
 This will help to guarantee reproducibility in the future because all the

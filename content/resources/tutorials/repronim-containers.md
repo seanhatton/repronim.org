@@ -203,7 +203,7 @@ Date:   Wed Jun 5 15:41:59 2024 -0400
 
 This record could later be reused (by anyone) using [datalad rerun] to rerun
 this computation using exactly the same version(s) of input data and the
-singularity container. You can even now [datalad uninstall] sourcedata and even containers and 
+singularity container. You can even now [datalad uninstall] sourcedata and even containers and
 sub-datasets to save space - they will be retrievable at those exact versions later
 on if you need to extend or redo your analysis.
 

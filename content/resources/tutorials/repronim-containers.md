@@ -22,16 +22,18 @@ Additionally, utilizing `datalad run` with `repronim-containers` preserves the p
 
 Let's assume that our goal is to do Quality Control of an MRI dataset
 (which is available as DataLad dataset ds000003). We will create a new
-dataset with the output of the QC results (as analyzed by mriqc
-BIDS-App).
+dataset with the output of the QC results (as analyzed by the MRIQC
+BIDS App).
 
-- create a new dataset which would contain results and everything needed
+We will:
+
+- create a new dataset which would contain results and everything needed, 
     to obtain them
-- install/add subdatasets(code, other datasets, containers)
+- install/add subdatasets (code, other datasets, containers), and 
 - perform the analysis using **only** materials available within the reach of this dataset.
 
-This would help to guarantee reproducibility in the future because all the
-materials would be *reachable* within that dataset.
+This will help to guarantee reproducibility in the future because all the
+materials will be *reachable* within that dataset.
 
 Note: This exercise is based on the [ReproNim/containers README](https://github.com/ReproNim/containers/), which should be referenced for more information.
 
@@ -43,7 +45,7 @@ Required knowledge:
 
 Though it is not strictly necessary to be familiar with all of the tools used
 to complete the tutorial, knowledge of the following will be helpful for adapting this tutorial to
-your usecase:
+your use case:
 
 - [Datalad](https://datalad.org)
 - [datalad-container extension](http://docs.datalad.org/projects/container/en/latest/index.html)
@@ -104,7 +106,7 @@ Now let's take a look at what we have.
 `freeze_versions` is an optional step that will record and "freeze" the
 version of the container used. Even if the `///repronim/containers` dataset is
 upgraded with a newer version of our container, we are "pinned" to the
-container we explicitly determined. Note: To switch version of the container
+container we explicitly determined. Note: To switch the version of the container
 (e.g., to upgrade to a new one), rerun `freeze_versions` script with the version
 specified.
 
@@ -165,6 +167,8 @@ datalad containers-run \
         '{inputs}' '{outputs}' participant group -w workdir
 ```
 
+Note that this step can take between 15 and 30 minutes to complete.
+
 If everything worked as expected, we will now see our new analysis, and
 a commit message of how it was obtained! All of this is contained within
 a single (nested) dataset with a complete record of how all the data was
@@ -199,16 +203,16 @@ Date:   Wed Jun 5 15:41:59 2024 -0400
 
 This record could later be reused (by anyone) using [datalad rerun] to rerun
 this computation using exactly the same version(s) of input data and the
-singularity container. You can even now [datalad uninstall] sourcedata and even containers
+singularity container. You can even now [datalad uninstall] sourcedata and even containers and 
 sub-datasets to save space - they will be retrievable at those exact versions later
 on if you need to extend or redo your analysis.
 
 ## Notes
 
-- aforementioned example requires DataLad >= 0.11.5 and datalad-containers >= 0.4.0;
-- for more elaborate example with use of [reproman] to parallelize execution on
-  remote resources, see [ReproNim/reproman PR#438](https://github.com/ReproNim/reproman/pull/438);
-- a copy of the dataset is made available from [`///repronim/ds000003-qc`](http://datasets.datalad.org/?dir=/repronim/ds000003-qc)
+- The aforementioned example requires DataLad >= 0.11.5 and datalad-containers >= 0.4.0.
+- For a more elaborate example with use of [reproman] to parallelize execution on
+  remote resources, see [ReproNim/reproman PR#438](https://github.com/ReproNim/reproman/pull/438).
+- A copy of the dataset is made available from [`///repronim/ds000003-qc`](http://datasets.datalad.org/?dir=/repronim/ds000003-qc)
   and [ds000003-qc](https://github.com/ReproNim/ds000003-qc).
 
 [reproman]: http://reproman.repronim.org

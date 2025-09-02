@@ -1,6 +1,6 @@
 ---
 title: Help
-toc: false
+type: docs
 ---
 
 Contact us at info@repronim.org.

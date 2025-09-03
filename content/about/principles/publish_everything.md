@@ -2,7 +2,7 @@
 linkTitle: "Publish everything"
 title: "ReproNim Principle 4: Publishing everything"
 type: docs
-weight: 80
+weight: 110
 ---
 
 The scientific publication is a main outcome of our research endeavor. Scientific publications, by definition, are supposed to convey the necessary information for someone to replicate the observation. We have learned over the past decades that words like “...acquire a structural MRI scan…” and “...use software package X…” do not sufficiently capture the necessary information for someone to replicate the observation. In order to convey a neuroimaging finding in a replicable fashion, one needs to include *precise and complete* information about the data, software, workflow, and derived results that comprise the publication ([Kennedy et al., 2019](https://pubmed.ncbi.nlm.nih.gov/30792636/)). Fortunately, there are methods for sharing each of these types of information in the context of a publication, rendering the publication more replicable.  And if you implement the practices recommended in principles 1-3, “publishing everything” is straightforward.

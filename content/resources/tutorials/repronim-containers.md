@@ -57,14 +57,13 @@ your use case:
 
 ### Step 1: Install the necessary tools
 
-The following tools should be installed:
+[Singularity/Apptainer](https://apptainer.org/docs/admin/main/installation.html) must be installed
+on the system.
 
-- [Datalad](https://handbook.datalad.org/en/latest/intro/installation.html)
-- [Singularity/Apptainer](https://apptainer.org/docs/admin/main/installation.html)
-
-Additionally, the `datalad-container` extension should also be installed.
+Additionally, install [`datalad`](https://handbook.datalad.org/en/latest/intro/installation.html) and `datalad-container` into a [Python Virtual Environment](https://docs.python.org/3/tutorial/venv.html).
 
 ```bash
+pip install datalad
 pip install datalad-container
 ```
 

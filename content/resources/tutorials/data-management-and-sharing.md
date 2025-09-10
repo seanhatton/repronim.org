@@ -7,7 +7,7 @@ weight: 5
 
 **[Reproducible neuroimaging principles](/about/principles/#repronims-four-core-principles)**: 1c. Create a DMSP.
 
-An [NIH Data Management and Sharing Plan](https://grants.nih.gov/grants-process/write-application/forms-directory/data-management-and-sharing-plan-format-page) (DMSP) currently comprises 6 elements covering 1\) the type of data and metadata that will be collected and preserved, 2\) software tools and code required to use the data, 3\) standards used for collecting and organizing data, 4\) long term data preservation and access, 4\) distribution and reuse considerations, 5\) privacy concerns, and 6\) oversight.
+An [NIH Data Management and Sharing Plan](https://grants.nih.gov/grants-process/write-application/forms-directory/data-management-and-sharing-plan-format-page) (DMSP) currently comprises 6 elements covering 1\) the type of data and metadata that will be collected and preserved, 2\) software tools and code required to use the data, 3\) standards used for collecting and organizing data, 4\) long term data preservation and access, 5\) distribution, reuse, and privacy considerations, and 6\) oversight.
 
 In the following, we give some high level suggestions on creating an effective DMSP using ReproNim principles, tools, and practices and provide some sample DMSPs that utilize these practices.  In some cases we provide several options, ranked from good/basic to best/advanced.  Generally the more advanced options require additional effort to implement.  We also provide some guidance on preparing a DMSP budget for implementing the plan.
 

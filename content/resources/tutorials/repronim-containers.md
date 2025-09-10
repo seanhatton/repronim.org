@@ -42,6 +42,7 @@ Note: This exercise is based on the [ReproNim/containers README](https://github.
 Required knowledge:
 
  - Basics of operating in a terminal environment
+   Refresh your bash knowledge with this [Bash Command Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
 
 Though it is not strictly necessary to be familiar with all of the tools used
 to complete the tutorial, knowledge of the following will be helpful for adapting this tutorial to

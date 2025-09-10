@@ -164,7 +164,7 @@ datalad containers-run \
         -n bids-mriqc \
         --input sourcedata \
         --output . \
-        '{inputs}' '{outputs}' participant group -w workdir
+        '{inputs}' '{outputs}' participant --participant-label 02 group -w workdir
 ```
 
 Note that this step can take between 15 and 30 minutes to complete.

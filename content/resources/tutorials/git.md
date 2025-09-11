@@ -67,7 +67,7 @@ git status
   You should see something similar to this:
 
 ```
-On branch master
+On branch main
 No commits yet
 Untracked files:
   (use "git add \<file\>..." to include in what will be committed)
@@ -86,7 +86,7 @@ git add fsl_bet.sh
 Now when you run the command `git status` again, you should see:
 
 ```
-On branch master
+On branch main
 No commits yet
 Changes to be committed:
   (use "git rm \--cached \<file\>..." to unstage)
@@ -108,7 +108,7 @@ git commit -m “the first version of the bet script” fsl_bet.sh
 If you run `git status` now, you should see (if you don’t have any other files in this directory):
 
 ```
-On branch master
+On branch main
 nothing to commit, working tree clean
 ```
 
@@ -119,7 +119,7 @@ So you have confirmation that all changes have been committed (or saved as a sna
 You have a working script, but of course you will want to experiment and change various things. Once you modify the file and run `git status` you will see:
 
 ```
-On branch master
+On branch main
 Changes not staged for commit:
   (use "git add \<file\>..." to update what will be committed)
   (use "git restore \<file\>..." to discard changes in working directory)
@@ -168,7 +168,7 @@ git log
 And the output will contain the history of your changes:
 
 ```
-commit 53314b7da1e5f3352cecaf2c3ec52875f328a871 (**HEAD \-\> master**)
+commit 53314b7da1e5f3352cecaf2c3ec52875f328a871 (**HEAD \-\> main**)
 Author: Author Name \<author\_email@gmail.com\>
 Date:   Fri Dec 20 12:16:41 2024 \-0500
     changing option to \-f 0.3
@@ -192,8 +192,9 @@ git diff 744d47eb
 
 ## Next steps
 
-The introduction from the previous section was very brief. If you want to have more explanation or learn about additional features, I recommend more extended tutorials that are available online:
+The introduction from the previous section was very brief. If you want to have more explanation or learn about additional features, including on how to connect your local repository with GitHub, I recommend more extended tutorials that are available online:
 
 - [Software Carpentry lesson](https://swcarpentry.github.io/git-novice/index.html)
 - [An interactive course using GitHub platform](https://github.com/Science-Reproducibility/version-control-systems/tree/main)
+- [More documentation from the GitHub platform](https://docs.github.com/en/get-started/using-git)
 

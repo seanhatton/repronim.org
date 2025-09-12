@@ -56,14 +56,16 @@ your use case:
 
 ### Step 1: Install the necessary tools
 
-Install [Singularity/Apptainer](https://apptainer.org/docs/admin/main/installation.html).
+- Install [Singularity/Apptainer](https://apptainer.org/docs/admin/main/installation.html).
+- Install [`Git`](https://git-scm.com/downloads).
 
-Install [`Git`](https://git-scm.com/downloads) and [`git-annex`](https://git-annex.branchable.com/install/).
+Additionally, install [`datalad`](https://handbook.datalad.org/en/latest/intro/installation.html), [`git-annex`](https://git-annex.branchable.com/install/)
+and [`datalad-container`](https://github.com/datalad/datalad-container) into a [Python Virtual Environment](https://docs.python.org/3/tutorial/venv.html).
 
-Install `datalad` and `datalad-container` into a [Python Virtual Environment](https://docs.python.org/3/tutorial/venv.html).  With the virtual environment active, run:
+With the virtual environment active, run:
 
 ```bash
-pip install datalad
+pip install datalad git-annex
 pip install datalad-container
 ```
 

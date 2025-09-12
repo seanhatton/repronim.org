@@ -5,15 +5,14 @@
 {{ $showExcerpt := .Get "showexcerpt" | default false }}
 {{ $stripTitlePrefix := .Get "striptitleprefix" | default "" }}
 {{ $numEntries := .Get "numentries" | default 10 }}
+{{ $apiBase := .Get "apibase" }}
 
 <style>
 #{{ $elementId }} ul {
-    margin: 0;
     padding-left: 20px;
 }
 #{{ $elementId }} li {
-    margin-bottom: 0.1rem;
-    line-height: 1.1;
+    line-height: 1.3;
 }
 </style>
 

@@ -6,6 +6,17 @@
 {{ $stripTitlePrefix := .Get "striptitleprefix" | default "" }}
 {{ $numEntries := .Get "numentries" | default 10 }}
 
+<style>
+#{{ $elementId }} ul {
+    margin: 0;
+    padding-left: 20px;
+}
+#{{ $elementId }} li {
+    margin-bottom: 0.1rem;
+    line-height: 1.1;
+}
+</style>
+
 <div id="{{ $elementId }}">
 See <a href="{{ $linkUrl }}">our {{ $linkText }}</a>.
 </div>

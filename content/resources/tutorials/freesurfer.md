@@ -9,7 +9,7 @@ weight: 5
 
 **[Actions](/about/principles/#repronims-four-core-actions)**: Standards, Annotation and provenance.
 
-**Standards**: [BIDS](/resources/tools/bids/index.html), [NIDM](/resources/tools/nidm/index.html).
+**Standards**: [BIDS](/resources/tools/bids/), [NIDM](/resources/tools/nidm/).
 
 **Tools**: [PyNIDM](/resources/tools/pynidm/index.html), [segstats_jsonld](https://github.com/ReproNim/segstats_jsonld).
 

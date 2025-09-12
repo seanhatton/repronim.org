@@ -175,16 +175,17 @@ obtained.
 
 ```shell
 (git) .../ds000003-qc[master] $ git show --quiet
-Author: Austin <austin@dartmouth.edu>
-Date:   Wed Jun 5 15:41:59 2024 -0400
+
+Author: Austin Macdonald <austin@dartmouth.edu>
+Date:   Fri Sep 12 12:10:38 2025 -0500
 
     [DATALAD RUNCMD] ./code/containers/scripts/singularity_cm...
 
     === Do not change lines below ===
     {
      "chain": [],
-     "cmd": "./code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--0.16.0.sing '{inputs}' '{outputs}' participant group -w workdir",
-     "dsid": "c9c96ab9-f803-43ba-83e2-2eaec7ab4725",
+     "cmd": "./code/containers/scripts/singularity_cmd run code/containers/images/bids/bids-mriqc--0.16.0.sing '{inputs}' '{outputs}' participant group --participant-label 02 -w workdir",
+     "dsid": "d822ddb8-01fc-4ffb-833b-8f323be29fcf",
      "exit": 0,
      "extra_inputs": [
       "code/containers/images/bids/bids-mriqc--0.16.0.sing"

@@ -54,14 +54,14 @@ Software management is crucial for reproducibility in neuroimaging because it en
     * Facilitates **parameter sweeps and sensitivity analyses** by making it easy to run the same pipeline with different settings, helping researchers understand how analytical choices affect outcomes.
     * Makes it possible to **rerun analyses** efficiently when new data arrives or when bugs are discovered, ensuring that all data is processed with the corrected methods.
 
-      * ***Some things you can do***:
-          * Develop **executable scripts** that handle each step of your analysis pipeline, from data preprocessing to statistical modeling and visualization.
-          * Create **master scripts or workflow managers** that coordinate the execution sequence, ensuring steps occur in the correct order with proper data handoffs between stages.
-          * Implement **parameter and configuration files** that separate analytical settings from execution code, making your analysis both customizable and transparent.
-          * Include input **validation** to ensure data quality and format consistency before processing begins.
-          * Establish **error handling protocols** that respond appropriately to problems rather than silently continuing with potentially compromised data.
-          * Use **workflow management tools** like [Nipype](https://nipype.readthedocs.io/en/latest/), [BIDS Apps](https://bids-apps.neuroimaging.io/), [Snakemake](https://snakemake.github.io/), or [NextFlow](https://training.nextflow.io/latest/) that are designed specifically for complex scientific pipelines.
-          * Create **reproducible execution environments** through containers or virtual machines that ensure consistent behavior across computing systems (see principle 3f).
+   ***Some things you can do***:
+    * Develop **executable scripts** that handle each step of your analysis pipeline, from data preprocessing to statistical modeling and visualization.
+    * Create **master scripts or workflow managers** that coordinate the execution sequence, ensuring steps occur in the correct order with proper data handoffs between stages.
+    * Implement **parameter and configuration files** that separate analytical settings from execution code, making your analysis both customizable and transparent.
+    * Include input **validation** to ensure data quality and format consistency before processing begins.
+    * Establish **error handling protocols** that respond appropriately to problems rather than silently continuing with potentially compromised data.
+    * Use **workflow management tools** like [Nipype](https://nipype.readthedocs.io/en/latest/), [BIDS Apps](https://bids-apps.neuroimaging.io/), [Snakemake](https://snakemake.github.io/), or [NextFlow](https://training.nextflow.io/latest/) that are designed specifically for complex scientific pipelines.
+    * Create **reproducible execution environments** through containers or virtual machines that ensure consistent behavior across computing systems (see principle 3f).
 
 **3e. Annotate your code and workflows using standard, reproducible procedures**
    Annotating code and workflows using standard, reproducible procedures transforms implicit knowledge into explicit documentation, ensuring that the rationale behind analytical choices is preserved. Without proper annotation, critical decisions may appear arbitrary to other researchers or even to your future self. Standardized annotations create a common language across the research community, enabling easier collaboration and review. When everyone follows similar documentation patterns, it's much simpler to understand unfamiliar code.  Annotations also serve as a form of scientific provenance, connecting analysis steps to specific hypotheses, literature references, or methodological requirements. This creates an auditable trail for scientific decisions and facilitates troubleshooting and debugging. They lower the barrier to entry for new researchers by providing contextual information that might otherwise require extensive domain expertise or direct training from the original authors.

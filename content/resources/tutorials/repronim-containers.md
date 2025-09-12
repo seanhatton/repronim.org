@@ -41,7 +41,7 @@ Note: This exercise is based on the [ReproNim/containers README](https://github.
 
 Required knowledge:
 
- - Basics of operating in a terminal environment
+ - Basics of operating in a terminal environment.
    Refresh your bash knowledge with this [Bash Command Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
 
 Though it is not strictly necessary to be familiar with all of the tools used
@@ -57,10 +57,9 @@ your use case:
 
 ### Step 1: Install the necessary tools
 
-[Singularity/Apptainer](https://apptainer.org/docs/admin/main/installation.html) must be installed
-on the system.
+[Singularity/Apptainer](https://apptainer.org/docs/admin/main/installation.html) and [`datalad`](https://handbook.datalad.org/en/latest/intro/installation.html) must be installed on the system.
 
-Additionally, install [`datalad`](https://handbook.datalad.org/en/latest/intro/installation.html) and `datalad-container` into a [Python Virtual Environment](https://docs.python.org/3/tutorial/venv.html).
+Additionally, install and `datalad` and `datalad-container` into a [Python Virtual Environment](https://docs.python.org/3/tutorial/venv.html).
 
 ```bash
 pip install datalad

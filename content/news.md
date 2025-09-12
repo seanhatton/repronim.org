@@ -1,6 +1,6 @@
 ---
 linkTitle: News
-title: ""
+title: "" # Empty so we can have each section on right bar while preventing dup titles
 date: 2024-12-04T11:52:52-05:00
 type: docs
 weight: 40

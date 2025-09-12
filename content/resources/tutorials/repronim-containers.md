@@ -57,9 +57,11 @@ your use case:
 
 ### Step 1: Install the necessary tools
 
-[Singularity/Apptainer](https://apptainer.org/docs/admin/main/installation.html) and [`datalad`](https://handbook.datalad.org/en/latest/intro/installation.html) must be installed on the system.
+Install [Singularity/Apptainer](https://apptainer.org/docs/admin/main/installation.html).
 
-Additionally, install and `datalad` and `datalad-container` into a [Python Virtual Environment](https://docs.python.org/3/tutorial/venv.html).
+Install [`Git`](https://git-scm.com/downloads) and [`git-annex`](https://git-annex.branchable.com/install/).
+
+Install `datalad` and `datalad-container` into a [Python Virtual Environment](https://docs.python.org/3/tutorial/venv.html).  With the virtual environment active, run:
 
 ```bash
 pip install datalad

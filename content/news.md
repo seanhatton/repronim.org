@@ -25,7 +25,6 @@ weight: 40
     id="science-highlights-posts" 
     linkurl="https://repronim.wordpress.com/category/sciencehighlight/" 
     linktext="science highlights" 
-    uselist="true" 
     showexcerpt="true" 
     striptitleprefix="Science Highlight"
     numentries="10"

@@ -2,7 +2,6 @@
 {{ $elementId := .Get "id" }}
 {{ $linkUrl := .Get "linkurl" | default "https://repronim.wordpress.com/" }}
 {{ $linkText := .Get "linktext" | default "posts" }}
-{{ $useList := .Get "uselist" | default false }}
 {{ $showExcerpt := .Get "showexcerpt" | default false }}
 {{ $stripTitlePrefix := .Get "striptitleprefix" | default "" }}
 {{ $numEntries := .Get "numentries" | default 10 }}
@@ -24,23 +23,15 @@ See <a href="{{ $linkUrl }}">our {{ $linkText }}</a>.
         if(req.status == 200) {
             var posts = JSON.parse(req.responseText);
             posts_div.innerHTML = "";
-            {{ if $useList }}
-            var container = document.createElement("ul");
-            posts_div.appendChild(container);
-            {{ else }}
-            var container = posts_div;
-            {{ end }}
+            var ul = document.createElement("ul");
+            posts_div.appendChild(ul);
             var n_items = 0;
             for(var i = 0;i < posts.length;i++) {
                 var a = document.createElement("a");
                 a.href = posts[i].link;
                 a.target = "_blank";
-                {{ if $useList }}
-                var item = document.createElement("li");
-                {{ else }}
-                var item = document.createElement("div");
-                {{ end }}
-                item.appendChild(a)
+                var li = document.createElement("li");
+                li.appendChild(a)
                 {{ if $stripTitlePrefix }}
                 a.innerHTML = posts[i].title.rendered.replace(/^{{ $stripTitlePrefix }}:?\s*/i, "");
                 {{ else }}
@@ -49,12 +40,12 @@ See <a href="{{ $linkUrl }}">our {{ $linkText }}</a>.
                 {{ if $showExcerpt }}
                 if(posts[i].excerpt.rendered.length < 500) {
                     const excerpt = posts[i].excerpt.rendered.replace(/^<p>(.*)<\/p>.*/i, "$1");
-                    item.appendChild(document.createTextNode(" " + excerpt));
+                    li.appendChild(document.createTextNode(" " + excerpt));
                 }
                 {{ end }}
                 var date = new Date(posts[i].date);
-                item.appendChild(document.createTextNode(" (" + date.toLocaleDateString() + ")"));
-                container.appendChild(item);
+                li.appendChild(document.createTextNode(" (" + date.toLocaleDateString() + ")"));
+                ul.appendChild(li);
                 n_items++;
             }
         var p = document.createElement("p");

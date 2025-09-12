@@ -196,5 +196,5 @@ The introduction from the previous section was very brief. If you want to have m
 
 - [Software Carpentry lesson](https://swcarpentry.github.io/git-novice/index.html)
 - [An interactive course using GitHub platform](https://github.com/Science-Reproducibility/version-control-systems/tree/main)
-- [More documentation from the GitHub platform](https://docs.github.com/en/get-started/using-git)
+- [GitHub's Git documentation](https://docs.github.com/en/get-started/using-git)
 

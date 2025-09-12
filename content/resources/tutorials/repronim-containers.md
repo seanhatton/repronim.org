@@ -41,8 +41,7 @@ Note: This exercise is based on the [ReproNim/containers README](https://github.
 
 Required knowledge:
 
- - Basics of operating in a terminal environment.
-   Refresh your bash knowledge with this [Bash Command Cheat Sheet](https://github.com/RehanSaeed/Bash-Cheat-Sheet)
+ - Basics of operating in a terminal environment.  There are [many](https://www.w3schools.com/bash/) [good](https://learn.microsoft.com/en-us/training/modules/bash-introduction/) [tutorials](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) for getting up to speed with Bash, a common terminal language.
 
 Though it is not strictly necessary to be familiar with all of the tools used
 to complete the tutorial, knowledge of the following will be helpful for adapting this tutorial to

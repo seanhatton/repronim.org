@@ -5,6 +5,7 @@
 {{ $useList := .Get "uselist" | default false }}
 {{ $showExcerpt := .Get "showexcerpt" | default false }}
 {{ $stripTitlePrefix := .Get "striptitleprefix" | default "" }}
+{{ $numEntries := .Get "numentries" | default 10 }}
 
 <div id="{{ $elementId }}">
 See <a href="{{ $linkUrl }}">our {{ $linkText }}</a>.
@@ -63,7 +64,7 @@ See <a href="{{ $linkUrl }}">our {{ $linkText }}</a>.
     }
 
     // limit list length with paginated request with category filter
-    req.open("GET", "https://public-api.wordpress.com/wp/v2/sites/repronim.wordpress.com/posts?categories={{ $category }}&per_page=10", true);
+    req.open("GET", "https://public-api.wordpress.com/wp/v2/sites/repronim.wordpress.com/posts?categories={{ $category }}&per_page={{ $numEntries }}", true);
     req.send();
 })();
 </script>

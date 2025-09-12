@@ -166,7 +166,7 @@ datalad containers-run \
         '{inputs}' '{outputs}' participant group --participant-label 02 -w workdir
 ```
 
-Note that this step can take between 15 and 30 minutes to complete.
+Note that this step can take between 15 and 20 minutes to complete.
 
 If everything worked as expected, we will now see our new analysis, and
 a commit message of how it was obtained! All of this is contained within

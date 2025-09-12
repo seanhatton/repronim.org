@@ -14,6 +14,7 @@ weight: 40
     linkurl="https://repronim.wordpress.com/category/news/" 
     linktext="news" 
     numentries="10"
+    apibase="https://public-api.wordpress.com/wp/v2/sites/repronim.wordpress.com"
 >}}
 
 ## Science Highlights
@@ -28,4 +29,5 @@ weight: 40
     showexcerpt="true" 
     striptitleprefix="Science Highlight"
     numentries="10"
+    apibase="https://public-api.wordpress.com/wp/v2/sites/repronim.wordpress.com"
 >}}

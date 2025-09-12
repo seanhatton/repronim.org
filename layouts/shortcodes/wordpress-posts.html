@@ -66,7 +66,7 @@ See <a href="{{ $linkUrl }}">our {{ $linkText }}</a>.
     }
 
     // limit list length with paginated request with category filter
-    req.open("GET", "https://public-api.wordpress.com/wp/v2/sites/repronim.wordpress.com/posts?categories={{ $category }}&per_page={{ $numEntries }}", true);
+    req.open("GET", "{{ $apiBase }}/posts?categories={{ $category }}&per_page={{ $numEntries }}", true);
     req.send();
 })();
 </script>

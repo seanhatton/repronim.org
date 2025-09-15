@@ -6,7 +6,7 @@ weight: 5
 
 [**Reproducible neuroimaging principles**](/about/principles/#repronims-four-core-principles)**: Software management: Use containers when reasonable**
 
-[**Actions**](https://repronim.netlify.app/about/principles/#repronims-four-core-actions)**:  Use of containers**
+[**Actions**](/about/principles/#repronims-four-core-actions)**:  Use of containers**
 
 **Tools:** [Docker](https://docs.docker.com/), [Neurodocker](/resources/tools/neurodocker/)
 

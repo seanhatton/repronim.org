@@ -4,7 +4,7 @@ type: docs
 weight: 5
 ---
 
-[**Reproducible neuroimaging principles**](/about/principles/#repronims-four-core-principles)**: 3f: Software management: Use containers when reasonable**
+[**Reproducible neuroimaging principles**](/about/principles/#repronims-four-core-principles)**: Software management: Use containers when reasonable**
 
 [**Actions**](https://repronim.netlify.app/about/principles/#repronims-four-core-actions)**:  Use of containers**
 
@@ -91,7 +91,7 @@ neurodocker --help
 Equivalent command if you run the container.
 
 ```
-docker run -rm repronim/neurodocker --help
+docker run --rm repronim/neurodocker --help
 ```
 
 #### **Step 2: Generating Dockerfile using Neurodocker**
@@ -157,7 +157,7 @@ If you want to use Singularity, you’ll need to create a Singularity image.
 This can be done in two ways: either by converting an existing Docker image or by creating a Singularity recipe file and building the image directly from it.
 
 As mentioned earlier, Neurodocker can also assist with generating a Singularity recipe.
-To do this, simply run `neurodocker generate singularity`, you should run `neurodocker generate docker`, e.g.:
+To do this, simply run `neurodocker generate singularity`, e.g.:
 
 ```
 neurodocker generate singularity \

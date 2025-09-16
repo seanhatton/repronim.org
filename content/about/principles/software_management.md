@@ -99,10 +99,6 @@ Annotations also serve as a form of scientific provenance, connecting analysis s
 This creates an auditable trail for scientific decisions and facilitates troubleshooting and debugging.
 They lower the barrier to entry for new researchers by providing contextual information that might otherwise require extensive domain expertise or direct training from the original authors.
 
-***ReproNim resources***:
-  * ReproNim provides [annotation wrapper software](https://repronim.org/resources/tools/#additional-associated-tools) for many common tools (such as FreeSurfer, SPM, FSL, ANTS, etc.)
-  * If you are developing your own software (or using software that does not have an annotation wrapper) ReproNim provides support for building such wrappers for your applications (and to share with others using your applications!).
-
 **3f. Use containers where reasonable**
 
 A container is a lightweight, standalone, executable software package that includes everything needed to run an application: code, runtime, system tools, system libraries, and settings.

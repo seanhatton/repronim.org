@@ -11,7 +11,7 @@ weight: 5
 
 **Standards**: [BIDS](/resources/tools/bids/), [NIDM](/resources/tools/nidm/).
 
-**Tools**: [PyNIDM](/resources/tools/pynidm/index.html), [segstats_jsonld](https://github.com/ReproNim/segstats_jsonld).
+**Tools**: [PyNIDM](/resources/tools/pynidm/), [segstats_jsonld](https://github.com/ReproNim/segstats_jsonld).
 
 ## Challenge
 [FreeSurfer](https://surfer.nmr.mgh.harvard.edu/) is a software package designed to process, analyze, and visualize magnetic resonance (MR) images of the human brain. FreeSurfer produces cortical and subcortical anatomical maps based on human brain atlases. We want to link the neuroanatomical labels (e.g. stg_thick_l) to concepts (e.g. a label of "Left Superior Temporal Gyrus" and a measurement of thickness). NIDM makes data more meaningful and easier to interpret by both humans and machines by incorporating standardized vocabularies and defining the connections between data elements, leveraging knowledge from community ontologies. Here we annotate the FreeSurfer results for the left cortical map, right cortical map and bilateral subcortical map. In the process we join the FreeSurfer results with the [BIDS/demographic data dictionary](/resources/tutorials/data-dictionary/). 

@@ -74,7 +74,7 @@ Below, we reproduce the template from the [Data Management and Sharing Plan Form
 
 - ReproNim recommends the following repositories for MRI data:
     - **[OpenNeuro](https://openneuro.org/)** for open sharing of MRI data.  The use of ReproNim tools, principles and best practices makes public sharing of data (as well as code and workflows) via OpenNeuro efficient as the data will already be compliant with OpenNeuro requirements.
-    - **ReproLake** for harmonized standards-compliant subject level metadata.  ReproLake is maintained by ReproNim and its data is available for query by NeuroBagel.
+    - [**ReproLake**](/resources/tools/reprolake/) for harmonized standards-compliant subject level metadata.  ReproLake is maintained by ReproNim and its data is available for query by NeuroBagel.
     - **[NIMH Data Archive (NDA)](https://nda.nih.gov/) or [FITBIR](https://fitbir.nih.gov/)** for data that requires access control.  Data in BIDS can be converted to NDA format using the [bids2nda](https://github.com/bids-standard/bids2nda) script.
 
 **B. How scientific data will be findable and identifiable**

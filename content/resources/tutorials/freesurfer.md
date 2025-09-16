@@ -40,7 +40,7 @@ conda activate repro
 ```
 git clone https://github.com/ReproNim/segstats_jsonld.git
 cd segstats_jsonld
-pip install -e 
+pip install -e .
 ```
 
 ### Step 3: Annotate FreeSurfer results

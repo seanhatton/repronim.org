@@ -113,8 +113,8 @@ Containers are vital for reproducible neuroimaging because they:
 
 **ReproNim resources**:
   * Tutorial: [Create and maintain reproducible computational environments](https://www.repronim.org/module-dataprocessing/04-containers/)
-  * [Neurodocker](https://repronim.netlify.app/resources/tools/neurodocker/): a command line program for generating Dockerfiles and Singularity recipes for neuroimaging software
-  * Tutorial:  [Advanced containerization using DataLad](https://repronim.netlify.app/resources/tutorials/repronim-containers/).
+  * [Neurodocker](/resources/tools/neurodocker/): a command line program for generating Dockerfiles and Singularity recipes for neuroimaging software
+  * Tutorial:  [Advanced containerization using DataLad](/resources/tutorials/repronim-containers/).
     Shows how to use datalad run with repronim-containers to preserve the provenance of exactly what software versions were used and how, leaving a detailed trail for future work.
 
 **Other resources**:

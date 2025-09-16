@@ -5,6 +5,8 @@ type: docs
 
 Contact us at info@repronim.org.
 
+Report an issue or feature request via [GitHub](https://github.com/ReproNim/repronim.org/issues)
+
 ## What we provide
 
 ### Usage guidelines for individual tools

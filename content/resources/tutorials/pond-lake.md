@@ -57,22 +57,33 @@ cp template.env .env
 cp local_nb_nodes.template.json local_nb_nodes.json
 ```
 
-Replace the placeholder value for NB_API_QUERY_URL in the .env file (near line 65) with the address of the machine you are going to deploy Neurobagel on.
+In the .env file replace the placeholder value for NB_API_QUERY_URL (near line 65) with the address of the machine you are going to deploy Neurobagel on.
 
 ```
-NB_API_QUERY_URL=[http://XX.XX.XX.XX](http://XX.XX.XX.XX)
+NB_API_QUERY_URL=https://XX.XX.XX.XX
 ```
 
-If you are deploying Neurobagel for the local computer use: NB_API_QUERY_URL=http://localhost:8080 where :8080 is the default port for the federation API. Please refer to our detailed documentation for a complete overview of configuration options.
+If you are deploying Neurobagel for the local computer use: NB_API_QUERY_URL=https://localhost:8080 where :8080 is the default port for the federation API. For non-local implementations enter the IP address. Note: specify the protcol (i.e. https://). Please refer to the [detailed documentation for a complete overview of configuration options](https://neurobagel.org/user_guide/getting_started/).
 
 ```
-NB_API_QUERY_URL=localhost:8080
+NB_API_QUERY_URL=https://localhost:8080
 ```
 
-Edit the LOCAL_GRAPH_DATA section of the .env file (near line 28) to list the folder location of the graph data. This is the location to place your nidm.ttl files.
+In the .env file edit the LOCAL_GRAPH_DATA section (near line 28) to list the folder location of the graph data. This is the location to place your nidm.ttl files.
 
 ```
 LOCAL_GRAPH_DATA=/home/user/Desktop/project_data
+```
+
+In the local_nb_nodes.json file specify a name for the local node and address:
+
+```
+[
+  {
+    "NodeName": "My Institute",
+    "ApiURL": "https://neurobagel.myinstitute.edu",
+  }
+]
 ```
 
 In the terminal window still in the recipes directory launch the docker by entering:
@@ -105,7 +116,7 @@ For full details of profiles and environmental variables at https://neurobagel.o
 
 ### Step 2: Use Neurobagel for cross-study queries
 
-Multiple local nodes (ReproPond) and public nodes (ReproLake).
+In this example multiple local nodes (ReproPond) and public nodes (ReproLake) are shown.
 
 In a web browser access your own query tool at http://localhost:3000
 

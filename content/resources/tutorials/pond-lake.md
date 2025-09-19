@@ -75,13 +75,22 @@ In the .env file edit the LOCAL_GRAPH_DATA section (near line 28) to list the fo
 LOCAL_GRAPH_DATA=/home/user/Desktop/project_data
 ```
 
-In the local_nb_nodes.json file specify a name for the local node and address:
+In the local_nb_nodes.json file specify a name for the local node and address (:
 
 ```
 [
   {
-    "NodeName": "My Institute",
-    "ApiURL": "https://neurobagel.myinstitute.edu"
+    "NodeName": "My Datapond",
+    "ApiURL": "https://local_ip_address"
+  }
+]
+```
+e.g.
+```
+[
+  {
+    "NodeName": "ReproPond",
+    "ApiURL": "https://XX.XX.XX.XX"
   }
 ]
 ```

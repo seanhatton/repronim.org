@@ -80,8 +80,17 @@ In the local_nb_nodes.json file specify a name for the local node and address:
 ```
 [
   {
-    "NodeName": "My Institute",
-    "ApiURL": "https://neurobagel.myinstitute.edu"
+    "NodeName": "My Datapond",
+    "ApiURL": "https://local_ip_address"
+  }
+]
+```
+e.g.
+```
+[
+  {
+    "NodeName": "Datapond",
+    "ApiURL": "https://XX.XX.XX.XX"
   }
 ]
 ```
